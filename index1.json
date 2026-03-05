@@ -1,4 +1,640 @@
 [
+    {
+    "title": "Montfort School Chabua",
+    "url": "https://www.montfortchabua.in",
+    "description": "Montfort School Chabua located in India Assam Dibrugarh Chabua.",
+    "keywords": ["montfort", "chabua", "school", "education", "advertising", "wi-fi", "software", "worst", "interest", "teaching"]
+  },
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "description": "Google is a multinational technology company specializing in Internet-related services and products. These include online advertising technologies, a search engine, cloud computing, software, and hardware.",
+    "keywords": ["google", "search engine", "technology", "internet", "advertising", "cloud computing", "software", "ai", "android", "youtube"]
+  },
+  {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "description": "Microsoft is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers.",
+    "keywords": ["microsoft", "windows", "office", "azure", "cloud", "software", "technology", "linkedin", "skype", "xbox"]
+  },
+  {
+    "title": "Cloudflare",
+    "url": "https://www.cloudflare.com",
+    "description": "Cloudflare is a global cloud connectivity and security company. Its network sits between a company's infrastructure and its users, protecting it from attacks and improving performance.",
+    "keywords": ["cloudflare", "cdn", "dns", "web security", "ddos protection", "internet", "performance", "edge computing", "ssl", "zero trust"]
+  },
+  {
+    "title": "Apple",
+    "url": "https://www.apple.com",
+    "description": "Apple Inc. designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories and sells a variety of related services. Its well-known products include the iPhone, Mac, iPad, Apple Watch, and AirPods.",
+    "keywords": ["apple", "iphone", "mac", "ipad", "ios", "macos", "technology", "hardware", "wearables", "services"]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "YouTube is an American online video sharing and social media platform owned by Google. It is the second most visited website in the world, where users can watch, like, share, comment and upload their own videos.",
+    "keywords": ["youtube", "video", "streaming", "google", "entertainment", "music", "vlog", "content", "platform", "media"]
+  },
+  {
+    "title": "Yandex",
+    "url": "https://yandex.com",
+    "description": "Yandex is a Russian multinational technology corporation providing Internet-related products and services, including the most used search engine in Russia. It also offers a wide range of services like maps, translation, music streaming, and ride-hailing.",
+    "keywords": ["yandex", "search engine", "russia", "technology", "maps", "translate", "music streaming", "cloud", "ai", "e-commerce"]
+  },
+  {
+    "title": "Instagram",
+    "url": "https://www.instagram.com",
+    "description": "Instagram is a photo and video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging.",
+    "keywords": ["instagram", "social media", "photo sharing", "video", "meta", "messaging", "stories", "reels", "hashtags", "influencer"]
+  },
+  {
+    "title": "Akamai",
+    "url": "https://www.akamai.com",
+    "description": "Akamai Technologies is a global content delivery network (CDN), cybersecurity, and cloud service company. It provides web and Internet security, streaming media delivery, and performance solutions.",
+    "keywords": ["akamai", "cdn", "cybersecurity", "cloud", "web performance", "ddos protection", "streaming", "edge computing", "internet", "security"]
+  },
+  {
+    "title": "Office",
+    "url": "https://www.office.com",
+    "description": "Office.com is the online portal for Microsoft 365, providing access to cloud-based versions of Microsoft's productivity apps like Word, Excel, and PowerPoint, along with other collaboration tools.",
+    "keywords": ["microsoft 365", "office", "word", "excel", "powerpoint", "cloud", "productivity", "collaboration", "onedrive", "teams"]
+  },
+  {
+    "title": "Twitter (X)",
+    "url": "https://twitter.com",
+    "description": "Twitter, now rebranded as X, is a social media platform where users post and interact with messages known as 'tweets'. It is a platform for real-time news, discussion, and public conversation.",
+    "keywords": ["twitter", "x", "social media", "microblogging", "news", "real-time", "elon musk", "tweet", "platform", "messaging"]
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "description": "LinkedIn is a business and employment-focused social media platform that operates via websites and mobile apps. It is primarily used for professional networking, career development, and job searching.",
+    "keywords": ["linkedin", "professional network", "jobs", "career", "business", "social media", "recruiting", "employment", "microsoft", "networking"]
+  },
+  {
+    "title": "Live",
+    "url": "https://www.live.com",
+    "description": "Live.com is a domain used by Microsoft for several of its consumer services, historically for Outlook.com (formerly Hotmail) and as a portal for various Microsoft accounts and services.",
+    "keywords": ["microsoft", "live", "outlook", "hotmail", "email", "microsoft account", "portal", "cloud", "services", "login"]
+  },
+  {
+    "title": "Amazon",
+    "url": "https://www.amazon.com",
+    "description": "Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It is one of the world's most valuable brands.",
+    "keywords": ["amazon", "e-commerce", "aws", "cloud", "online shopping", "retail", "prime", "streaming", "alexa", "technology"]
+  },
+  {
+    "title": "Azure",
+    "url": "https://azure.microsoft.com",
+    "description": "Microsoft Azure is a cloud computing platform offering a wide range of services including computing, analytics, storage, and networking. Users can build, deploy, and manage applications and services through Microsoft-managed data centers.",
+    "keywords": ["azure", "microsoft", "cloud", "cloud computing", "iaas", "paas", "saas", "virtual machines", "devops", "enterprise"]
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://www.wikipedia.org",
+    "description": "Wikipedia is a free, multilingual online encyclopedia written and maintained by a community of volunteer contributors through a model of open collaboration. It is one of the most popular reference websites in the world.",
+    "keywords": ["wikipedia", "encyclopedia", "wiki", "free knowledge", "reference", "information", "open source", "collaborative", "research", "online"]
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "description": "GitHub is a developer platform that allows developers to host and review code, manage projects, and build software. It uses Git for version control and is the world's largest source code host.",
+    "keywords": ["github", "git", "coding", "software development", "repository", "open source", "version control", "microsoft", "collaboration", "developers"]
+  },
+  {
+    "title": "Bing",
+    "url": "https://www.bing.com",
+    "description": "Bing is a web search engine owned and operated by Microsoft. It provides a standard web search service, as well as specialized searches for images, videos, news, and maps.",
+    "keywords": ["bing", "search engine", "microsoft", "web search", "image search", "video search", "maps", "news", "ai", "copilot"]
+  },
+  {
+    "title": "Netflix",
+    "url": "https://www.netflix.com",
+    "description": "Netflix is a subscription-based streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+    "keywords": ["netflix", "streaming", "movies", "tv shows", "entertainment", "video on demand", "subscription", "original content", "watch", "binge"]
+  },
+  {
+    "title": "WordPress",
+    "url": "https://wordpress.org",
+    "description": "WordPress.org is the home of the open-source WordPress content management system (CMS). It is used by millions to create websites, blogs, or apps, and offers thousands of plugins and themes.",
+    "keywords": ["wordpress", "cms", "blogging", "website builder", "open source", "php", "themes", "plugins", "web development", "content management"]
+  },
+  {
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "description": "Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more. Users can save images and videos (pins) to collections (boards) to organize projects and interests.",
+    "keywords": ["pinterest", "social media", "visual discovery", "ideas", "inspiration", "diy", "recipes", "fashion", "home decor", "boards"]
+  },
+  {
+    "title": "Yahoo!",
+    "url": "https://www.yahoo.com",
+    "description": "Yahoo is a web services provider, known for its web portal, search engine (Yahoo Search), and related services including Yahoo News, Yahoo Finance, Yahoo Sports, and its email platform, Yahoo Mail.",
+    "keywords": ["yahoo", "web portal", "search", "news", "finance", "sports", "email", "yahoo mail", "internet", "media"]
+  },
+  {
+    "title": "WhatsApp",
+    "url": "https://www.whatsapp.com",
+    "description": "WhatsApp is a free, cross-platform messaging and Voice over IP (VoIP) service owned by Meta Platforms. It allows users to send text messages, voice messages, make voice and video calls, and share images, documents, and other media.",
+    "keywords": ["whatsapp", "messaging", "meta", "chat", "voip", "video call", "communication", "encrypted", "mobile app", "social"]
+  },
+  {
+    "title": "Skype",
+    "url": "https://www.skype.com",
+    "description": "Skype is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet.",
+    "keywords": ["skype", "microsoft", "video call", "voip", "messaging", "communication", "conferencing", "chat", "online meeting", "calls"]
+  },
+  {
+    "title": "Spotify",
+    "url": "https://www.spotify.com",
+    "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. It is one of the world's largest music streaming service providers.",
+    "keywords": ["spotify", "music streaming", "podcast", "audio", "playlist", "sweden", "entertainment", "digital music", "listen", "discover"]
+  },
+  {
+    "title": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "TikTok is a short-form video hosting service owned by the Chinese company ByteDance. It hosts a variety of user-submitted videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment.",
+    "keywords": ["tiktok", "short video", "social media", "bytedance", "entertainment", "viral", "dance", "music", "challenge", "app"]
+  },
+  {
+    "title": "Vimeo",
+    "url": "https://vimeo.com",
+    "description": "Vimeo is a video hosting, sharing, and services platform. It is known for its high-quality video player, privacy tools, and a community of creative professionals, making it popular for filmmakers and artists.",
+    "keywords": ["vimeo", "video hosting", "video platform", "creative", "filmmaking", "streaming", "professional", "high quality", "video player", "artists"]
+  },
+  {
+    "title": "Roblox",
+    "url": "https://www.roblox.com",
+    "description": "Roblox is an online game platform and game creation system that allows users to program games and play games created by other users. It is one of the most popular online entertainment platforms for kids and teens.",
+    "keywords": ["roblox", "gaming", "game platform", "online game", "kids", "creation", "metaverse", "multiplayer", "user-generated", "entertainment"]
+  },
+  {
+    "title": "Zoom",
+    "url": "https://zoom.us",
+    "description": "Zoom is a communications technology company that provides videotelephony and online chat services through a cloud-based peer-to-peer software platform. It became widely used for remote work, teleconferencing, and distance education.",
+    "keywords": ["zoom", "video conferencing", "remote work", "meetings", "webinar", "collaboration", "online", "chat", "cloud", "communication"]
+  },
+  {
+    "title": "Nginx",
+    "url": "https://nginx.org",
+    "description": "nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev. It is known for its high performance, stability, simple configuration, and low resource consumption.",
+    "keywords": ["nginx", "web server", "reverse proxy", "load balancer", "http server", "open source", "performance", "configuration", "igor sysoev", "proxy"]
+  },
+  {
+    "title": "Opera",
+    "url": "https://www.opera.com",
+    "description": "Opera is a multi-platform web browser developed by its namesake company Opera. It is known for featuring a built-in ad blocker, free VPN, and battery saver, distinguishing it from other major browsers.",
+    "keywords": ["opera", "web browser", "browser", "vpn", "ad blocker", "internet", "software", "norway", "cross-platform", "gaming browser"]
+  },
+  {
+    "title": "Baidu",
+    "url": "https://www.baidu.com",
+    "description": "Baidu is the leading Chinese-language Internet search provider. It offers a wide range of services and products including a search engine, maps, Baidu Baike (an online encyclopedia), and cloud storage.",
+    "keywords": ["baidu", "search engine", "china", "technology", "internet", "ai", "maps", "cloud", "baidu baike", "chinese"]
+  },
+  {
+    "title": "Samsung",
+    "url": "https://www.samsung.com",
+    "description": "Samsung is a South Korean multinational manufacturing conglomerate. Its flagship subsidiary, Samsung Electronics, is a world leader in the production of consumer electronics, including smartphones (Galaxy), televisions, and semiconductors.",
+    "keywords": ["samsung", "electronics", "smartphone", "galaxy", "tv", "south korea", "technology", "semiconductor", "appliances", "oled"]
+  },
+  {
+    "title": "Mozilla",
+    "url": "https://www.mozilla.org",
+    "description": "Mozilla is a free-software community, best known for its Firefox web browser. It promotes openness, innovation, and opportunity on the web through its non-profit foundation and its for-profit subsidiary.",
+    "keywords": ["mozilla", "firefox", "web browser", "open source", "non-profit", "internet", "privacy", "foundation", "software", "digital rights"]
+  },
+  {
+    "title": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Reddit is a social news aggregation, content rating, and discussion website. Registered members submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members.",
+    "keywords": ["reddit", "social media", "forum", "news", "discussion", "community", "subreddit", "online community", "aggregator", "front page of the internet"]
+  },
+  {
+    "title": "Unity",
+    "url": "https://unity.com",
+    "description": "Unity is a cross-platform game engine developed by Unity Technologies. It is used to create video games for PC, consoles, mobile devices, and websites, and is also popular for augmented and virtual reality applications.",
+    "keywords": ["unity", "game engine", "game development", "3d", "2d", "software", "vr", "ar", "real-time", "cross-platform"]
+  },
+  {
+    "title": "PayPal",
+    "url": "https://www.paypal.com",
+    "description": "PayPal is an American multinational financial technology company operating an online payments system in the majority of countries that support online money transfers. It serves as an electronic alternative to traditional paper methods like checks and money orders.",
+    "keywords": ["paypal", "online payments", "fintech", "money transfer", "digital wallet", "e-commerce", "payment gateway", "venmo", "credit card", "banking"]
+  },
+  {
+    "title": "VK",
+    "url": "https://vk.com",
+    "description": "VK (short for VKontakte) is a Russian online social media and social networking service. It is the most popular website in Russia and is available in multiple languages, used for messaging, sharing media, and community building.",
+    "keywords": ["vk", "vkontakte", "social media", "russia", "messaging", "network", "online community", "music", "video", "platform"]
+  },
+  {
+    "title": "Telegram",
+    "url": "https://telegram.org",
+    "description": "Telegram is a freeware, cross-platform, cloud-based instant messaging service. The client apps are available for mobile and desktop systems. It is known for its focus on security and speed, with features like secret chats and channels.",
+    "keywords": ["telegram", "messaging", "cloud-based", "encryption", "secure", "channels", "bots", "instant messaging", "voip", "privacy"]
+  },
+  {
+    "title": "Snapchat",
+    "url": "https://www.snapchat.com",
+    "description": "Snapchat is a multimedia messaging app developed by Snap Inc. The app is known for its core functionality that lets users take pictures and record videos, add filters and effects, and send them to a controlled list of recipients.",
+    "keywords": ["snapchat", "snap", "messaging", "social media", "filters", "lenses", "augmented reality", "disappearing messages", "video", "stories"]
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.com",
+    "description": "Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called 'servers'.",
+    "keywords": ["discord", "voip", "gaming", "chat", "community", "server", "voice chat", "video call", "messaging", "social"]
+  },
+  {
+    "title": "Dropbox",
+    "url": "https://www.dropbox.com",
+    "description": "Dropbox is a file hosting service operated by Dropbox, Inc., that offers cloud storage, file synchronization, personal cloud, and client software. It allows users to create a special folder on their computers, which Dropbox then syncs so that it appears to be the same folder regardless of which computer is used to view it.",
+    "keywords": ["dropbox", "cloud storage", "file sync", "file sharing", "collaboration", "backup", "online storage", "productivity", "team", "sync"]
+  },
+  {
+    "title": "Outlook",
+    "url": "https://outlook.live.com",
+    "description": "Outlook.com is a personal information manager web app from Microsoft, consisting of webmail, calendaring, contacts, and tasks services. It is the successor to Hotmail.",
+    "keywords": ["outlook", "microsoft", "email", "hotmail", "calendar", "contacts", "webmail", "messaging", "office 365", "personal information manager"]
+  },
+  {
+    "title": "X (Twitter) - Short URL",
+    "url": "https://t.co",
+    "description": "t.co is a URL shortening service created by Twitter (now X). It is used to automatically shorten all links shared on the platform for tracking purposes and to keep tweets within the character limit.",
+    "keywords": ["t.co", "twitter", "x", "url shortener", "link shortener", "social media", "redirect", "tracking", "links", "platform"]
+  },
+  {
+    "title": "The Guardian",
+    "url": "https://www.theguardian.com",
+    "description": "The Guardian is a British daily newspaper. It is known for its progressive and liberal political stance, and its website is one of the most popular English-language news websites in the world.",
+    "keywords": ["the guardian", "news", "uk", "newspaper", "journalism", "media", "politics", "world news", "opinion", "culture"]
+  },
+  {
+    "title": "MIT",
+    "url": "https://web.mit.edu",
+    "description": "The Massachusetts Institute of Technology (MIT) is a private land-grant research university in Cambridge, Massachusetts. It is globally recognized for its leadership in science, technology, engineering, and mathematics (STEM).",
+    "keywords": ["mit", "university", "research", "stem", "technology", "engineering", "science", "education", "cambridge", "academia"]
+  },
+  {
+    "title": "ScienceDirect",
+    "url": "https://www.sciencedirect.com",
+    "description": "ScienceDirect is a website which provides subscription-based access to a large database of scientific and medical research. It hosts over 18 million pieces of content from thousands of academic journals.",
+    "keywords": ["sciencedirect", "elsevier", "academic research", "scientific journal", "database", "research papers", "medicine", "science", "subscription", "publishing"]
+  },
+  {
+    "title": "Comcast",
+    "url": "https://www.comcast.com",
+    "description": "Comcast Corporation is a global media and technology company. It is one of the nation's largest providers of residential and business services including video, internet, and voice, and is a major force in entertainment through its NBCUniversal subsidiary.",
+    "keywords": ["comcast", "isp", "internet", "cable", "telecommunications", "media", "nbcuniversal", "xfinity", "tv", "broadband"]
+  },
+  {
+    "title": "Cisco",
+    "url": "https://www.cisco.com",
+    "description": "Cisco Systems is an American multinational technology conglomerate. It develops, manufactures, and sells networking hardware, software, telecommunications equipment, and other high-technology services and products.",
+    "keywords": ["cisco", "networking", "hardware", "software", "router", "switch", "technology", "security", "internet", "enterprise"]
+  },
+  {
+    "title": "eBay",
+    "url": "https://www.ebay.com",
+    "description": "eBay is an American multinational e-commerce corporation based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website. It is a global leader in online auctions and shopping.",
+    "keywords": ["ebay", "e-commerce", "auction", "online shopping", "marketplace", "retail", "buy", "sell", "bidding", "collectibles"]
+  },
+  {
+    "title": "Canva",
+    "url": "https://www.canva.com",
+    "description": "Canva is an Australian graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. It offers a drag-and-drop interface and provides access to a vast library of photographs, vector images, graphics, and fonts.",
+    "keywords": ["canva", "graphic design", "design tool", "template", "presentation", "social media graphics", "online design", "drag and drop", "visual content", "creativity"]
+  },
+  {
+    "title": "IMDb",
+    "url": "https://www.imdb.com",
+    "description": "IMDb (Internet Movie Database) is an online database of information related to films, television series, home videos, video games, and streaming content online – including cast, production crew, personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
+    "keywords": ["imdb", "movies", "tv shows", "database", "film", "reviews", "ratings", "cast", "entertainment", "amazon"]
+  },
+  {
+    "title": "Android",
+    "url": "https://www.android.com",
+    "description": "Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. It is developed by Google.",
+    "keywords": ["android", "google", "mobile os", "smartphone", "operating system", "apps", "play store", "tablet", "software", "technology"]
+  },
+  {
+    "title": "HubSpot",
+    "url": "https://www.hubspot.com",
+    "description": "HubSpot is an American developer and marketer of software products for inbound marketing, sales, and customer service. Its platform provides tools for social media marketing, content management, web analytics, landing pages, and customer support.",
+    "keywords": ["hubspot", "crm", "marketing", "sales", "inbound marketing", "software", "automation", "customer service", "analytics", "platform"]
+  },
+  {
+    "title": "Salesforce",
+    "url": "https://www.salesforce.com",
+    "description": "Salesforce is a cloud-based software company that provides customer relationship management (CRM) service and also provides a suite of enterprise applications focused on customer service, marketing automation, analytics, and application development.",
+    "keywords": ["salesforce", "crm", "cloud", "software", "customer relationship", "marketing", "sales", "service cloud", "platform", "enterprise"]
+  },
+  {
+    "title": "WHO",
+    "url": "https://www.who.int",
+    "description": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health. Its primary role is to direct and coordinate international health within the United Nations system.",
+    "keywords": ["who", "world health organization", "public health", "united nations", "global health", "disease", "pandemic", "health organization", "international", "medicine"]
+  },
+  {
+    "title": "Yandex",
+    "url": "https://yandex.com",
+    "description": "Yandex is a Russian multinational technology corporation providing Internet-related products and services, including the most used search engine in Russia. It also offers a wide range of services like maps, translation, music streaming, and ride-hailing.",
+    "keywords": ["yandex", "search engine", "russia", "technology", "maps", "translate", "music streaming", "cloud", "ai", "e-commerce"]
+  },
+  {
+    "title": "Stripe",
+    "url": "https://stripe.com",
+    "description": "Stripe is an Irish-American financial services and software as a service (SaaS) company. It offers payment processing software and application programming interfaces (APIs) for e-commerce websites and mobile applications.",
+    "keywords": ["stripe", "payments", "fintech", "api", "online payments", "payment processing", "software", "e-commerce", "financial services", "developer"]
+  },
+  {
+    "title": "HP",
+    "url": "https://www.hp.com",
+    "description": "HP Inc. is an American multinational information technology company that develops personal computers (PCs), printers, and related supplies, as well as 3D printing solutions.",
+    "keywords": ["hp", "hewlett packard", "computers", "laptops", "printers", "technology", "hardware", "pc", "3d printing", "it"]
+  },
+  {
+    "title": "Wikimedia",
+    "url": "https://www.wikimedia.org",
+    "description": "The Wikimedia Foundation is an American non-profit organization that hosts Wikipedia and several other free knowledge projects, including Wiktionary, Wikibooks, and Wikidata.",
+    "keywords": ["wikimedia", "wikipedia", "foundation", "non-profit", "open source", "free knowledge", "wikidata", "wikimedia commons", "collaboration", "projects"]
+  },
+  {
+    "title": "NASA",
+    "url": "https://www.nasa.gov",
+    "description": "The National Aeronautics and Space Administration (NASA) is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and space research.",
+    "keywords": ["nasa", "space", "aerospace", "science", "research", "astronomy", "united states", "astronaut", "exploration", "rocket"]
+  },
+  {
+    "title": "Springer",
+    "url": "https://link.springer.com",
+    "description": "SpringerLink is an online collection of scientific, technological and medical journals, books, and reference works published by Springer Science+Business Media. It is a leading global academic publisher.",
+    "keywords": ["springer", "academic publishing", "scientific journal", "research", "books", "online library", "science", "technology", "medicine", "springerlink"]
+  },
+  {
+    "title": "Reuters",
+    "url": "https://www.reuters.com",
+    "description": "Reuters is an international news agency headquartered in London, United Kingdom. It is one of the largest and most trusted news agencies in the world, providing news to thousands of outlets.",
+    "keywords": ["reuters", "news", "news agency", "journalism", "international", "media", "world news", "business news", "thomson reuters", "reporting"]
+  },
+  {
+    "title": "Alibaba",
+    "url": "https://www.alibaba.com",
+    "description": "Alibaba.com is a leading platform for global wholesale trade. It is a flagship company of the Alibaba Group, connecting millions of buyers and suppliers from around the world, particularly for B2B e-commerce.",
+    "keywords": ["alibaba", "e-commerce", "b2b", "wholesale", "china", "trade", "marketplace", "suppliers", "global trade", "alibaba group"]
+  },
+  {
+    "title": "Weebly",
+    "url": "https://www.weebly.com",
+    "description": "Weebly is a web-hosting service and website builder, acquired by Square. It features a drag-and-drop website builder, letting users create professional-looking websites without needing any coding knowledge.",
+    "keywords": ["weebly", "website builder", "web hosting", "drag and drop", "square", "e-commerce", "templates", "small business", "blog", "site creator"]
+  },
+  {
+    "title": "Booking.com",
+    "url": "https://www.booking.com",
+    "description": "Booking.com is a travel fare aggregator website and travel metasearch engine for lodging reservations. It is one of the largest travel e-commerce companies in the world and is owned by Booking Holdings.",
+    "keywords": ["booking.com", "travel", "hotels", "accommodation", "reservations", "booking", "vacation rentals", "tourism", "travel planning", "flights"]
+  },
+  {
+    "title": "Harvard University",
+    "url": "https://www.harvard.edu",
+    "description": "Harvard University is a private Ivy League research university in Cambridge, Massachusetts. Established in 1636, it is the oldest institution of higher learning in the United States and is considered one of the most prestigious universities in the world.",
+    "keywords": ["harvard", "university", "ivy league", "education", "cambridge", "research", "academia", "higher education", "college", "prestigious"]
+  },
+  {
+    "title": "TradingView",
+    "url": "https://www.tradingview.com",
+    "description": "TradingView is a social network for traders and investors on Forex, Futures and Stock Markets. It provides real-time data, charts, and tools for technical analysis, along with a community for sharing trading ideas.",
+    "keywords": ["tradingview", "trading", "stocks", "forex", "charts", "technical analysis", "finance", "investing", "market data", "social network"]
+  },
+  {
+    "title": "PHP",
+    "url": "https://www.php.net",
+    "description": "PHP is a popular general-purpose scripting language that is especially suited to web development. It was originally created by Rasmus Lerdorf in 1994 and is used by millions of websites.",
+    "keywords": ["php", "programming language", "web development", "scripting", "server-side", "open source", "laravel", "wordpress", "dynamic web pages", "developer"]
+  },
+  {
+    "title": "Slack",
+    "url": "https://slack.com",
+    "description": "Slack is a business communication platform developed by Slack Technologies, which is now part of Salesforce. It offers many proprietary IRC-style features, including persistent chat rooms (channels) organized by topic, private groups, and direct messaging.",
+    "keywords": ["slack", "communication", "collaboration", "teamwork", "chat", "channels", "messaging", "salesforce", "productivity", "business tool"]
+  },
+  {
+    "title": "Nature",
+    "url": "https://www.nature.com",
+    "description": "Nature is a British weekly scientific journal founded and based in London. It is one of the world's most cited and most prestigious scientific journals, with a focus on publishing peer-reviewed research from a variety of academic disciplines.",
+    "keywords": ["nature", "scientific journal", "research", "science", "publication", "peer-reviewed", "academic", "biology", "physics", "chemistry"]
+  },
+  {
+    "title": "Debian",
+    "url": "https://www.debian.org",
+    "description": "Debian is a free and open-source Linux distribution, developed by the Debian Project. It is known for its stability and is the base for many other distributions, including Ubuntu.",
+    "keywords": ["debian", "linux", "operating system", "open source", "distribution", "free software", "gnu/linux", "stable", "ubuntu", "server"]
+  },
+  {
+    "title": "Weibo",
+    "url": "https://weibo.com",
+    "description": "Weibo is a Chinese microblogging website. Akin to a hybrid of Twitter and Facebook, it is one of the most popular social media platforms in China, with millions of users sharing information, ideas, and comments.",
+    "keywords": ["weibo", "china", "social media", "microblogging", "sina weibo", "twitter", "chinese", "platform", "social network", "trending"]
+  },
+  {
+    "title": "Wiley",
+    "url": "https://www.wiley.com",
+    "description": "John Wiley & Sons, Inc., commonly known as Wiley, is an American multinational publishing company that focuses on academic publishing and instructional materials. It publishes books, journals, and encyclopedias, in print and electronically.",
+    "keywords": ["wiley", "publishing", "academic publishing", "books", "journals", "education", "research", "online library", "instructional materials", "publisher"]
+  },
+  {
+    "title": "OpenDNS",
+    "url": "https://www.opendns.com",
+    "description": "OpenDNS is a company that provides Domain Name System (DNS) resolution services, with features such as phishing protection, content filtering, and DNS lookup. It is owned by Cisco and helps make the internet safer and more reliable.",
+    "keywords": ["opendns", "dns", "cisco", "cybersecurity", "web filtering", "phishing protection", "parental controls", "network security", "dns resolution", "internet safety"]
+  },
+  {
+    "title": "Bilibili",
+    "url": "https://www.bilibili.com",
+    "description": "Bilibili is a Chinese video-sharing website based in Shanghai, themed around animation, comics, and games (ACG). Users can submit, view, and add commentary-subtitles on videos, and it is a leading platform for young Chinese netizens.",
+    "keywords": ["bilibili", "china", "video sharing", "streaming", "anime", "manga", "games", "ACG", "danmaku", "social media"]
+  },
+  {
+    "title": "Mi (Xiaomi)",
+    "url": "https://www.mi.com",
+    "description": "mi.com is the official global website for Xiaomi, a Chinese electronics company. It is one of the world's largest smartphone manufacturers and also makes a wide range of consumer electronics and smart home products.",
+    "keywords": ["xiaomi", "mi", "smartphone", "technology", "china", "electronics", "smart home", "mi band", "android", "consumer electronics"]
+  },
+  {
+    "title": "Check Point",
+    "url": "https://www.checkpoint.com",
+    "description": "Check Point Software Technologies is an American-Israeli multinational provider of software and combined hardware and software products for IT security, including network security, endpoint security, cloud security, and mobile security.",
+    "keywords": ["check point", "cybersecurity", "firewall", "network security", "software", "it security", "endpoint protection", "cloud security", "vpn", "threat prevention"]
+  },
+  {
+    "title": "T-Mobile",
+    "url": "https://www.t-mobile.com",
+    "description": "T-Mobile is a brand name used by some of the mobile communications subsidiaries of the German telecommunications company Deutsche Telekom AG. In the United States, T-Mobile US is a major wireless network operator.",
+    "keywords": ["t-mobile", "telecommunications", "mobile network", "wireless", "5g", "deutsche telekom", "usa", "cellular", "internet", "phone service"]
+  },
+  {
+    "title": "GNU",
+    "url": "https://www.gnu.org",
+    "description": "The GNU Project is a free software, mass collaboration project, launched by Richard Stallman to give computer users freedom and control in their computing. The project's operating system, GNU, is often used with the Linux kernel.",
+    "keywords": ["gnu", "free software", "open source", "linux", "richard stallman", "operating system", "gpl", "fsf", "software freedom", "gnu project"]
+  },
+  {
+    "title": "UN",
+    "url": "https://www.un.org",
+    "description": "The United Nations (UN) is an intergovernmental organization whose stated purposes are to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations.",
+    "keywords": ["un", "united nations", "international", "global", "peace", "security", "human rights", "diplomacy", "organization", "world"]
+  },
+  {
+    "title": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "description": "Bloomberg L.P. is a privately held financial, software, data, and media company. It is one of the world's leading financial news and information services, providing real-time and historical data, news, and analytics.",
+    "keywords": ["bloomberg", "financial news", "business", "markets", "data", "media", "finance", "news", "economics", "terminal"]
+  },
+  {
+    "title": "Dell",
+    "url": "https://www.dell.com",
+    "description": "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services. It is one of the world's largest technology companies.",
+    "keywords": ["dell", "computers", "laptops", "technology", "hardware", "pc", "servers", "it", "monitors", "workstations"]
+  },
+  {
+    "title": "Daily Mail",
+    "url": "https://www.dailymail.co.uk",
+    "description": "The Daily Mail is a British daily middle-market newspaper and news website. It is one of the UK's most popular newspapers, known for its conservative editorial stance and extensive coverage of celebrity news and gossip.",
+    "keywords": ["daily mail", "news", "uk", "newspaper", "british", "media", "celebrity", "gossip", "mail online", "journalism"]
+  },
+  {
+    "title": "Dailymotion",
+    "url": "https://www.dailymotion.com",
+    "description": "Dailymotion is a French video-sharing technology platform owned by Vivendi. It is one of the earliest and largest video streaming sites in the world, allowing users to watch and upload videos.",
+    "keywords": ["dailymotion", "video sharing", "streaming", "france", "vivendi", "video platform", "watch videos", "upload", "online video", "entertainment"]
+  },
+  {
+    "title": "NVIDIA",
+    "url": "https://www.nvidia.com",
+    "description": "NVIDIA is the world leader in artificial intelligence computing. It pioneered accelerated computing to solve challenges no one else can solve. Its work in AI and the metaverse is transforming the world's largest industries.",
+    "keywords": ["nvidia", "gpu", "graphics card", "ai", "artificial intelligence", "geforce", "rtx", "deep learning", "semiconductor", "technology"]
+  },
+  {
+    "title": "Aliyun",
+    "url": "https://www.aliyun.com",
+    "description": "Alibaba Cloud, also known as Aliyun, is the cloud computing arm of Alibaba Group. It provides a comprehensive suite of global cloud computing services to power businesses and organizations worldwide.",
+    "keywords": ["aliyun", "alibaba cloud", "cloud computing", "china", "alibaba", "iaas", "paas", "cloud services", "data center", "hosting"]
+  },
+  {
+    "title": "Temu",
+    "url": "https://www.temu.com",
+    "description": "Temu is an online marketplace owned by the Chinese company PDD Holdings, which also owns Pinduoduo. It connects consumers with a vast network of manufacturers and sellers, offering a wide range of products at highly competitive prices, often directly from factories in China.",
+    "keywords": ["temu", "e-commerce", "online shopping", "marketplace", "china", "discount", "pdd holdings", "retail", "budget", "shop"]
+  },
+  {
+    "title": "Walmart",
+    "url": "https://www.walmart.com",
+    "description": "Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. It is the world's largest company by revenue and the largest private employer in the world.",
+    "keywords": ["walmart", "retail", "supermarket", "e-commerce", "shopping", "department store", "grocery", "usa", "big box", "consumer goods"]
+  },
+  {
+    "title": "Go.com (Disney)",
+    "url": "https://www.go.com",
+    "description": "Go.com is a web portal owned by The Walt Disney Company. It serves as a gateway to various Disney-related websites, including those for Disney Parks, movies, and ABC television.",
+    "keywords": ["disney", "go.com", "portal", "entertainment", "abc", "disney parks", "family", "media", "walt disney", "tv"]
+  },
+  {
+    "title": "ESPN",
+    "url": "https://www.espn.com",
+    "description": "ESPN (originally an acronym for Entertainment and Sports Programming Network) is an American international basic cable sports channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications.",
+    "keywords": ["espn", "sports", "nfl", "nba", "mlb", "ncaa", "sports news", "tv channel", "streaming", "disney", "sports media"]
+  },
+  {
+    "title": "Cornell University",
+    "url": "https://www.cornell.edu",
+    "description": "Cornell University is a private Ivy League and statutory land-grant research university based in Ithaca, New York. It is one of the most prestigious universities in the world, known for its diverse academic programs.",
+    "keywords": ["cornell", "university", "ivy league", "ithaca", "research", "higher education", "academia", "new york", "college", "education"]
+  },
+  {
+    "title": "Unsplash",
+    "url": "https://unsplash.com",
+    "description": "Unsplash is a website dedicated to sharing stock photography under its own custom license. It offers a large collection of high-resolution, freely-usable images contributed by a community of photographers.",
+    "keywords": ["unsplash", "stock photos", "free images", "photography", "royalty-free", "creative commons", "high-resolution", "download", "photographer", "visuals"]
+  },
+  {
+    "title": "Indeed",
+    "url": "https://www.indeed.com",
+    "description": "Indeed is an American worldwide employment website for job listings launched in 2004. It is a subsidiary of Recruit Holdings and operates as a single-topic search engine for job listings, functioning as a meta-search engine across thousands of other websites.",
+    "keywords": ["indeed", "jobs", "career", "employment", "recruitment", "job search", "hiring", "job listings", "work", "job board"]
+  },
+  {
+    "title": "DuckDuckGo",
+    "url": "https://duckduckgo.com",
+    "description": "DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results. It does not track user information.",
+    "keywords": ["duckduckgo", "search engine", "privacy", "anonymous search", "no tracking", "secure", "internet", "browser", "private", "google alternative"]
+  },
+  {
+    "title": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "description": "Duolingo is an American educational technology company that produces a language learning app and website. It offers courses in dozens of languages, using a gamified approach to make learning fun and accessible.",
+    "keywords": ["duolingo", "language learning", "education", "app", "gamification", "learn", "study", "online course", "free", "edtech"]
+  },
+  {
+    "title": "163.com (NetEase)",
+    "url": "https://www.163.com",
+    "description": "163.com is the portal for NetEase, a Chinese internet technology company. It provides a wide range of services including online games, e-mail, e-commerce, music streaming (NetEase Cloud Music), and news.",
+    "keywords": ["netease", "163.com", "china", "internet", "portal", "gaming", "email", "music streaming", "e-commerce", "technology"]
+  },
+  {
+    "title": "GitLab",
+    "url": "https://gitlab.com",
+    "description": "GitLab is a DevOps platform delivered as a single application, making it possible for development, operations, and security teams to work together. It provides Git repository management, issue tracking, and CI/CD pipeline capabilities.",
+    "keywords": ["gitlab", "devops", "git", "ci/cd", "repository", "software development", "version control", "open source", "collaboration", "platform"]
+  },
+  {
+    "title": "Zendesk",
+    "url": "https://www.zendesk.com",
+    "description": "Zendesk is a service-first CRM company that builds software designed to improve customer relationships. It is known for its customer service platform and help desk software, used by businesses to connect with their customers.",
+    "keywords": ["zendesk", "crm", "customer service", "help desk", "support", "ticketing system", "software", "customer experience", "saas", "business tool"]
+  },
+  {
+    "title": "Line",
+    "url": "https://line.me",
+    "description": "LINE is a freeware app for instant communications on electronic devices such as smartphones, tablet computers, and personal computers. It was created by the Japanese company LINE Corporation, and is especially popular in Japan, Taiwan, Thailand, and other parts of Asia.",
+    "keywords": ["line", "messaging", "japan", "social media", "chat", "voip", "stickers", "app", "communication", "line corporation"]
+  },
+  {
+    "title": "AOL",
+    "url": "https://www.aol.com",
+    "description": "AOL (stylized as Aol.) is a brand of Yahoo! Inc. It is a web portal and online service provider, offering a range of digital services including news, entertainment, email (AOL Mail), and advertising.",
+    "keywords": ["aol", "yahoo", "web portal", "email", "aol mail", "news", "entertainment", "internet", "online service", "media"]
+  },
+  {
+    "title": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Quora is a social question-and-answer website where questions are asked, answered, followed, and edited by internet users. It aims to share and grow the world's knowledge.",
+    "keywords": ["quora", "questions and answers", "q&a", "knowledge", "community", "forum", "ask questions", "answers", "information", "social platform"]
+  },
+  {
+    "title": "Pixabay",
+    "url": "https://pixabay.com",
+    "description": "Pixabay is a vibrant community of creatives, sharing royalty-free images, videos, and music. All content is released under the Pixabay License, which makes them safe to use without attribution.",
+    "keywords": ["pixabay", "stock photos", "free images", "royalty-free", "videos", "music", "creative commons", "download", "photography", "graphics"]
+  },
+  {
+    "title": "CNBC",
+    "url": "https://www.cnbc.com",
+    "description": "CNBC is an American pay television business news channel owned by NBCUniversal. It provides business news, financial market coverage, and personal finance advice through its TV channel and website.",
+    "keywords": ["cnbc", "business news", "finance", "stock market", "economy", "nbcuniversal", "tv channel", "investing", "news", "financial"]
+  },
+  {
+    "title": "hCaptcha",
+    "url": "https://www.hcaptcha.com",
+    "description": "hCaptcha is a privacy-focused alternative to Google's reCAPTCHA. It is a human verification tool that protects websites from bots and other automated abuse while also contributing to machine learning data labeling.",
+    "keywords": ["hcaptcha", "captcha", "bot protection", "security", "privacy", "machine learning", "data labeling", "web security", "human verification", "anti-bot"]
+  },
+  {
+    "title": "Goodreads",
+    "url": "https://www.goodreads.com",
+    "description": "Goodreads is a social cataloging website that allows individuals to freely search its database of books, annotations, quotes, and reviews. Users can sign up and register books to generate library catalogs and reading lists.",
+    "keywords": ["goodreads", "books", "reading", "reviews", "amazon", "social cataloging", "book recommendations", "literature", "community", "library"]
+  },
   {
     "title": "National Football League",
     "url": "https://www.nfl.com",
