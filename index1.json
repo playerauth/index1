@@ -1,5 +1,684 @@
 [
   {
+    "title": "Harvard University",
+    "url": "https://www.harvard.edu",
+    "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.",
+    "keywords": ["harvard", "university", "education", "ivy league", "college", "academic", "research"],
+    "image": "https://www.harvard.edu/images/harvard-logo-1200x630.png"
+  },
+  {
+    "title": "Stanford University",
+    "url": "https://www.stanford.edu",
+    "description": "Stanford University is a private research university in Stanford, California, known for its academic strength, wealth, and proximity to Silicon Valley.",
+    "keywords": ["stanford", "university", "education", "california", "silicon valley", "research", "academic"],
+    "image": "https://www.stanford.edu/images/stanford-logo-1200x630.png"
+  },
+  {
+    "title": "MIT",
+    "url": "https://www.mit.edu",
+    "description": "The Massachusetts Institute of Technology is a private land-grant research university in Cambridge, Massachusetts, known for its innovation and scientific research.",
+    "keywords": ["mit", "massachusetts", "technology", "engineering", "science", "research", "university"],
+    "image": "https://www.mit.edu/images/mit-logo-1200x630.png"
+  },
+  {
+    "title": "Yale University",
+    "url": "https://www.yale.edu",
+    "description": "Yale University is a private Ivy League research university in New Haven, Connecticut, founded in 1701.",
+    "keywords": ["yale", "university", "ivy league", "connecticut", "education", "research", "academic"],
+    "image": "https://www.yale.edu/images/yale-logo-1200x630.png"
+  },
+  {
+    "title": "Princeton University",
+    "url": "https://www.princeton.edu",
+    "description": "Princeton University is a private Ivy League research university in Princeton, New Jersey, founded in 1746.",
+    "keywords": ["princeton", "university", "ivy league", "new jersey", "education", "research", "academic"],
+    "image": "https://www.princeton.edu/images/princeton-logo-1200x630.png"
+  },
+  {
+    "title": "Columbia University",
+    "url": "https://www.columbia.edu",
+    "description": "Columbia University is a private Ivy League research university in New York City, founded in 1754.",
+    "keywords": ["columbia", "university", "ivy league", "new york", "education", "research", "academic"],
+    "image": "https://www.columbia.edu/images/columbia-logo-1200x630.png"
+  },
+  {
+    "title": "University of Oxford",
+    "url": "https://www.ox.ac.uk",
+    "description": "The University of Oxford is a collegiate research university in Oxford, England, and the oldest university in the English-speaking world.",
+    "keywords": ["oxford", "university", "uk", "england", "education", "research", "academic"],
+    "image": "https://www.ox.ac.uk/images/oxford-logo-1200x630.png"
+  },
+  {
+    "title": "University of Cambridge",
+    "url": "https://www.cam.ac.uk",
+    "description": "The University of Cambridge is a collegiate research university in Cambridge, England, founded in 1209.",
+    "keywords": ["cambridge", "university", "uk", "england", "education", "research", "academic"],
+    "image": "https://www.cam.ac.uk/images/cambridge-logo-1200x630.png"
+  },
+  {
+    "title": "Caltech",
+    "url": "https://www.caltech.edu",
+    "description": "The California Institute of Technology is a private research university in Pasadena, California, known for its strength in science and engineering.",
+    "keywords": ["caltech", "california", "technology", "science", "engineering", "research", "university"],
+    "image": "https://www.caltech.edu/images/caltech-logo-1200x630.png"
+  },
+  {
+    "title": "University of Chicago",
+    "url": "https://www.uchicago.edu",
+    "description": "The University of Chicago is a private research university in Chicago, Illinois, founded in 1890.",
+    "keywords": ["uchicago", "chicago", "university", "illinois", "education", "research", "academic"],
+    "image": "https://www.uchicago.edu/images/uchicago-logo-1200x630.png"
+  },
+  {
+    "title": "Johns Hopkins University",
+    "url": "https://www.jhu.edu",
+    "description": "Johns Hopkins University is a private research university in Baltimore, Maryland, founded in 1876.",
+    "keywords": ["johns hopkins", "university", "baltimore", "maryland", "research", "medical", "academic"],
+    "image": "https://www.jhu.edu/images/jhu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Pennsylvania",
+    "url": "https://www.upenn.edu",
+    "description": "The University of Pennsylvania is a private Ivy League research university in Philadelphia, Pennsylvania, founded in 1740.",
+    "keywords": ["penn", "upenn", "university", "ivy league", "philadelphia", "education", "research"],
+    "image": "https://www.upenn.edu/images/penn-logo-1200x630.png"
+  },
+  {
+    "title": "Northwestern University",
+    "url": "https://www.northwestern.edu",
+    "description": "Northwestern University is a private research university in Evanston, Illinois, founded in 1851.",
+    "keywords": ["northwestern", "university", "illinois", "evanston", "chicago", "research", "academic"],
+    "image": "https://www.northwestern.edu/images/northwestern-logo-1200x630.png"
+  },
+  {
+    "title": "Duke University",
+    "url": "https://www.duke.edu",
+    "description": "Duke University is a private research university in Durham, North Carolina, founded in 1838.",
+    "keywords": ["duke", "university", "north carolina", "durham", "research", "education", "academic"],
+    "image": "https://www.duke.edu/images/duke-logo-1200x630.png"
+  },
+  {
+    "title": "Dartmouth College",
+    "url": "https://www.dartmouth.edu",
+    "description": "Dartmouth College is a private Ivy League research university in Hanover, New Hampshire, founded in 1769.",
+    "keywords": ["dartmouth", "college", "ivy league", "new hampshire", "education", "research", "academic"],
+    "image": "https://www.dartmouth.edu/images/dartmouth-logo-1200x630.png"
+  },
+  {
+    "title": "Brown University",
+    "url": "https://www.brown.edu",
+    "description": "Brown University is a private Ivy League research university in Providence, Rhode Island, founded in 1764.",
+    "keywords": ["brown", "university", "ivy league", "rhode island", "providence", "education", "research"],
+    "image": "https://www.brown.edu/images/brown-logo-1200x630.png"
+  },
+  {
+    "title": "Cornell University",
+    "url": "https://www.cornell.edu",
+    "description": "Cornell University is a private Ivy League research university in Ithaca, New York, founded in 1865.",
+    "keywords": ["cornell", "university", "ivy league", "ithaca", "new york", "education", "research"],
+    "image": "https://www.cornell.edu/images/cornell-logo-1200x630.png"
+  },
+  {
+    "title": "Vanderbilt University",
+    "url": "https://www.vanderbilt.edu",
+    "description": "Vanderbilt University is a private research university in Nashville, Tennessee, founded in 1873.",
+    "keywords": ["vanderbilt", "university", "nashville", "tennessee", "research", "education", "academic"],
+    "image": "https://www.vanderbilt.edu/images/vanderbilt-logo-1200x630.png"
+  },
+  {
+    "title": "Rice University",
+    "url": "https://www.rice.edu",
+    "description": "Rice University is a private research university in Houston, Texas, founded in 1912.",
+    "keywords": ["rice", "university", "houston", "texas", "research", "education", "academic"],
+    "image": "https://www.rice.edu/images/rice-logo-1200x630.png"
+  },
+  {
+    "title": "University of Notre Dame",
+    "url": "https://www.nd.edu",
+    "description": "The University of Notre Dame is a private Catholic research university in Notre Dame, Indiana, founded in 1842.",
+    "keywords": ["notre dame", "university", "indiana", "catholic", "research", "education", "fighting irish"],
+    "image": "https://www.nd.edu/images/notre-dame-logo-1200x630.png"
+  },
+  {
+    "title": "Washington University in St. Louis",
+    "url": "https://www.wustl.edu",
+    "description": "Washington University in St. Louis is a private research university in St. Louis, Missouri, founded in 1853.",
+    "keywords": ["wustl", "washu", "st louis", "missouri", "university", "research", "education"],
+    "image": "https://www.wustl.edu/images/wustl-logo-1200x630.png"
+  },
+  {
+    "title": "Georgetown University",
+    "url": "https://www.georgetown.edu",
+    "description": "Georgetown University is a private Jesuit research university in Washington, D.C., founded in 1789.",
+    "keywords": ["georgetown", "university", "washington dc", "jesuit", "catholic", "research", "education"],
+    "image": "https://www.georgetown.edu/images/georgetown-logo-1200x630.png"
+  },
+  {
+    "title": "Emory University",
+    "url": "https://www.emory.edu",
+    "description": "Emory University is a private research university in Atlanta, Georgia, founded in 1836.",
+    "keywords": ["emory", "university", "atlanta", "georgia", "research", "education", "academic"],
+    "image": "https://www.emory.edu/images/emory-logo-1200x630.png"
+  },
+  {
+    "title": "Carnegie Mellon University",
+    "url": "https://www.cmu.edu",
+    "description": "Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania, founded in 1900.",
+    "keywords": ["carnegie mellon", "cmu", "university", "pittsburgh", "technology", "computer science", "research"],
+    "image": "https://www.cmu.edu/images/cmu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Southern California",
+    "url": "https://www.usc.edu",
+    "description": "The University of Southern California is a private research university in Los Angeles, California, founded in 1880.",
+    "keywords": ["usc", "southern california", "university", "los angeles", "california", "research", "education"],
+    "image": "https://www.usc.edu/images/usc-logo-1200x630.png"
+  },
+  {
+    "title": "UCLA",
+    "url": "https://www.ucla.edu",
+    "description": "The University of California, Los Angeles is a public land-grant research university in Los Angeles, California.",
+    "keywords": ["ucla", "university", "california", "los angeles", "uc", "research", "public"],
+    "image": "https://www.ucla.edu/images/ucla-logo-1200x630.png"
+  },
+  {
+    "title": "UC Berkeley",
+    "url": "https://www.berkeley.edu",
+    "description": "The University of California, Berkeley is a public land-grant research university in Berkeley, California.",
+    "keywords": ["berkeley", "uc berkeley", "california", "university", "public", "research", "education"],
+    "image": "https://www.berkeley.edu/images/berkeley-logo-1200x630.png"
+  },
+  {
+    "title": "University of Michigan",
+    "url": "https://www.umich.edu",
+    "description": "The University of Michigan is a public research university in Ann Arbor, Michigan, founded in 1817.",
+    "keywords": ["michigan", "umich", "university", "ann arbor", "public", "research", "education"],
+    "image": "https://www.umich.edu/images/michigan-logo-1200x630.png"
+  },
+  {
+    "title": "University of Virginia",
+    "url": "https://www.virginia.edu",
+    "description": "The University of Virginia is a public research university in Charlottesville, Virginia, founded by Thomas Jefferson in 1819.",
+    "keywords": ["uva", "virginia", "university", "charlottesville", "public", "research", "jefferson"],
+    "image": "https://www.virginia.edu/images/uva-logo-1200x630.png"
+  },
+  {
+    "title": "University of North Carolina",
+    "url": "https://www.unc.edu",
+    "description": "The University of North Carolina at Chapel Hill is a public research university in Chapel Hill, North Carolina.",
+    "keywords": ["unc", "north carolina", "chapel hill", "university", "public", "research", "education"],
+    "image": "https://www.unc.edu/images/unc-logo-1200x630.png"
+  },
+  {
+    "title": "University of Wisconsin",
+    "url": "https://www.wisc.edu",
+    "description": "The University of Wisconsin-Madison is a public land-grant research university in Madison, Wisconsin.",
+    "keywords": ["wisconsin", "uw madison", "university", "madison", "public", "research", "education"],
+    "image": "https://www.wisc.edu/images/wisconsin-logo-1200x630.png"
+  },
+  {
+    "title": "University of Texas",
+    "url": "https://www.utexas.edu",
+    "description": "The University of Texas at Austin is a public research university in Austin, Texas, founded in 1883.",
+    "keywords": ["texas", "ut austin", "university", "austin", "public", "research", "longhorns"],
+    "image": "https://www.utexas.edu/images/texas-logo-1200x630.png"
+  },
+  {
+    "title": "Texas A&M University",
+    "url": "https://www.tamu.edu",
+    "description": "Texas A&M University is a public land-grant research university in College Station, Texas.",
+    "keywords": ["texas a&m", "tamu", "university", "college station", "public", "research", "aggies"],
+    "image": "https://www.tamu.edu/images/tamu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Florida",
+    "url": "https://www.ufl.edu",
+    "description": "The University of Florida is a public land-grant research university in Gainesville, Florida.",
+    "keywords": ["florida", "uf", "university", "gainesville", "public", "research", "gators"],
+    "image": "https://www.ufl.edu/images/uf-logo-1200x630.png"
+  },
+  {
+    "title": "University of Illinois",
+    "url": "https://www.illinois.edu",
+    "description": "The University of Illinois Urbana-Champaign is a public land-grant research university in Urbana and Champaign, Illinois.",
+    "keywords": ["illinois", "uiuc", "university", "urbana", "champaign", "public", "research"],
+    "image": "https://www.illinois.edu/images/illinois-logo-1200x630.png"
+  },
+  {
+    "title": "Purdue University",
+    "url": "https://www.purdue.edu",
+    "description": "Purdue University is a public land-grant research university in West Lafayette, Indiana, founded in 1869.",
+    "keywords": ["purdue", "university", "indiana", "west lafayette", "public", "research", "boilermakers"],
+    "image": "https://www.purdue.edu/images/purdue-logo-1200x630.png"
+  },
+  {
+    "title": "Ohio State University",
+    "url": "https://www.osu.edu",
+    "description": "The Ohio State University is a public land-grant research university in Columbus, Ohio, founded in 1870.",
+    "keywords": ["ohio state", "osu", "university", "columbus", "public", "research", "buckeyes"],
+    "image": "https://www.osu.edu/images/osu-logo-1200x630.png"
+  },
+  {
+    "title": "Penn State University",
+    "url": "https://www.psu.edu",
+    "description": "Pennsylvania State University is a public land-grant research university with campuses across Pennsylvania.",
+    "keywords": ["penn state", "psu", "university", "pennsylvania", "public", "research", "nittany lions"],
+    "image": "https://www.psu.edu/images/psu-logo-1200x630.png"
+  },
+  {
+    "title": "Michigan State University",
+    "url": "https://www.msu.edu",
+    "description": "Michigan State University is a public land-grant research university in East Lansing, Michigan, founded in 1855.",
+    "keywords": ["michigan state", "msu", "university", "east lansing", "public", "research", "spartans"],
+    "image": "https://www.msu.edu/images/msu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Maryland",
+    "url": "https://www.umd.edu",
+    "description": "The University of Maryland, College Park is a public research university in College Park, Maryland.",
+    "keywords": ["maryland", "umd", "university", "college park", "public", "research", "terrapins"],
+    "image": "https://www.umd.edu/images/umd-logo-1200x630.png"
+  },
+  {
+    "title": "University of Washington",
+    "url": "https://www.washington.edu",
+    "description": "The University of Washington is a public research university in Seattle, Washington, founded in 1861.",
+    "keywords": ["washington", "uw", "university", "seattle", "public", "research", "huskies"],
+    "image": "https://www.washington.edu/images/uw-logo-1200x630.png"
+  },
+  {
+    "title": "Boston University",
+    "url": "https://www.bu.edu",
+    "description": "Boston University is a private research university in Boston, Massachusetts, founded in 1839.",
+    "keywords": ["boston university", "bu", "university", "boston", "massachusetts", "research", "private"],
+    "image": "https://www.bu.edu/images/bu-logo-1200x630.png"
+  },
+  {
+    "title": "New York University",
+    "url": "https://www.nyu.edu",
+    "description": "New York University is a private research university in New York City, founded in 1831.",
+    "keywords": ["nyu", "new york university", "university", "new york city", "private", "research", "violet"],
+    "image": "https://www.nyu.edu/images/nyu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Miami",
+    "url": "https://www.miami.edu",
+    "description": "The University of Miami is a private research university in Coral Gables, Florida, founded in 1925.",
+    "keywords": ["miami", "university", "coral gables", "florida", "private", "research", "hurricanes"],
+    "image": "https://www.miami.edu/images/miami-logo-1200x630.png"
+  },
+  {
+    "title": "Tulane University",
+    "url": "https://www.tulane.edu",
+    "description": "Tulane University is a private research university in New Orleans, Louisiana, founded in 1834.",
+    "keywords": ["tulane", "university", "new orleans", "louisiana", "private", "research", "green wave"],
+    "image": "https://www.tulane.edu/images/tulane-logo-1200x630.png"
+  },
+  {
+    "title": "Wake Forest University",
+    "url": "https://www.wfu.edu",
+    "description": "Wake Forest University is a private research university in Winston-Salem, North Carolina, founded in 1834.",
+    "keywords": ["wake forest", "wfu", "university", "winston-salem", "north carolina", "private", "research"],
+    "image": "https://www.wfu.edu/images/wfu-logo-1200x630.png"
+  },
+  {
+    "title": "Case Western Reserve",
+    "url": "https://www.case.edu",
+    "description": "Case Western Reserve University is a private research university in Cleveland, Ohio, founded in 1826.",
+    "keywords": ["case western", "cwru", "university", "cleveland", "ohio", "private", "research"],
+    "image": "https://www.case.edu/images/cwru-logo-1200x630.png"
+  },
+  {
+    "title": "Rensselaer Polytechnic Institute",
+    "url": "https://www.rpi.edu",
+    "description": "Rensselaer Polytechnic Institute is a private research university in Troy, New York, founded in 1824.",
+    "keywords": ["rpi", "rensselaer", "polytechnic", "university", "troy", "new york", "engineering"],
+    "image": "https://www.rpi.edu/images/rpi-logo-1200x630.png"
+  },
+  {
+    "title": "Worcester Polytechnic Institute",
+    "url": "https://www.wpi.edu",
+    "description": "Worcester Polytechnic Institute is a private research university in Worcester, Massachusetts, founded in 1865.",
+    "keywords": ["wpi", "worcester", "polytechnic", "university", "massachusetts", "engineering", "technology"],
+    "image": "https://www.wpi.edu/images/wpi-logo-1200x630.png"
+  },
+  {
+    "title": "Lehigh University",
+    "url": "https://www.lehigh.edu",
+    "description": "Lehigh University is a private research university in Bethlehem, Pennsylvania, founded in 1865.",
+    "keywords": ["lehigh", "university", "bethlehem", "pennsylvania", "private", "research", "mountain hawks"],
+    "image": "https://www.lehigh.edu/images/lehigh-logo-1200x630.png"
+  },
+  {
+    "title": "University of Rochester",
+    "url": "https://www.rochester.edu",
+    "description": "The University of Rochester is a private research university in Rochester, New York, founded in 1850.",
+    "keywords": ["rochester", "university", "new york", "private", "research", "yellowjackets"],
+    "image": "https://www.rochester.edu/images/rochester-logo-1200x630.png"
+  },
+  {
+    "title": "Brandeis University",
+    "url": "https://www.brandeis.edu",
+    "description": "Brandeis University is a private research university in Waltham, Massachusetts, founded in 1948.",
+    "keywords": ["brandeis", "university", "waltham", "massachusetts", "private", "research", "judges"],
+    "image": "https://www.brandeis.edu/images/brandeis-logo-1200x630.png"
+  },
+  {
+    "title": "Tufts University",
+    "url": "https://www.tufts.edu",
+    "description": "Tufts University is a private research university in Medford and Somerville, Massachusetts, founded in 1852.",
+    "keywords": ["tufts", "university", "medford", "massachusetts", "private", "research", "jumbos"],
+    "image": "https://www.tufts.edu/images/tufts-logo-1200x630.png"
+  },
+  {
+    "title": "Pepperdine University",
+    "url": "https://www.pepperdine.edu",
+    "description": "Pepperdine University is a private Christian university in Malibu, California, founded in 1937.",
+    "keywords": ["pepperdine", "university", "malibu", "california", "christian", "private", "waves"],
+    "image": "https://www.pepperdine.edu/images/pepperdine-logo-1200x630.png"
+  },
+  {
+    "title": "Syracuse University",
+    "url": "https://www.syracuse.edu",
+    "description": "Syracuse University is a private research university in Syracuse, New York, founded in 1870.",
+    "keywords": ["syracuse", "university", "new york", "private", "research", "orange"],
+    "image": "https://www.syracuse.edu/images/syracuse-logo-1200x630.png"
+  },
+  {
+    "title": "University of Pittsburgh",
+    "url": "https://www.pitt.edu",
+    "description": "The University of Pittsburgh is a public research university in Pittsburgh, Pennsylvania, founded in 1787.",
+    "keywords": ["pitt", "pittsburgh", "university", "pennsylvania", "public", "research", "panthers"],
+    "image": "https://www.pitt.edu/images/pitt-logo-1200x630.png"
+  },
+  {
+    "title": "Rutgers University",
+    "url": "https://www.rutgers.edu",
+    "description": "Rutgers University is a public research university in New Jersey, founded in 1766.",
+    "keywords": ["rutgers", "university", "new jersey", "public", "research", "scarlet knights"],
+    "image": "https://www.rutgers.edu/images/rutgers-logo-1200x630.png"
+  },
+  {
+    "title": "Indiana University",
+    "url": "https://www.indiana.edu",
+    "description": "Indiana University is a public research university in Bloomington, Indiana, founded in 1820.",
+    "keywords": ["indiana", "iu", "university", "bloomington", "public", "research", "hoosiers"],
+    "image": "https://www.indiana.edu/images/iu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Iowa",
+    "url": "https://www.uiowa.edu",
+    "description": "The University of Iowa is a public research university in Iowa City, Iowa, founded in 1847.",
+    "keywords": ["iowa", "uiowa", "university", "iowa city", "public", "research", "hawkeyes"],
+    "image": "https://www.uiowa.edu/images/iowa-logo-1200x630.png"
+  },
+  {
+    "title": "University of Kansas",
+    "url": "https://www.ku.edu",
+    "description": "The University of Kansas is a public research university in Lawrence, Kansas, founded in 1865.",
+    "keywords": ["kansas", "ku", "university", "lawrence", "public", "research", "jayhawks"],
+    "image": "https://www.ku.edu/images/ku-logo-1200x630.png"
+  },
+  {
+    "title": "University of Missouri",
+    "url": "https://www.missouri.edu",
+    "description": "The University of Missouri is a public research university in Columbia, Missouri, founded in 1839.",
+    "keywords": ["missouri", "mizzou", "university", "columbia", "public", "research", "tigers"],
+    "image": "https://www.missouri.edu/images/mizzou-logo-1200x630.png"
+  },
+  {
+    "title": "University of Nebraska",
+    "url": "https://www.nebraska.edu",
+    "description": "The University of Nebraska is a public university system with campuses across Nebraska.",
+    "keywords": ["nebraska", "university", "lincoln", "public", "research", "cornhuskers"],
+    "image": "https://www.nebraska.edu/images/nebraska-logo-1200x630.png"
+  },
+  {
+    "title": "University of Oklahoma",
+    "url": "https://www.ou.edu",
+    "description": "The University of Oklahoma is a public research university in Norman, Oklahoma, founded in 1890.",
+    "keywords": ["oklahoma", "ou", "university", "norman", "public", "research", "sooners"],
+    "image": "https://www.ou.edu/images/ou-logo-1200x630.png"
+  },
+  {
+    "title": "University of Oregon",
+    "url": "https://www.uoregon.edu",
+    "description": "The University of Oregon is a public research university in Eugene, Oregon, founded in 1876.",
+    "keywords": ["oregon", "uoregon", "university", "eugene", "public", "research", "ducks"],
+    "image": "https://www.uoregon.edu/images/oregon-logo-1200x630.png"
+  },
+  {
+    "title": "University of Arizona",
+    "url": "https://www.arizona.edu",
+    "description": "The University of Arizona is a public research university in Tucson, Arizona, founded in 1885.",
+    "keywords": ["arizona", "uofa", "university", "tucson", "public", "research", "wildcats"],
+    "image": "https://www.arizona.edu/images/arizona-logo-1200x630.png"
+  },
+  {
+    "title": "Arizona State University",
+    "url": "https://www.asu.edu",
+    "description": "Arizona State University is a public research university in Tempe, Arizona, founded in 1885.",
+    "keywords": ["asu", "arizona state", "university", "tempe", "public", "research", "sun devils"],
+    "image": "https://www.asu.edu/images/asu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Colorado",
+    "url": "https://www.colorado.edu",
+    "description": "The University of Colorado Boulder is a public research university in Boulder, Colorado, founded in 1876.",
+    "keywords": ["colorado", "cu boulder", "university", "boulder", "public", "research", "buffaloes"],
+    "image": "https://www.colorado.edu/images/cu-logo-1200x630.png"
+  },
+  {
+    "title": "University of Utah",
+    "url": "https://www.utah.edu",
+    "description": "The University of Utah is a public research university in Salt Lake City, Utah, founded in 1850.",
+    "keywords": ["utah", "u of u", "university", "salt lake city", "public", "research", "utes"],
+    "image": "https://www.utah.edu/images/utah-logo-1200x630.png"
+  },
+  {
+    "title": "Brigham Young University",
+    "url": "https://www.byu.edu",
+    "description": "Brigham Young University is a private research university in Provo, Utah, owned by The Church of Jesus Christ of Latter-day Saints.",
+    "keywords": ["byu", "brigham young", "university", "provo", "utah", "lds", "cougars"],
+    "image": "https://www.byu.edu/images/byu-logo-1200x630.png"
+  },
+  {
+    "title": "University of New Mexico",
+    "url": "https://www.unm.edu",
+    "description": "The University of New Mexico is a public research university in Albuquerque, New Mexico, founded in 1889.",
+    "keywords": ["new mexico", "unm", "university", "albuquerque", "public", "research", "lobos"],
+    "image": "https://www.unm.edu/images/unm-logo-1200x630.png"
+  },
+  {
+    "title": "University of Nevada",
+    "url": "https://www.unr.edu",
+    "description": "The University of Nevada, Reno is a public research university in Reno, Nevada, founded in 1874.",
+    "keywords": ["nevada", "unr", "university", "reno", "public", "research", "wolf pack"],
+    "image": "https://www.unr.edu/images/unr-logo-1200x630.png"
+  },
+  {
+    "title": "University of Hawaii",
+    "url": "https://www.hawaii.edu",
+    "description": "The University of Hawaii system is a public university system in Hawaii, with campuses across the islands.",
+    "keywords": ["hawaii", "uh", "university", "honolulu", "public", "research", "rainbow warriors"],
+    "image": "https://www.hawaii.edu/images/hawaii-logo-1200x630.png"
+  },
+  {
+    "title": "University of Alaska",
+    "url": "https://www.alaska.edu",
+    "description": "The University of Alaska system is a public university system in Alaska, with campuses in Fairbanks, Anchorage, and Juneau.",
+    "keywords": ["alaska", "uaf", "university", "fairbanks", "public", "research", "nanooks"],
+    "image": "https://www.alaska.edu/images/alaska-logo-1200x630.png"
+  },
+  {
+    "title": "University of Puerto Rico",
+    "url": "https://www.upr.edu",
+    "description": "The University of Puerto Rico is a public university system in Puerto Rico, with 11 campuses across the island.",
+    "keywords": ["puerto rico", "upr", "university", "rio piedras", "public", "research", "gallitos"],
+    "image": "https://www.upr.edu/images/upr-logo-1200x630.png"
+  },
+  {
+    "title": "Howard University",
+    "url": "https://www.howard.edu",
+    "description": "Howard University is a private historically black research university in Washington, D.C., founded in 1867.",
+    "keywords": ["howard", "university", "hbcU", "washington dc", "private", "research", "bison"],
+    "image": "https://www.howard.edu/images/howard-logo-1200x630.png"
+  },
+  {
+    "title": "Spelman College",
+    "url": "https://www.spelman.edu",
+    "description": "Spelman College is a private historically black women's liberal arts college in Atlanta, Georgia, founded in 1881.",
+    "keywords": ["spelman", "college", "hbcu", "atlanta", "women's college", "liberal arts", "jaguars"],
+    "image": "https://www.spelman.edu/images/spelman-logo-1200x630.png"
+  },
+  {
+    "title": "Morehouse College",
+    "url": "https://www.morehouse.edu",
+    "description": "Morehouse College is a private historically black men's liberal arts college in Atlanta, Georgia, founded in 1867.",
+    "keywords": ["morehouse", "college", "hbcu", "atlanta", "men's college", "liberal arts", "tigers"],
+    "image": "https://www.morehouse.edu/images/morehouse-logo-1200x630.png"
+  },
+  {
+    "title": "Hampton University",
+    "url": "https://www.hamptonu.edu",
+    "description": "Hampton University is a private historically black research university in Hampton, Virginia, founded in 1868.",
+    "keywords": ["hampton", "university", "hbcu", "virginia", "private", "research", "pirates"],
+    "image": "https://www.hamptonu.edu/images/hampton-logo-1200x630.png"
+  },
+  {
+    "title": "Tuskegee University",
+    "url": "https://www.tuskegee.edu",
+    "description": "Tuskegee University is a private historically black land-grant university in Tuskegee, Alabama, founded by Booker T. Washington in 1881.",
+    "keywords": ["tuskegee", "university", "hbcu", "alabama", "booker t washington", "land-grant", "golden tigers"],
+    "image": "https://www.tuskegee.edu/images/tuskegee-logo-1200x630.png"
+  },
+  {
+    "title": "Florida A&M University",
+    "url": "https://www.famu.edu",
+    "description": "Florida A&M University is a public historically black land-grant university in Tallahassee, Florida, founded in 1887.",
+    "keywords": ["famu", "florida a&m", "university", "hbcu", "tallahassee", "public", "rattlers"],
+    "image": "https://www.famu.edu/images/famu-logo-1200x630.png"
+  },
+  {
+    "title": "North Carolina A&T State University",
+    "url": "https://www.ncat.edu",
+    "description": "North Carolina A&T State University is a public historically black land-grant research university in Greensboro, North Carolina.",
+    "keywords": ["ncat", "north carolina a&t", "university", "hbcu", "greensboro", "public", "aggies"],
+    "image": "https://www.ncat.edu/images/ncat-logo-1200x630.png"
+  },
+  {
+    "title": "Morgan State University",
+    "url": "https://www.morgan.edu",
+    "description": "Morgan State University is a public historically black research university in Baltimore, Maryland, founded in 1867.",
+    "keywords": ["morgan state", "university", "hbcu", "baltimore", "maryland", "public", "bears"],
+    "image": "https://www.morgan.edu/images/morgan-logo-1200x630.png"
+  },
+  {
+    "title": "Xavier University of Louisiana",
+    "url": "https://www.xula.edu",
+    "description": "Xavier University of Louisiana is a private historically black Catholic university in New Orleans, Louisiana, founded in 1925.",
+    "keywords": ["xavier", "xula", "university", "hbcu", "new orleans", "catholic", "gold nuggets"],
+    "image": "https://www.xula.edu/images/xula-logo-1200x630.png"
+  },
+  {
+    "title": "Clark Atlanta University",
+    "url": "https://www.cau.edu",
+    "description": "Clark Atlanta University is a private historically black research university in Atlanta, Georgia, formed in 1988.",
+    "keywords": ["clark atlanta", "cau", "university", "hbcu", "atlanta", "private", "panthers"],
+    "image": "https://www.cau.edu/images/cau-logo-1200x630.png"
+  },
+  {
+    "title": "Bowie State University",
+    "url": "https://www.bowiestate.edu",
+    "description": "Bowie State University is a public historically black university in Bowie, Maryland, founded in 1865.",
+    "keywords": ["bowie state", "university", "hbcu", "bowie", "maryland", "public", "bulldogs"],
+    "image": "https://www.bowiestate.edu/images/bowie-logo-1200x630.png"
+  },
+  {
+    "title": "Delaware State University",
+    "url": "https://www.desu.edu",
+    "description": "Delaware State University is a public historically black land-grant research university in Dover, Delaware, founded in 1891.",
+    "keywords": ["delaware state", "desu", "university", "hbcu", "dover", "public", "hornets"],
+    "image": "https://www.desu.edu/images/desu-logo-1200x630.png"
+  },
+  {
+    "title": "Tennessee State University",
+    "url": "https://www.tnstate.edu",
+    "description": "Tennessee State University is a public historically black land-grant university in Nashville, Tennessee, founded in 1912.",
+    "keywords": ["tennessee state", "tnstate", "university", "hbcu", "nashville", "public", "tigers"],
+    "image": "https://www.tnstate.edu/images/tnstate-logo-1200x630.png"
+  },
+  {
+    "title": "Prairie View A&M University",
+    "url": "https://www.pvamu.edu",
+    "description": "Prairie View A&M University is a public historically black land-grant university in Prairie View, Texas, founded in 1876.",
+    "keywords": ["prairie view", "pvamu", "university", "hbcu", "texas", "public", "panthers"],
+    "image": "https://www.pvamu.edu/images/pvamu-logo-1200x630.png"
+  },
+  {
+    "title": "Jackson State University",
+    "url": "https://www.jsums.edu",
+    "description": "Jackson State University is a public historically black research university in Jackson, Mississippi, founded in 1877.",
+    "keywords": ["jackson state", "jsu", "university", "hbcu", "jackson", "mississippi", "tigers"],
+    "image": "https://www.jsums.edu/images/jsu-logo-1200x630.png"
+  },
+  {
+    "title": "Alabama State University",
+    "url": "https://www.alasu.edu",
+    "description": "Alabama State University is a public historically black university in Montgomery, Alabama, founded in 1867.",
+    "keywords": ["alabama state", "asu", "university", "hbcu", "montgomery", "public", "hornets"],
+    "image": "https://www.alasu.edu/images/alasu-logo-1200x630.png"
+  },
+  {
+    "title": "Alcorn State University",
+    "url": "https://www.alcorn.edu",
+    "description": "Alcorn State University is a public historically black land-grant university in Lorman, Mississippi, founded in 1871.",
+    "keywords": ["alcorn state", "alcorn", "university", "hbcu", "mississippi", "public", "braves"],
+    "image": "https://www.alcorn.edu/images/alcorn-logo-1200x630.png"
+  },
+  {
+    "title": "Grambling State University",
+    "url": "https://www.gram.edu",
+    "description": "Grambling State University is a public historically black university in Grambling, Louisiana, founded in 1901.",
+    "keywords": ["grambling", "gsu", "university", "hbcu", "louisiana", "public", "tigers"],
+    "image": "https://www.gram.edu/images/grambling-logo-1200x630.png"
+  },
+  {
+    "title": "Southern University",
+    "url": "https://www.subr.edu",
+    "description": "Southern University and A&M College is a public historically black land-grant university in Baton Rouge, Louisiana, founded in 1880.",
+    "keywords": ["southern university", "subr", "university", "hbcu", "baton rouge", "public", "jaguars"],
+    "image": "https://www.subr.edu/images/southern-logo-1200x630.png"
+  },
+  {
+    "title": "Lincoln University",
+    "url": "https://www.lincoln.edu",
+    "description": "Lincoln University is a public historically black university in Oxford, Pennsylvania, founded in 1854.",
+    "keywords": ["lincoln", "university", "hbcu", "pennsylvania", "oxford", "public", "lions"],
+    "image": "https://www.lincoln.edu/images/lincoln-logo-1200x630.png"
+  },
+  {
+    "title": "Cheyney University",
+    "url": "https://www.cheyney.edu",
+    "description": "Cheyney University of Pennsylvania is a public historically black university in Cheyney, Pennsylvania, founded in 1837.",
+    "keywords": ["cheyney", "university", "hbcu", "pennsylvania", "public", "wolves"],
+    "image": "https://www.cheyney.edu/images/cheyney-logo-1200x630.png"
+  },
+  {
+    "title": "Coppin State University",
+    "url": "https://www.coppin.edu",
+    "description": "Coppin State University is a public historically black university in Baltimore, Maryland, founded in 1900.",
+    "keywords": ["coppin state", "coppin", "university", "hbcu", "baltimore", "public", "eagles"],
+    "image": "https://www.coppin.edu/images/coppin-logo-1200x630.png"
+  },
+  {
+    "title": "University of the District of Columbia",
+    "url": "https://www.udc.edu",
+    "description": "The University of the District of Columbia is a public historically black land-grant university in Washington, D.C.",
+    "keywords": ["udc", "district of columbia", "university", "hbcu", "washington dc", "public", "firebirds"],
+    "image": "https://www.udc.edu/images/udc-logo-1200x630.png"
+  },
+  {
     "title": "National Geographic",
     "url": "https://www.nationalgeographic.com",
     "description": "Explore National Geographic. A world leader in geography, cartography and exploration.",
