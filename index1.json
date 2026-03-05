@@ -2230,5 +2230,719 @@
       "mozilla.org"
     ],
     "image": "https://logo.clearbit.com/mozilla.org"
+  },
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "keywords": ["google", "search", "web", "browser", "engine", "online", "internet"],
+    "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "keywords": ["youtube", "video", "music", "streaming", "watch", "channel", "entertainment"],
+    "image": "https://www.youtube.com/img/desktop/yt_1200.png"
+  },
+  {
+    "title": "Facebook",
+    "url": "https://www.facebook.com",
+    "description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+    "keywords": ["facebook", "social", "network", "friends", "messenger", "community", "connect"],
+    "image": "https://www.facebook.com/images/fb_icon_325x325.png"
+  },
+  {
+    "title": "Amazon",
+    "url": "https://www.amazon.com",
+    "description": "Online shopping from the earth's biggest selection of books, magazines, music, DVDs, videos, electronics, computers, software, apparel & accessories, shoes, jewelry.",
+    "keywords": ["amazon", "shop", "store", "ecommerce", "online shopping", "retail", "buy"],
+    "image": "https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775197_.png"
+  },
+  {
+    "title": "Twitter",
+    "url": "https://www.twitter.com",
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+    "keywords": ["twitter", "social", "tweets", "news", "microblog", "follow", "trending"],
+    "image": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+  },
+  {
+    "title": "Instagram",
+    "url": "https://www.instagram.com",
+    "description": "Create an account or log in to Instagram - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+    "keywords": ["instagram", "photo", "social", "share", "filter", "camera", "follow"],
+    "image": "https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "description": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+    "keywords": ["linkedin", "professional", "network", "jobs", "career", "business", "resume"],
+    "image": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+  },
+  {
+    "title": "Netflix",
+    "url": "https://www.netflix.com",
+    "description": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
+    "keywords": ["netflix", "streaming", "movies", "tv shows", "watch", "entertainment", "binge"],
+    "image": "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png"
+  },
+  {
+    "title": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+    "keywords": ["reddit", "community", "forum", "discussion", "social", "news", "vote"],
+    "image": "https://www.redditstatic.com/new-icon.png"
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://www.wikipedia.org",
+    "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+    "keywords": ["wikipedia", "encyclopedia", "wiki", "knowledge", "reference", "information", "free"],
+    "image": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png"
+  },
+  {
+    "title": "Yahoo",
+    "url": "https://www.yahoo.com",
+    "description": "News, email and search are just the beginning. Discover more every day. Find your yodel.",
+    "keywords": ["yahoo", "news", "mail", "search", "finance", "sports", "entertainment"],
+    "image": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage.png"
+  },
+  {
+    "title": "Bing",
+    "url": "https://www.bing.com",
+    "description": "Bing helps you turn information into action, making it faster and easier to go from searching to doing.",
+    "keywords": ["bing", "search", "microsoft", "engine", "web", "explore", "find"],
+    "image": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico"
+  },
+  {
+    "title": "Zoom",
+    "url": "https://zoom.us",
+    "description": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars.",
+    "keywords": ["zoom", "video", "conference", "meeting", "webinar", "chat", "remote"],
+    "image": "https://zoom.us/docs/img/zoom-logo.png"
+  },
+  {
+    "title": "Twitch",
+    "url": "https://www.twitch.tv",
+    "description": "Twitch is the world's leading live streaming platform for gamers and the things we love. Watch and chat now with millions of other fans from around the world.",
+    "keywords": ["twitch", "streaming", "gaming", "live", "watch", "esports", "chat"],
+    "image": "https://www.twitch.tv/p/assets/uploads/glue/glitch-sperry_1532x768.png"
+  },
+  {
+    "title": "Spotify",
+    "url": "https://www.spotify.com",
+    "description": "Spotify is a digital music service that gives you access to millions of songs.",
+    "keywords": ["spotify", "music", "streaming", "podcast", "playlist", "audio", "listen"],
+    "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png"
+  },
+  {
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+    "keywords": ["pinterest", "ideas", "inspiration", "diy", "craft", "recipe", "fashion"],
+    "image": "https://about.pinterest.com/sites/default/files/pinterest-logo.png"
+  },
+  {
+    "title": "Quora",
+    "url": "https://www.quora.com",
+    "description": "Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.",
+    "keywords": ["quora", "questions", "answers", "knowledge", "learn", "ask", "community"],
+    "image": "https://qsf.fs.quoracdn.net/-3-images.logo.quora.logo.png-26-9ab9e8f3e6b69dab.png"
+  },
+  {
+    "title": "WhatsApp",
+    "url": "https://www.whatsapp.com",
+    "description": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere.",
+    "keywords": ["whatsapp", "messenger", "chat", "message", "calls", "encrypted", "communication"],
+    "image": "https://static.whatsapp.net/images/whatsapp-logo.png"
+  },
+  {
+    "title": "Telegram",
+    "url": "https://telegram.org",
+    "description": "Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free.",
+    "keywords": ["telegram", "messaging", "chat", "secure", "encrypted", "cloud", "channels"],
+    "image": "https://telegram.org/img/t_logo.png"
+  },
+  {
+    "title": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos.",
+    "keywords": ["tiktok", "video", "short", "viral", "dance", "trending", "social"],
+    "image": "https://sf16-scmcdn-va.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/tiktok-logo-9c9c6fba59328f1bfb3c193f240c89b6.svg"
+  },
+  {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "description": "Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more.",
+    "keywords": ["microsoft", "windows", "office", "software", "cloud", "technology", "xbox"],
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+  },
+  {
+    "title": "Apple",
+    "url": "https://www.apple.com",
+    "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+    "keywords": ["apple", "iphone", "mac", "ios", "technology", "gadgets", "innovation"],
+    "image": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png"
+  },
+  {
+    "title": "CNN",
+    "url": "https://www.cnn.com",
+    "description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN",
+    "keywords": ["cnn", "news", "media", "breaking", "world", "politics", "journalism"],
+    "image": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png"
+  },
+  {
+    "title": "BBC",
+    "url": "https://www.bbc.com",
+    "description": "Breaking news, sport, TV, radio and a whole lot more. The BBC informs, educates and entertains - wherever you are, whatever your age.",
+    "keywords": ["bbc", "news", "uk", "media", "world", "sport", "entertainment"],
+    "image": "https://static.bbci.co.uk/frameworks/barlesque/3.87.1/orb/4/img/bbc-blocks-light.png"
+  },
+  {
+    "title": "NY Times",
+    "url": "https://www.nytimes.com",
+    "description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more.",
+    "keywords": ["nytimes", "news", "newspaper", "journalism", "world", "opinion", "media"],
+    "image": "https://www.nytimes.com/vi-assets/static-assets/nytimes-logo-320x180.png"
+  },
+  {
+    "title": "Forbes",
+    "url": "https://www.forbes.com",
+    "description": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+    "keywords": ["forbes", "business", "finance", "news", "wealth", "entrepreneurship", "investing"],
+    "image": "https://www.forbes.com/media/forbes-logos/forbes-logo-400x400.png"
+  },
+  {
+    "title": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News",
+    "keywords": ["bloomberg", "finance", "business", "markets", "news", "data", "terminal"],
+    "image": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-image-7a542f3bf7.jpg"
+  },
+  {
+    "title": "WSJ",
+    "url": "https://www.wsj.com",
+    "description": "The Wall Street Journal - Breaking news, business, financial and economic news, world news and video",
+    "keywords": ["wsj", "wallstreet", "business", "finance", "news", "economy", "journal"],
+    "image": "https://s.wsj.net/media/wsj_logo-social.png"
+  },
+  {
+    "title": "Medium",
+    "url": "https://medium.com",
+    "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+    "keywords": ["medium", "blog", "writing", "publishing", "articles", "stories", "platform"],
+    "image": "https://cdn-images-1.medium.com/fit/c/120/120/1*6_fgxVqWl2WXyL3qUZ1z2g.png"
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, and collaborate with others.",
+    "keywords": ["github", "git", "code", "development", "programming", "repository", "open source"],
+    "image": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
+  },
+  {
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "description": "Stack Overflow | The world's largest online community for developers to learn, share their knowledge, and build their careers.",
+    "keywords": ["stackoverflow", "programming", "code", "help", "questions", "answers", "developers"],
+    "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"
+  },
+  {
+    "title": "Adobe",
+    "url": "https://www.adobe.com",
+    "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
+    "keywords": ["adobe", "creative", "design", "photoshop", "pdf", "software", "cloud"],
+    "image": "https://www.adobe.com/content/dam/cc/icons/adobe-icon.svg"
+  },
+  {
+    "title": "Salesforce",
+    "url": "https://www.salesforce.com",
+    "description": "Salesforce is the world's #1 customer relationship management (CRM) platform. We help your marketing, sales, commerce, service and IT teams work as one.",
+    "keywords": ["salesforce", "crm", "business", "cloud", "enterprise", "sales", "marketing"],
+    "image": "https://www.salesforce.com/content/dam/web/en_us/www/images/home/logo-salesforce.svg"
+  },
+  {
+    "title": "Dropbox",
+    "url": "https://www.dropbox.com",
+    "description": "Dropbox helps you simplify your workflow. So you can spend more time in your flow.",
+    "keywords": ["dropbox", "cloud", "storage", "file", "share", "sync", "backup"],
+    "image": "https://cfl.dropboxstatic.com/static/images/brand/logos/logo-dropbox-lockup-gradient-logomark%402x.jpg"
+  },
+  {
+    "title": "Slack",
+    "url": "https://slack.com",
+    "description": "Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.",
+    "keywords": ["slack", "communication", "team", "chat", "collaboration", "messaging", "work"],
+    "image": "https://a.slack-edge.com/80588/marketing/img/meta/slack-brand-identity.png"
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.com",
+    "description": "Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.",
+    "keywords": ["discord", "chat", "gaming", "voice", "community", "server", "communication"],
+    "image": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
+  },
+  {
+    "title": "Trello",
+    "url": "https://trello.com",
+    "description": "Trello helps teams move work forward. Collaborate, manage projects, and reach new productivity peaks. From high rises to the home office, the way your team works is unique.",
+    "keywords": ["trello", "project", "management", "board", "organization", "team", "task"],
+    "image": "https://cdn.bfldr.com/5H442O3W/at/pl546j-7le8zk-6gwiyo/trello_logo_blue.svg"
+  },
+  {
+    "title": "Atlassian",
+    "url": "https://www.atlassian.com",
+    "description": "Atlassian provides tools to help every team unleash their full potential. Jira, Confluence, Trello, and Bitbucket are designed to help teams organize, track, and release great work.",
+    "keywords": ["atlassian", "jira", "confluence", "software", "development", "team", "tools"],
+    "image": "https://wac-cdn.atlassian.com/assets/img/logo-atlassian-social.svg"
+  },
+  {
+    "title": "WordPress",
+    "url": "https://wordpress.org",
+    "description": "WordPress is open source software you can use to create a beautiful website, blog, or app.",
+    "keywords": ["wordpress", "cms", "blog", "website", "publishing", "open source", "php"],
+    "image": "https://s.w.org/style/images/about/WordPress-logotype-standard.png"
+  },
+  {
+    "title": "Shopify",
+    "url": "https://www.shopify.com",
+    "description": "Shopify is a commerce platform that allows anyone to sell online, at a retail location, and everywhere in between.",
+    "keywords": ["shopify", "ecommerce", "store", "sell", "business", "online", "shopping"],
+    "image": "https://cdn.shopify.com/shopify-marketing_assets/builds/9.0.0/shopify-logo-primary-logo.svg"
+  },
+  {
+    "title": "Etsy",
+    "url": "https://www.etsy.com",
+    "description": "Find handmade gifts, vintage & on-trend clothes, unique jewelry, and more… lots more.",
+    "keywords": ["etsy", "handmade", "vintage", "crafts", "gifts", "marketplace", "creative"],
+    "image": "https://www.etsy.com/images/logo_etsy_xs.png"
+  },
+  {
+    "title": "eBay",
+    "url": "https://www.ebay.com",
+    "description": "Buy and sell electronics, cars, fashion apparel, collectibles, sporting goods, digital cameras, baby items, and everything else on eBay, the world's online marketplace.",
+    "keywords": ["ebay", "auction", "marketplace", "sell", "buy", "shopping", "collectibles"],
+    "image": "https://ir.ebaystatic.com/rs/v/fxxj3ttftmwm5cq3m5xtiiffddf.png"
+  },
+  {
+    "title": "Walmart",
+    "url": "https://www.walmart.com",
+    "description": "Shop Walmart today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum.",
+    "keywords": ["walmart", "store", "shopping", "retail", "groceries", "deals", "savings"],
+    "image": "https://i5.walmartimages.com/dfw/63fd9f59-b3b2/2a2c7e15-4d13-4fba-9d0f-39c779595bc4/v1/walmartLogo.svg"
+  },
+  {
+    "title": "Target",
+    "url": "https://www.target.com",
+    "description": "Find all of the best deals and latest products at Target. Shop Target for electronics, clothing, toys, home goods and more at prices you'll love.",
+    "keywords": ["target", "store", "shopping", "retail", "deals", "bullseye", "groceries"],
+    "image": "https://assets.targetimg.com/static/images/favicon.ico"
+  },
+  {
+    "title": "Best Buy",
+    "url": "https://www.bestbuy.com",
+    "description": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. In-store pickup & free 2-day shipping on thousands of items.",
+    "keywords": ["bestbuy", "electronics", "technology", "gadgets", "store", "computers", "appliances"],
+    "image": "https://corporate.bestbuy.com/wp-content/themes/bestbuy/favicon.ico"
+  },
+  {
+    "title": "Home Depot",
+    "url": "https://www.homedepot.com",
+    "description": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, carpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
+    "keywords": ["homedepot", "home improvement", "hardware", "tools", "DIY", "garden", "renovation"],
+    "image": "https://corporate.homedepot.com/sites/default/files/image/2021-04/THD_Logo.jpg"
+  },
+  {
+    "title": "Lowe's",
+    "url": "https://www.lowes.com",
+    "description": "Shop tools, appliances, building supplies, flooring, patio furniture and more at Lowe's. Enjoy exclusive offers and easy online shopping.",
+    "keywords": ["lowes", "home improvement", "hardware", "tools", "DIY", "garden", "renovation"],
+    "image": "https://mobileimages.lowes.com/theme/lowes/images/lowe-browser-icon-192x192.png"
+  },
+  {
+    "title": "IKEA",
+    "url": "https://www.ikea.com",
+    "description": "IKEA offers everything from living room furniture to mattresses and bedroom furniture. Find your inspiration at IKEA.",
+    "keywords": ["ikea", "furniture", "home", "design", "swedish", "decor", "furnishings"],
+    "image": "https://www.ikea.com/global/assets/logos/ikea-logo.svg"
+  },
+  {
+    "title": "Wayfair",
+    "url": "https://www.wayfair.com",
+    "description": "Shop Wayfair for A Zillion Things Home across all styles and budgets. 5,000 brands of furniture, lighting, cookware, and more.",
+    "keywords": ["wayfair", "furniture", "home", "decor", "furnishings", "design", "interior"],
+    "image": "https://assets.wfcdn.com/im/00918811/resize-h200-w200%5Ecompr-r85/1065/106518669/Wayfair_Logo.jpg"
+  },
+  {
+    "title": "Zillow",
+    "url": "https://www.zillow.com",
+    "description": "Zillow has 11,852 homes for sale. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.",
+    "keywords": ["zillow", "real estate", "homes", "rent", "buy", "property", "mortgage"],
+    "image": "https://s.zillowstatic.com/pfs/static/z-logo-default.svg"
+  },
+  {
+    "title": "Realtor",
+    "url": "https://www.realtor.com",
+    "description": "Search real estate property records, houses, condos, land and more on realtor.com®. Find property info from the most comprehensive source of home data.",
+    "keywords": ["realtor", "real estate", "homes", "property", "agent", "buy", "sell"],
+    "image": "https://www.realtor.com/images/rdc-logo.svg"
+  },
+  {
+    "title": "Airbnb",
+    "url": "https://www.airbnb.com",
+    "description": "Find vacation rentals, cabins, beach houses, unique homes and experiences around the world - all made possible by hosts on Airbnb.",
+    "keywords": ["airbnb", "travel", "vacation", "rental", "stay", "host", "accommodation"],
+    "image": "https://cdn.iconscout.com/icon/free/png-256/airbnb-226650.png"
+  },
+  {
+    "title": "Booking.com",
+    "url": "https://www.booking.com",
+    "description": "Whether you're looking for hotels, homes, or vacation rentals, you'll always find the lowest price guaranteed. Browse all accommodations and reviews from real guests.",
+    "keywords": ["booking", "travel", "hotel", "reservation", "accommodation", "vacation", "stay"],
+    "image": "https://cf.bstatic.com/static/img/b25logo/logo_booking_full_color_2x.png"
+  },
+  {
+    "title": "Expedia",
+    "url": "https://www.expedia.com",
+    "description": "Your one-stop travel site for your dream vacation. Bundle your stay with a car rental or flight and you can save more. Search our flexible options to match your needs.",
+    "keywords": ["expedia", "travel", "flights", "hotels", "vacation", "booking", "trip"],
+    "image": "https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1"
+  },
+  {
+    "title": "TripAdvisor",
+    "url": "https://www.tripadvisor.com",
+    "description": "Plan your next trip, read reviews and get travel advice from our community on where to stay and what to do. Find savings on hotels, book the perfect tour or attraction, and reserve a table at the best restaurants.",
+    "keywords": ["tripadvisor", "travel", "reviews", "hotels", "restaurants", "attractions", "vacation"],
+    "image": "https://static.tacdn.com/img2/brand_refresh/Tripadvisor_Logo_dark-bg.svg"
+  },
+  {
+    "title": "Uber",
+    "url": "https://www.uber.com",
+    "description": "Get a ride in minutes. Or become a driver and earn money on your terms. Uber is finding you better ways to move, work, and succeed.",
+    "keywords": ["uber", "ride", "transportation", "taxi", "driver", "app", "travel"],
+    "image": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_24,h_24/v1548646937/branding/logos/uber-icon.svg"
+  },
+  {
+    "title": "Lyft",
+    "url": "https://www.lyft.com",
+    "description": "Lyft connects you with affordable rides within minutes. You can also earn money by driving, rent bikes and scooters, and access Lyft's network of transit, car, and scooter operators.",
+    "keywords": ["lyft", "ride", "transportation", "driver", "app", "travel", "pink"],
+    "image": "https://www.lyft.com/images/lyft-logo-400x400.png"
+  },
+  {
+    "title": "DoorDash",
+    "url": "https://www.doordash.com",
+    "description": "Delivery & takeout from the best local restaurants. Breakfast, lunch, dinner and more, delivered safely to your door.",
+    "keywords": ["doordash", "food delivery", "restaurant", "takeout", "delivery", "eat", "order"],
+    "image": "https://cdn.doordash.com/media/consumer/home/landing_new/logo.svg"
+  },
+  {
+    "title": "Grubhub",
+    "url": "https://www.grubhub.com",
+    "description": "Grubhub delivers your favorite local restaurants' food to your door. Order online for delivery or pickup, and get ready to enjoy delicious meals.",
+    "keywords": ["grubhub", "food delivery", "restaurant", "takeout", "delivery", "eat", "order"],
+    "image": "https://www.grubhub.com/favicon.ico"
+  },
+  {
+    "title": "Uber Eats",
+    "url": "https://www.ubereats.com",
+    "description": "Discover the restaurants near you. Order online for delivery or pickup, from local favorites to national chains.",
+    "keywords": ["ubereats", "food delivery", "restaurant", "takeout", "delivery", "eat", "order"],
+    "image": "https://d3i4yxtzktqr9n.cloudfront.net/web-eats/icon-256x256.png"
+  },
+  {
+    "title": "PayPal",
+    "url": "https://www.paypal.com",
+    "description": "PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.",
+    "keywords": ["paypal", "payment", "money", "transfer", "online", "checkout", "wallet"],
+    "image": "https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg"
+  },
+  {
+    "title": "Stripe",
+    "url": "https://stripe.com",
+    "description": "Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes.",
+    "keywords": ["stripe", "payment", "api", "online", "checkout", "business", "processing"],
+    "image": "https://stripe.com/img/v3/home/twitter.png"
+  },
+  {
+    "title": "Square",
+    "url": "https://squareup.com",
+    "description": "Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Get paid faster with Square.",
+    "keywords": ["square", "payment", "pos", "business", "credit card", "processing", "merchant"],
+    "image": "https://squareup.com/static/logo/logo-square.png"
+  },
+  {
+    "title": "Venmo",
+    "url": "https://venmo.com",
+    "description": "Venmo is a digital wallet that makes money easier for everyone from students to small businesses",
+    "keywords": ["venmo", "payment", "money", "transfer", "social", "app", "friends"],
+    "image": "https://venmo.com/marketing/images/venmo-logo-blue.png"
+  },
+  {
+    "title": "Coinbase",
+    "url": "https://www.coinbase.com",
+    "description": "Coinbase is a secure online platform for buying, selling, transferring, and storing cryptocurrency.",
+    "keywords": ["coinbase", "crypto", "bitcoin", "ethereum", "exchange", "wallet", "blockchain"],
+    "image": "https://www.coinbase.com/press/logos/coinbase-logo.svg"
+  },
+  {
+    "title": "Kickstarter",
+    "url": "https://www.kickstarter.com",
+    "description": "Kickstarter exists to help bring creative projects to life. A home for film, music, art, theater, games, comics, design, and photography.",
+    "keywords": ["kickstarter", "crowdfunding", "funding", "projects", "creative", "backer", "campaign"],
+    "image": "https://www.kickstarter.com/kickstarter-logo.svg"
+  },
+  {
+    "title": "Indiegogo",
+    "url": "https://www.indiegogo.com",
+    "description": "Indiegogo is your destination for clever innovations in tech, design, and more, delivered to you by our community of independent creators.",
+    "keywords": ["indiegogo", "crowdfunding", "funding", "projects", "innovation", "campaign", "creator"],
+    "image": "https://c1.iggcdn.com/indiegogo-logo-256x256.png"
+  },
+  {
+    "title": "GoFundMe",
+    "url": "https://www.gofundme.com",
+    "description": "GoFundMe: The #1 Crowdfunding and Fundraising Platform. Start a crowdfunding campaign on GoFundMe today – for a personal need or to raise money for charity.",
+    "keywords": ["gofundme", "crowdfunding", "fundraising", "donations", "charity", "campaign", "help"],
+    "image": "https://www.gofundme.com/favicon.ico"
+  },
+  {
+    "title": "Patreon",
+    "url": "https://www.patreon.com",
+    "description": "Patreon is a membership platform that makes it easy for creators to get paid. Join 250,000+ creators earning salaries from over 8 million monthly patrons.",
+    "keywords": ["patreon", "membership", "creator", "subscription", "funding", "patron", "support"],
+    "image": "https://cdn-icons-png.flaticon.com/512/3536/3536186.png"
+  },
+  {
+    "title": "Substack",
+    "url": "https://substack.com",
+    "description": "Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions. Get started with just an email address.",
+    "keywords": ["substack", "newsletter", "writing", "subscription", "email", "publishing", "blog"],
+    "image": "https://substack.com/icons/android-icon-192x192.png"
+  },
+  {
+    "title": "Medium",
+    "url": "https://medium.com",
+    "description": "Medium is a home for human stories and ideas. Here, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
+    "keywords": ["medium", "blog", "writing", "articles", "stories", "publishing", "platform"],
+    "image": "https://cdn-static-1.medium.com/_/fp/img/default-MetaImg.v3a4e6fdc9.png"
+  },
+  {
+    "title": "BuzzFeed",
+    "url": "https://www.buzzfeed.com",
+    "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you'll want to share with your friends.",
+    "keywords": ["buzzfeed", "news", "quizzes", "viral", "entertainment", "listicles", "trending"],
+    "image": "https://www.buzzfeed.com/static-assets/img/bf-logo-512x512.png"
+  },
+  {
+    "title": "Vice",
+    "url": "https://www.vice.com",
+    "description": "Vice is the definitive guide to informing and enlightening people through our journalism and content about the issues and trends of the moment.",
+    "keywords": ["vice", "news", "culture", "media", "documentary", "journalism", "trends"],
+    "image": "https://www.vice.com/wp-content/themes/vice/images/logo/vice-logo.svg"
+  },
+  {
+    "title": "Vox",
+    "url": "https://www.vox.com",
+    "description": "Vox is a general interest news site for the 21st century. Its mission is simple: Explain the news. Through explanatory journalism, Vox helps viewers understand the world.",
+    "keywords": ["vox", "news", "explainer", "media", "politics", "culture", "explain"],
+    "image": "https://cdn.vox-cdn.com/community_logos/52517/voxv.png"
+  },
+  {
+    "title": "The Verge",
+    "url": "https://www.theverge.com",
+    "description": "The Verge is about technology and how it makes us feel. Founded by Vox Media, we feature product reviews, news, and longform journalism.",
+    "keywords": ["verge", "technology", "tech", "news", "reviews", "gadgets", "innovation"],
+    "image": "https://cdn.vox-cdn.com/community_logos/52801/VER_Favicon_32x32__1_.png"
+  },
+  {
+    "title": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "description": "TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new internet products, and breaking tech news.",
+    "keywords": ["techcrunch", "technology", "startups", "news", "tech", "innovation", "venture"],
+    "image": "https://techcrunch.com/wp-content/uploads/2015/02/techcrunch-logo-1200x630.jpg"
+  },
+  {
+    "title": "Wired",
+    "url": "https://www.wired.com",
+    "description": "Wired is where tomorrow is realized. Through thought-provoking stories, we explore the ideas and innovations shaping our world.",
+    "keywords": ["wired", "technology", "science", "culture", "innovation", "future", "ideas"],
+    "image": "https://www.wired.com/about/wired-logo.png"
+  },
+  {
+    "title": "Ars Technica",
+    "url": "https://arstechnica.com",
+    "description": "Serving the Technologist for more than a decade. IT news, reviews, and analysis.",
+    "keywords": ["ars technica", "technology", "it", "news", "reviews", "science", "tech"],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_512.png"
+  },
+  {
+    "title": "CNET",
+    "url": "https://www.cnet.com",
+    "description": "CNET is the world's leader in tech product reviews, news, prices, videos, forums, how-tos and more.",
+    "keywords": ["cnet", "technology", "reviews", "news", "tech", "products", "gadgets"],
+    "image": "https://www.cnet.com/a/img/resize/0a6b1256f694c3706fea1c8e07a622f310e3e73d/hub/2017/04/28/bafad891-ec72-48e4-8d1c-874724eac912/cnet-logo-cover.jpg"
+  },
+  {
+    "title": "Engadget",
+    "url": "https://www.engadget.com",
+    "description": "Engadget is the original home for technology news and reviews. Since its founding in 2004, we've evolved from hobbyist blog to global news leader.",
+    "keywords": ["engadget", "technology", "gadgets", "reviews", "news", "tech", "devices"],
+    "image": "https://www.engadget.com/static/engadget-logo-1200x630.png"
+  },
+  {
+    "title": "Gizmodo",
+    "url": "https://gizmodo.com",
+    "description": "Gizmodo is the definitive source for design, technology, science, and digital culture news.",
+    "keywords": ["gizmodo", "technology", "design", "science", "gadgets", "culture", "innovation"],
+    "image": "https://gizmodo.com/static/gizmodo-logo-1200x630.png"
+  },
+  {
+    "title": "Mashable",
+    "url": "https://mashable.com",
+    "description": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience.",
+    "keywords": ["mashable", "technology", "digital culture", "entertainment", "news", "social media", "trends"],
+    "image": "https://mashable.com/logo/logo-mashable-1200x630.png"
+  },
+  {
+    "title": "Lifehacker",
+    "url": "https://lifehacker.com",
+    "description": "Lifehacker: tips, tricks, and downloads for getting things done.",
+    "keywords": ["lifehacker", "productivity", "tips", "how-to", "life", "hacks", "advice"],
+    "image": "https://lifehacker.com/static/lifehacker-logo-1200x630.png"
+  },
+  {
+    "title": "Kotaku",
+    "url": "https://kotaku.com",
+    "description": "Kotaku is the site for passionate gamers, covering industry news, culture, reviews, and everything there is to know about video games.",
+    "keywords": ["kotaku", "gaming", "video games", "reviews", "news", "culture", "gamer"],
+    "image": "https://kotaku.com/static/kotaku-logo-1200x630.png"
+  },
+  {
+    "title": "IGN",
+    "url": "https://www.ign.com",
+    "description": "IGN is your site for Xbox, PlayStation, PC, Nintendo, movies, TV, comics, and video games news, reviews, and guides.",
+    "keywords": ["ign", "gaming", "video games", "reviews", "entertainment", "news", "guides"],
+    "image": "https://www.ign.com/images/logo-ign-1200x630.png"
+  },
+  {
+    "title": "GameSpot",
+    "url": "https://www.gamespot.com",
+    "description": "GameSpot delivers the best news, reviews, previews, and videos for all your gaming needs.",
+    "keywords": ["gamespot", "gaming", "video games", "reviews", "news", "previews", "videos"],
+    "image": "https://www.gamespot.com/images/logo-gamespot-1200x630.png"
+  },
+  {
+    "title": "Polygon",
+    "url": "https://www.polygon.com",
+    "description": "Polygon is a gaming website covering reviews, news, and features about video games, tabletop games, and entertainment.",
+    "keywords": ["polygon", "gaming", "video games", "reviews", "news", "features", "culture"],
+    "image": "https://cdn.vox-cdn.com/community_logos/42931/favicon.ico"
+  },
+  {
+    "title": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com",
+    "description": "Rock Paper Shotgun is the premier PC gaming site, featuring news, reviews, and guides for all your favorite PC games.",
+    "keywords": ["rockpapershotgun", "pc gaming", "games", "reviews", "news", "guides", "pc"],
+    "image": "https://www.rockpapershotgun.com/static/rps-logo-1200x630.png"
+  },
+  {
+    "title": "PC Gamer",
+    "url": "https://www.pcgamer.com",
+    "description": "PC Gamer is your source for exclusive reviews, demos, updates and news on all your favorite PC gaming franchises.",
+    "keywords": ["pcgamer", "pc gaming", "games", "reviews", "news", "hardware", "guides"],
+    "image": "https://www.pcgamer.com/static/pcgamer-logo-1200x630.png"
+  },
+  {
+    "title": "Eurogamer",
+    "url": "https://www.eurogamer.net",
+    "description": "Eurogamer is the leading independent video games website, featuring news, reviews, and features from the world of gaming.",
+    "keywords": ["eurogamer", "gaming", "video games", "reviews", "news", "europe", "features"],
+    "image": "https://www.eurogamer.net/static/eurogamer-logo-1200x630.png"
+  },
+  {
+    "title": "GamesRadar",
+    "url": "https://www.gamesradar.com",
+    "description": "GamesRadar+ brings you the biggest news, reviews, and guides for the games you love, plus the latest in movies, TV, and comics.",
+    "keywords": ["gamesradar", "gaming", "video games", "reviews", "news", "guides", "entertainment"],
+    "image": "https://www.gamesradar.com/static/gamesradar-logo-1200x630.png"
+  },
+  {
+    "title": "Destructoid",
+    "url": "https://www.destructoid.com",
+    "description": "Destructoid is the internet's best video game blog, featuring news, reviews, and community-driven content.",
+    "keywords": ["destructoid", "gaming", "video games", "reviews", "news", "blog", "community"],
+    "image": "https://www.destructoid.com/static/destructoid-logo-1200x630.png"
+  },
+  {
+    "title": "Giant Bomb",
+    "url": "https://www.giantbomb.com",
+    "description": "Giant Bomb is a video game website that features reviews, news, wikis, videos, and podcasts about the games you love.",
+    "keywords": ["giantbomb", "gaming", "video games", "reviews", "wiki", "videos", "podcast"],
+    "image": "https://www.giantbomb.com/static/giantbomb-logo-1200x630.png"
+  },
+  {
+    "title": "Metacritic",
+    "url": "https://www.metacritic.com",
+    "description": "Metacritic aggregates music, game, tv, and movie reviews from the world's leading critics, assigning a normalized score that helps you say where to spend your time.",
+    "keywords": ["metacritic", "reviews", "scores", "games", "movies", "tv", "music"],
+    "image": "https://www.metacritic.com/images/metacritic-logo-1200x630.png"
+  },
+  {
+    "title": "Rotten Tomatoes",
+    "url": "https://www.rottentomatoes.com",
+    "description": "Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets",
+    "keywords": ["rottentomatoes", "movies", "reviews", "tomato", "film", "tv", "ratings"],
+    "image": "https://www.rottentomatoes.com/assets/pizza-pie/images/rtlogo-1200x630.png"
+  },
+  {
+    "title": "IMDb",
+    "url": "https://www.imdb.com",
+    "description": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows.",
+    "keywords": ["imdb", "movies", "tv", "celebrities", "reviews", "ratings", "film"],
+    "image": "https://www.imdb.com/images/logo-imdb-1200x630.png"
+  },
+  {
+    "title": "Letterboxd",
+    "url": "https://letterboxd.com",
+    "description": "Letterboxd is a social platform for sharing your taste in film. Use it as a diary to record your opinion about films as you watch them, or just to keep track of films you’ve seen in the past.",
+    "keywords": ["letterboxd", "movies", "film", "social", "reviews", "diary", "community"],
+    "image": "https://letterboxd.com/images/letterboxd-logo-1200x630.png"
+  },
+  {
+    "title": "Goodreads",
+    "url": "https://www.goodreads.com",
+    "description": "Goodreads is the world's largest site for readers and book recommendations. Our mission is to help people find and share books they love.",
+    "keywords": ["goodreads", "books", "reading", "reviews", "recommendations", "author", "community"],
+    "image": "https://www.goodreads.com/images/gr-logo-1200x630.png"
+  },
+  {
+    "title": "Discogs",
+    "url": "https://www.discogs.com",
+    "description": "Discogs is a database and marketplace for music on vinyl, CD, cassette and more. Discover music, connect with collectors, and shop for rare releases.",
+    "keywords": ["discogs", "music", "vinyl", "records", "marketplace", "collectors", "database"],
+    "image": "https://www.discogs.com/images/discogs-logo-1200x630.png"
+  },
+  {
+    "title": "Bandcamp",
+    "url": "https://bandcamp.com",
+    "description": "Bandcamp is a community of artists, labels, and fans who come together to support and discover new music. Discover amazing music and directly support the artists who make it.",
+    "keywords": ["bandcamp", "music", "artists", "labels", "discover", "support", "independent"],
+    "image": "https://bandcamp.com/img/bandcamp-logo-1200x630.png"
+  },
+  {
+    "title": "SoundCloud",
+    "url": "https://soundcloud.com",
+    "description": "SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, or upload your own. Start listening today!",
+    "keywords": ["soundcloud", "music", "streaming", "podcast", "audio", "discover", "upload"],
+    "image": "https://soundcloud.com/press-assets/images/logo-soundcloud-1200x630.png"
+  },
+  {
+    "title": "Mixcloud",
+    "url": "https://www.mixcloud.com",
+    "description": "Mixcloud is a streaming platform for radio, music, and podcast culture. Discover and support the voices behind the culture you love.",
+    "keywords": ["mixcloud", "music", "radio", "podcast", "streaming", "dj", "culture"],
+    "image": "https://www.mixcloud.com/media/images/www/mixcloud-logo-1200x630.png"
   }
 ]
