@@ -1,5 +1,712 @@
 [
   {
+    "title": "McKinsey & Company",
+    "url": "https://www.mckinsey.com",
+    "description": "McKinsey is a global management consulting firm committed to helping organizations create Change that Matters. We work with leaders across private, public, and social sectors to solve their most important challenges.",
+    "keywords": ["mckinsey", "consulting", "management", "strategy", "business", "advisory", "global"],
+    "image": "https://www.mckinsey.com/images/mckinsey-logo-1200x630.png"
+  },
+  {
+    "title": "Boston Consulting Group",
+    "url": "https://www.bcg.com",
+    "description": "BCG is a global management consulting firm that partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities.",
+    "keywords": ["bcg", "boston consulting group", "consulting", "strategy", "business", "advisory", "global"],
+    "image": "https://www.bcg.com/images/bcg-logo-1200x630.png"
+  },
+  {
+    "title": "Bain & Company",
+    "url": "https://www.bain.com",
+    "description": "Bain & Company is a global management consulting firm that helps the world's most ambitious change makers define the future.",
+    "keywords": ["bain", "consulting", "management", "strategy", "business", "advisory", "global"],
+    "image": "https://www.bain.com/images/bain-logo-1200x630.png"
+  },
+  {
+    "title": "Deloitte",
+    "url": "https://www.deloitte.com",
+    "description": "Deloitte provides industry-leading audit, consulting, tax, and advisory services to many of the world's most admired brands. We help organizations make an impact that matters.",
+    "keywords": ["deloitte", "audit", "consulting", "tax", "advisory", "professional services", "big four"],
+    "image": "https://www.deloitte.com/images/deloitte-logo-1200x630.png"
+  },
+  {
+    "title": "PwC",
+    "url": "https://www.pwc.com",
+    "description": "PwC is a global network of firms delivering world-class assurance, tax, and consulting services to help organizations and individuals create the value they're looking for.",
+    "keywords": ["pwc", "pricewaterhousecoopers", "audit", "consulting", "tax", "professional services", "big four"],
+    "image": "https://www.pwc.com/images/pwc-logo-1200x630.png"
+  },
+  {
+    "title": "EY",
+    "url": "https://www.ey.com",
+    "description": "EY is a global leader in assurance, tax, transaction and advisory services. We help build a better working world by creating long-term value for clients, people, and society.",
+    "keywords": ["ey", "ernst young", "audit", "consulting", "tax", "professional services", "big four"],
+    "image": "https://www.ey.com/images/ey-logo-1200x630.png"
+  },
+  {
+    "title": "KPMG",
+    "url": "https://home.kpmg",
+    "description": "KPMG is a global network of professional firms providing audit, tax, and advisory services. We work with clients to manage risk and create value.",
+    "keywords": ["kpmg", "audit", "consulting", "tax", "professional services", "big four", "advisory"],
+    "image": "https://home.kpmg/images/kpmg-logo-1200x630.png"
+  },
+  {
+    "title": "Accenture",
+    "url": "https://www.accenture.com",
+    "description": "Accenture is a global professional services company with leading capabilities in digital, cloud, and security. We combine unmatched experience and specialized skills across more than 40 industries.",
+    "keywords": ["accenture", "consulting", "technology", "digital", "cloud", "outsourcing", "professional services"],
+    "image": "https://www.accenture.com/images/accenture-logo-1200x630.png"
+  },
+  {
+    "title": "IBM",
+    "url": "https://www.ibm.com",
+    "description": "IBM is a leading global hybrid cloud and AI, and business services company. We help clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs, and gain the competitive edge.",
+    "keywords": ["ibm", "technology", "cloud", "ai", "consulting", "software", "hardware"],
+    "image": "https://www.ibm.com/images/ibm-logo-1200x630.png"
+  },
+  {
+    "title": "Oracle",
+    "url": "https://www.oracle.com",
+    "description": "Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. We provide database, cloud engineering, and enterprise software solutions.",
+    "keywords": ["oracle", "database", "cloud", "software", "enterprise", "technology", "java"],
+    "image": "https://www.oracle.com/images/oracle-logo-1200x630.png"
+  },
+  {
+    "title": "SAP",
+    "url": "https://www.sap.com",
+    "description": "SAP is the market leader in enterprise application software, helping companies of all sizes and industries run better. From back office to boardroom, warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently.",
+    "keywords": ["sap", "enterprise software", "erp", "business software", "germany", "cloud", "analytics"],
+    "image": "https://www.sap.com/images/sap-logo-1200x630.png"
+  },
+  {
+    "title": "Salesforce",
+    "url": "https://www.salesforce.com",
+    "description": "Salesforce is the world's #1 customer relationship management (CRM) platform. We help your marketing, sales, commerce, service and IT teams work as one from anywhere.",
+    "keywords": ["salesforce", "crm", "cloud", "software", "customer relationship", "marketing", "sales"],
+    "image": "https://www.salesforce.com/images/salesforce-logo-1200x630.png"
+  },
+  {
+    "title": "ServiceNow",
+    "url": "https://www.servicenow.com",
+    "description": "ServiceNow makes work, work better. We deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise.",
+    "keywords": ["servicenow", "workflow", "it service management", "digital", "cloud", "enterprise", "productivity"],
+    "image": "https://www.servicenow.com/images/servicenow-logo-1200x630.png"
+  },
+  {
+    "title": "Workday",
+    "url": "https://www.workday.com",
+    "description": "Workday is a leading provider of enterprise cloud applications for finance, HR, and planning. We help customers adapt and thrive in a changing world.",
+    "keywords": ["workday", "hr software", "finance", "cloud", "enterprise", "human resources", "planning"],
+    "image": "https://www.workday.com/images/workday-logo-1200x630.png"
+  },
+  {
+    "title": "Adobe",
+    "url": "https://www.adobe.com",
+    "description": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content and applications.",
+    "keywords": ["adobe", "creative cloud", "photoshop", "pdf", "design", "software", "digital"],
+    "image": "https://www.adobe.com/images/adobe-logo-1200x630.png"
+  },
+  {
+    "title": "Autodesk",
+    "url": "https://www.autodesk.com",
+    "description": "Autodesk is a global leader in design and make technology, with expertise across architecture, engineering, construction, design, manufacturing, and entertainment.",
+    "keywords": ["autodesk", "cad", "design", "software", "autocad", "3d", "engineering"],
+    "image": "https://www.autodesk.com/images/autodesk-logo-1200x630.png"
+  },
+  {
+    "title": "Dassault Systèmes",
+    "url": "https://www.3ds.com",
+    "description": "Dassault Systèmes is a leading 3D design software, 3D digital mockup, and product lifecycle management solutions provider. We provide business and people with virtual universes to imagine sustainable innovations.",
+    "keywords": ["dassault", "3d", "cad", "software", "solidworks", "plm", "virtual twin"],
+    "image": "https://www.3ds.com/images/3ds-logo-1200x630.png"
+  },
+  {
+    "title": "Siemens Digital Industries Software",
+    "url": "https://www.sw.siemens.com",
+    "description": "Siemens Digital Industries Software is a leading global provider of product lifecycle management and manufacturing operations management software.",
+    "keywords": ["siemens", "plm", "software", "digital twin", "manufacturing", "cad", "industrial"],
+    "image": "https://www.sw.siemens.com/images/siemens-logo-1200x630.png"
+  },
+  {
+    "title": "PTC",
+    "url": "https://www.ptc.com",
+    "description": "PTC is a global provider of technology platforms and solutions that help companies design, manufacture, and service products. We enable industrial innovation with cad, plm, iot, and ar solutions.",
+    "keywords": ["ptc", "cad", "plm", "iot", "augmented reality", "software", "engineering"],
+    "image": "https://www.ptc.com/images/ptc-logo-1200x630.png"
+  },
+  {
+    "title": "ANSYS",
+    "url": "https://www.ansys.com",
+    "description": "ANSYS engineering simulation and 3D design software delivers product modeling solutions with unmatched scalability and a comprehensive multiphysics foundation.",
+    "keywords": ["ansys", "simulation", "engineering", "software", "cfd", "fea", "multiphysics"],
+    "image": "https://www.ansys.com/images/ansys-logo-1200x630.png"
+  },
+  {
+    "title": "Synopsys",
+    "url": "https://www.synopsys.com",
+    "description": "Synopsys is the Silicon to Software partner for innovative companies developing electronic products and software applications. We provide the most advanced tools for chip design and software security.",
+    "keywords": ["synopsys", "eda", "semiconductor", "chip design", "software security", "ip", "verification"],
+    "image": "https://www.synopsys.com/images/synopsys-logo-1200x630.png"
+  },
+  {
+    "title": "Cadence",
+    "url": "https://www.cadence.com",
+    "description": "Cadence is a leading EDA and intellectual property company. We deliver tools, software, and IP for intelligent system design across a variety of vertical markets.",
+    "keywords": ["cadence", "eda", "semiconductor", "chip design", "ip", "verification", "system design"],
+    "image": "https://www.cadence.com/images/cadence-logo-1200x630.png"
+  },
+  {
+    "title": "ARM",
+    "url": "https://www.arm.com",
+    "description": "Arm technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. Our advanced processor designs have powered more than 250 billion chips.",
+    "keywords": ["arm", "processor", "semiconductor", "chip design", "ip", "mobile", "iot"],
+    "image": "https://www.arm.com/images/arm-logo-1200x630.png"
+  },
+  {
+    "title": "Qualcomm",
+    "url": "https://www.qualcomm.com",
+    "description": "Qualcomm is the world's leading wireless technology innovator and the driving force behind the development, launch, and expansion of 5G. We are fundamentally enabling the world to be better connected.",
+    "keywords": ["qualcomm", "snapdragon", "5g", "semiconductor", "mobile", "wireless", "chips"],
+    "image": "https://www.qualcomm.com/images/qualcomm-logo-1200x630.png"
+  },
+  {
+    "title": "Intel",
+    "url": "https://www.intel.com",
+    "description": "Intel is an industry leader, creating world-changing technology that enables global progress and enriches lives. We stand at the intersection of several technology inflection points: cloud, AI, 5G, and the intelligent edge.",
+    "keywords": ["intel", "processor", "semiconductor", "chip", "cpu", "technology", "silicon"],
+    "image": "https://www.intel.com/images/intel-logo-1200x630.png"
+  },
+  {
+    "title": "AMD",
+    "url": "https://www.amd.com",
+    "description": "AMD is driving innovation in high-performance computing, graphics, and visualization. We create products that power the data center, artificial intelligence, PC, gaming, and embedded markets.",
+    "keywords": ["amd", "processor", "graphics", "ryzen", "radeon", "semiconductor", "gpu"],
+    "image": "https://www.amd.com/images/amd-logo-1200x630.png"
+  },
+  {
+    "title": "NVIDIA",
+    "url": "https://www.nvidia.com",
+    "description": "NVIDIA is the world leader in artificial intelligence computing. We pioneered accelerated computing to solve challenges no one else can solve. Our work in AI and the metaverse is transforming the world's largest industries.",
+    "keywords": ["nvidia", "gpu", "graphics", "ai", "artificial intelligence", "geforce", "deep learning"],
+    "image": "https://www.nvidia.com/images/nvidia-logo-1200x630.png"
+  },
+  {
+    "title": "Micron",
+    "url": "https://www.micron.com",
+    "description": "Micron is an industry leader in innovative memory and storage solutions. We deliver a rich portfolio of high-performance memory and storage technologies, including DRAM, NAND, and NOR.",
+    "keywords": ["micron", "memory", "dram", "nand", "storage", "semiconductor", "crucial"],
+    "image": "https://www.micron.com/images/micron-logo-1200x630.png"
+  },
+  {
+    "title": "Western Digital",
+    "url": "https://www.westerndigital.com",
+    "description": "Western Digital creates environments for data to thrive. We are driving the innovation needed to help customers capture, preserve, access, and transform an ever-increasing diversity of data.",
+    "keywords": ["western digital", "wd", "hard drive", "storage", "ssd", "data", "san disk"],
+    "image": "https://www.westerndigital.com/images/wd-logo-1200x630.png"
+  },
+  {
+    "title": "Seagate",
+    "url": "https://www.seagate.com",
+    "description": "Seagate crafts the datasphere, helping humanity create, share, and preserve its most critical stories and memories. We are a leading provider of data storage technology and solutions.",
+    "keywords": ["seagate", "hard drive", "storage", "ssd", "data", "hdd", "backup"],
+    "image": "https://www.seagate.com/images/seagate-logo-1200x630.png"
+  },
+  {
+    "title": "Samsung Electronics",
+    "url": "https://www.samsung.com",
+    "description": "Samsung inspires the world and shapes the future with transformative ideas and technologies. We are redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions.",
+    "keywords": ["samsung", "electronics", "smartphone", "tv", "galaxy", "korea", "semiconductor"],
+    "image": "https://www.samsung.com/images/samsung-logo-1200x630.png"
+  },
+  {
+    "title": "LG Electronics",
+    "url": "https://www.lg.com",
+    "description": "LG Electronics is a global leader in consumer electronics, home appliances, and mobile communications. We are committed to making life good by providing innovative products with sleek design and smart technology.",
+    "keywords": ["lg", "electronics", "tv", "appliances", "korea", "smartphone", "oled"],
+    "image": "https://www.lg.com/images/lg-logo-1200x630.png"
+  },
+  {
+    "title": "Sony",
+    "url": "https://www.sony.com",
+    "description": "Sony is a creative entertainment company with a solid foundation of technology. We are built on the power of technology and the magic of creativity to create products and experiences that fill the world with emotion.",
+    "keywords": ["sony", "playstation", "electronics", "entertainment", "japan", "tv", "camera"],
+    "image": "https://www.sony.com/images/sony-logo-1200x630.png"
+  },
+  {
+    "title": "Panasonic",
+    "url": "https://www.panasonic.com",
+    "description": "Panasonic is a global leader in developing innovative technologies and solutions for wide-ranging applications in the consumer electronics, housing, automotive, and B2B sectors.",
+    "keywords": ["panasonic", "electronics", "japan", "tv", "appliances", "batteries", "automotive"],
+    "image": "https://www.panasonic.com/images/panasonic-logo-1200x630.png"
+  },
+  {
+    "title": "Toshiba",
+    "url": "https://www.toshiba.com",
+    "description": "Toshiba is a world-class diversified manufacturer, solutions provider, and innovator of electronics and energy systems, supporting a wide range of industries.",
+    "keywords": ["toshiba", "electronics", "japan", "laptops", "storage", "semiconductors", "energy"],
+    "image": "https://www.toshiba.com/images/toshiba-logo-1200x630.png"
+  },
+  {
+    "title": "Hitachi",
+    "url": "https://www.hitachi.com",
+    "description": "Hitachi drives Social Innovation Business, creating a sustainable society through the use of data and technology. We solve customers' and society's challenges with Lumada solutions.",
+    "keywords": ["hitachi", "japan", "technology", "electronics", "infrastructure", "energy", "rail"],
+    "image": "https://www.hitachi.com/images/hitachi-logo-1200x630.png"
+  },
+  {
+    "title": "Fujitsu",
+    "url": "https://www.fujitsu.com",
+    "description": "Fujitsu is a leading Japanese information and communication technology company, offering a full range of technology products, solutions, and services.",
+    "keywords": ["fujitsu", "japan", "technology", "it services", "computers", "cloud", "semiconductors"],
+    "image": "https://www.fujitsu.com/images/fujitsu-logo-1200x630.png"
+  },
+  {
+    "title": "NEC",
+    "url": "https://www.nec.com",
+    "description": "NEC is a leader in the integration of IT and network technologies. We provide solutions for public safety, enterprise, and telecommunications industries.",
+    "keywords": ["nec", "japan", "technology", "networks", "it services", "biometrics", "public safety"],
+    "image": "https://www.nec.com/images/nec-logo-1200x630.png"
+  },
+  {
+    "title": "Canon",
+    "url": "https://www.usa.canon.com",
+    "description": "Canon is a global leader in photographic and digital imaging solutions. We deliver innovative products for consumers and businesses, including cameras, printers, and medical equipment.",
+    "keywords": ["canon", "camera", "photography", "printer", "imaging", "japan", "eos"],
+    "image": "https://www.usa.canon.com/images/canon-logo-1200x630.png"
+  },
+  {
+    "title": "Nikon",
+    "url": "https://www.nikon.com",
+    "description": "Nikon is a world leader in optics and imaging, producing cameras, lenses, binoculars, microscopes, and semiconductor lithography equipment.",
+    "keywords": ["nikon", "camera", "photography", "lenses", "japan", "dlsr", "mirrorless"],
+    "image": "https://www.nikon.com/images/nikon-logo-1200x630.png"
+  },
+  {
+    "title": "Fujifilm",
+    "url": "https://www.fujifilm.com",
+    "description": "Fujifilm uses its advanced knowledge of photography to bring innovation to healthcare, materials science, and electronics. We create products that enhance lives and businesses.",
+    "keywords": ["fujifilm", "camera", "photography", "instax", "healthcare", "japan", "imaging"],
+    "image": "https://www.fujifilm.com/images/fujifilm-logo-1200x630.png"
+  },
+  {
+    "title": "Olympus",
+    "url": "https://www.olympus-global.com",
+    "description": "Olympus is a global leader in optical and digital precision technology for medical and surgical solutions, as well as cameras and audio products.",
+    "keywords": ["olympus", "camera", "medical", "endoscopy", "japan", "photography", "microscopes"],
+    "image": "https://www.olympus-global.com/images/olympus-logo-1200x630.png"
+  },
+  {
+    "title": "Leica Camera",
+    "url": "https://leica-camera.com",
+    "description": "Leica Camera is a German company that manufactures Leica cameras, lenses, and sport optics. We are known for our precision engineering and iconic rangefinder cameras.",
+    "keywords": ["leica", "camera", "photography", "german", "rangefinder", "lenses", "premium"],
+    "image": "https://leica-camera.com/images/leica-logo-1200x630.png"
+  },
+  {
+    "title": "Hasselblad",
+    "url": "https://www.hasselblad.com",
+    "description": "Hasselblad is a Swedish manufacturer of medium format cameras and photographic equipment. We are renowned for our iconic cameras used by NASA and professional photographers.",
+    "keywords": ["hasselblad", "camera", "medium format", "photography", "sweden", "nasa", "v system"],
+    "image": "https://www.hasselblad.com/images/hasselblad-logo-1200x630.png"
+  },
+  {
+    "title": "Phase One",
+    "url": "https://www.phaseone.com",
+    "description": "Phase One is a leading manufacturer of medium format camera systems and imaging solutions for professional photographers. We deliver unrivalled image quality.",
+    "keywords": ["phase one", "camera", "medium format", "photography", "digital back", "iq4", "capture one"],
+    "image": "https://www.phaseone.com/images/phaseone-logo-1200x630.png"
+  },
+  {
+    "title": "DJI",
+    "url": "https://www.dji.com",
+    "description": "DJI is a global leader in developing and manufacturing innovative drone and camera technology for commercial and recreational use. We are the world's leader in civilian drones and aerial imaging systems.",
+    "keywords": ["dji", "drone", "camera", "aerial", "phantom", "mavic", "gimbal"],
+    "image": "https://www.dji.com/images/dji-logo-1200x630.png"
+  },
+  {
+    "title": "GoPro",
+    "url": "https://gopro.com",
+    "description": "GoPro helps the world capture and share its most immersive experiences. We are an enabling technology partner, delivering mountable and wearable capture solutions for anyone wanting to capture themselves in the action.",
+    "keywords": ["gopro", "action camera", "hero", "video", "adventure", "wearable", "mount"],
+    "image": "https://gopro.com/images/gopro-logo-1200x630.png"
+  },
+  {
+    "title": "Garmin",
+    "url": "https://www.garmin.com",
+    "description": "Garmin is a global leader in GPS technology and wearable devices. We design, manufacture, and market navigation, communication, and information devices for automotive, aviation, marine, outdoor, and fitness markets.",
+    "keywords": ["garmin", "gps", "fitness tracker", "smartwatch", "aviation", "marine", "outdoor"],
+    "image": "https://www.garmin.com/images/garmin-logo-1200x630.png"
+  },
+  {
+    "title": "TomTom",
+    "url": "https://www.tomtom.com",
+    "description": "TomTom is a global leader in location technology. We create innovative products that keep the world moving: navigation devices, fleet management solutions, and real-time traffic information.",
+    "keywords": ["tomtom", "gps", "navigation", "maps", "traffic", "netherlands", "fleet"],
+    "image": "https://www.tomtom.com/images/tomtom-logo-1200x630.png"
+  },
+  {
+    "title": "Fitbit",
+    "url": "https://www.fitbit.com",
+    "description": "Fitbit helps people lead healthier, more active lives by empowering them with data, inspiration, and guidance to reach their goals. We are a leading wearables brand now part of Google.",
+    "keywords": ["fitbit", "fitness tracker", "wearable", "health", "activity", "sleep", "google"],
+    "image": "https://www.fitbit.com/images/fitbit-logo-1200x630.png"
+  },
+  {
+    "title": "Peloton",
+    "url": "https://www.onepeloton.com",
+    "description": "Peloton is an interactive fitness platform that brings instructor-led workouts into members' homes. We offer connected fitness products including the Bike, Tread, and App.",
+    "keywords": ["peloton", "fitness", "exercise bike", "workout", "streaming", "cycling", "home gym"],
+    "image": "https://www.onepeloton.com/images/peloton-logo-1200x630.png"
+  },
+  {
+    "title": "NordicTrack",
+    "url": "https://www.nordictrack.com",
+    "description": "NordicTrack is a leading brand of home fitness equipment, offering treadmills, exercise bikes, ellipticals, and strength training equipment with interactive training technology.",
+    "keywords": ["nordictrack", "fitness", "treadmill", "exercise bike", "workout", "ifit", "home gym"],
+    "image": "https://www.nordictrack.com/images/nordictrack-logo-1200x630.png"
+  },
+  {
+    "title": "Bowflex",
+    "url": "https://www.bowflex.com",
+    "description": "Bowflex is a brand of home fitness equipment known for innovative strength training machines, treadmills, and exercise bikes that deliver results.",
+    "keywords": ["bowflex", "fitness", "home gym", "strength training", "workout", "exercise", "weights"],
+    "image": "https://www.bowflex.com/images/bowflex-logo-1200x630.png"
+  },
+  {
+    "title": "SoulCycle",
+    "url": "https://www.soul-cycle.com",
+    "description": "SoulCycle is a full-body workout that fuses cardio, strength, and endurance training. We offer indoor cycling classes that inspire and empower riders.",
+    "keywords": ["soulcycle", "cycling", "fitness", "spin class", "workout", "indoor cycling", "nyc"],
+    "image": "https://www.soul-cycle.com/images/soulcycle-logo-1200x630.png"
+  },
+  {
+    "title": "Equinox",
+    "url": "https://www.equinox.com",
+    "description": "Equinox is a luxury fitness brand offering high-performance clubs, group fitness classes, and wellness experiences. We are more than a gym, we are a lifestyle.",
+    "keywords": ["equinox", "gym", "fitness", "luxury", "workout", "health club", "wellness"],
+    "image": "https://www.equinox.com/images/equinox-logo-1200x630.png"
+  },
+  {
+    "title": "Gold's Gym",
+    "url": "https://www.goldsgym.com",
+    "description": "Gold's Gym is the most recognized name in fitness, known as the Mecca of bodybuilding. We provide a supportive community and world-class equipment to help members achieve their goals.",
+    "keywords": ["golds gym", "fitness", "bodybuilding", "gym", "workout", "strength training", "venice beach"],
+    "image": "https://www.goldsgym.com/images/golds-logo-1200x630.png"
+  },
+  {
+    "title": "Planet Fitness",
+    "url": "https://www.planetfitness.com",
+    "description": "Planet Fitness is one of the largest and fastest-growing franchisors and operators of fitness centers in the United States. We provide a unique, non-intimidating environment with affordable pricing.",
+    "keywords": ["planet fitness", "gym", "fitness", "judgment free zone", "workout", "affordable", "pf black card"],
+    "image": "https://www.planetfitness.com/images/pf-logo-1200x630.png"
+  },
+  {
+    "title": "Anytime Fitness",
+    "url": "https://www.anytimefitness.com",
+    "description": "Anytime Fitness is a global gym chain offering 24/7 access to fitness facilities. We are dedicated to helping members get to a healthier place through convenience and community.",
+    "keywords": ["anytime fitness", "gym", "24/7", "fitness", "workout", "global", "convenience"],
+    "image": "https://www.anytimefitness.com/images/anytime-logo-1200x630.png"
+  },
+  {
+    "title": "24 Hour Fitness",
+    "url": "https://www.24hourfitness.com",
+    "description": "24 Hour Fitness is a leading fitness center chain offering gym access 24 hours a day. We provide a welcoming environment and a variety of equipment and classes.",
+    "keywords": ["24 hour fitness", "gym", "24/7", "fitness", "workout", "classes", "california"],
+    "image": "https://www.24hourfitness.com/images/24hour-logo-1200x630.png"
+  },
+  {
+    "title": "LA Fitness",
+    "url": "https://www.lafitness.com",
+    "description": "LA Fitness is a premier health club chain with locations across North America. We offer state-of-the-art equipment, group fitness classes, basketball, racquetball, and more.",
+    "keywords": ["la fitness", "gym", "health club", "fitness", "workout", "pool", "basketball"],
+    "image": "https://www.lafitness.com/images/lafitness-logo-1200x630.png"
+  },
+  {
+    "title": "YMCA",
+    "url": "https://www.ymca.org",
+    "description": "The YMCA is a leading nonprofit committed to strengthening community through youth development, healthy living, and social responsibility. We offer fitness, childcare, and community programs.",
+    "keywords": ["ymca", "nonprofit", "community", "fitness", "youth", "swimming", "childcare"],
+    "image": "https://www.ymca.org/images/ymca-logo-1200x630.png"
+  },
+  {
+    "title": "Boys & Girls Clubs of America",
+    "url": "https://www.bgca.org",
+    "description": "Boys & Girls Clubs of America provides safe places, caring mentors, and life-enhancing programs to millions of youth. We enable all young people to reach their full potential.",
+    "keywords": ["boys and girls clubs", "youth", "nonprofit", "mentoring", "after school", "community", "kids"],
+    "image": "https://www.bgca.org/images/bgca-logo-1200x630.png"
+  },
+  {
+    "title": "Big Brothers Big Sisters",
+    "url": "https://www.bbbs.org",
+    "description": "Big Brothers Big Sisters is the largest mentoring network in the United States. We create and support one-to-one mentoring relationships that ignite the power and promise of youth.",
+    "keywords": ["big brothers big sisters", "mentoring", "youth", "nonprofit", "children", "volunteer", "community"],
+    "image": "https://www.bbbs.org/images/bbbs-logo-1200x630.png"
+  },
+  {
+    "title": "United Way",
+    "url": "https://www.unitedway.org",
+    "description": "United Way fights for the health, education, and financial stability of every person in every community. We mobilize communities to action so all can thrive.",
+    "keywords": ["united way", "nonprofit", "community", "charity", "health", "education", "financial stability"],
+    "image": "https://www.unitedway.org/images/unitedway-logo-1200x630.png"
+  },
+  {
+    "title": "Feeding America",
+    "url": "https://www.feedingamerica.org",
+    "description": "Feeding America is the largest hunger-relief organization in the United States. We work to get nourishing food – from farmers, manufacturers, and retailers – to people facing hunger.",
+    "keywords": ["feeding america", "hunger", "food bank", "nonprofit", "food insecurity", "donate", "relief"],
+    "image": "https://www.feedingamerica.org/images/feedingamerica-logo-1200x630.png"
+  },
+  {
+    "title": "Salvation Army",
+    "url": "https://www.salvationarmyusa.org",
+    "description": "The Salvation Army is an evangelical part of the universal Christian church. We meet human needs without discrimination through a wide range of social services, disaster relief, and community programs.",
+    "keywords": ["salvation army", "charity", "nonprofit", "social services", "disaster relief", "church", "community"],
+    "image": "https://www.salvationarmyusa.org/images/salvationarmy-logo-1200x630.png"
+  },
+  {
+    "title": "Goodwill Industries",
+    "url": "https://www.goodwill.org",
+    "description": "Goodwill provides job training, employment placement services, and other community-based programs for people who have disabilities, lack education or job experience, or face employment challenges.",
+    "keywords": ["goodwill", "thrift store", "nonprofit", "job training", "employment", "donate", "community"],
+    "image": "https://www.goodwill.org/images/goodwill-logo-1200x630.png"
+  },
+  {
+    "title": "Habitat for Humanity",
+    "url": "https://www.habitat.org",
+    "description": "Habitat for Humanity brings people together to build homes, communities, and hope. We help families build and improve places to call home through affordable homeownership.",
+    "keywords": ["habitat for humanity", "housing", "nonprofit", "home building", "affordable housing", "volunteer", "community"],
+    "image": "https://www.habitat.org/images/habitat-logo-1200x630.png"
+  },
+  {
+    "title": "Make-A-Wish Foundation",
+    "url": "https://wish.org",
+    "description": "Make-A-Wish creates life-changing wishes for children with critical illnesses. We believe a wish can be a crucial turning point in a child's treatment journey.",
+    "keywords": ["make-a-wish", "children", "nonprofit", "wish", "charity", "illness", "hope"],
+    "image": "https://wish.org/images/makeawish-logo-1200x630.png"
+  },
+  {
+    "title": "St. Jude Children's Research Hospital",
+    "url": "https://www.stjude.org",
+    "description": "St. Jude is leading the way the world understands, treats, and defeats childhood cancer and other life-threatening diseases. Families never receive a bill for treatment, travel, housing, or food.",
+    "keywords": ["st jude", "children's hospital", "cancer research", "nonprofit", "pediatric", "memphis", "treatment"],
+    "image": "https://www.stjude.org/images/stjude-logo-1200x630.png"
+  },
+  {
+    "title": "Shriners Hospitals for Children",
+    "url": "https://www.shrinerschildrens.org",
+    "description": "Shriners Hospitals for Children is a health care system of 22 locations dedicated to providing pediatric specialty care, regardless of the families' ability to pay.",
+    "keywords": ["shriners", "children's hospital", "orthopedic", "burns", "pediatric", "nonprofit", "specialty care"],
+    "image": "https://www.shrinerschildrens.org/images/shriners-logo-1200x630.png"
+  },
+  {
+    "title": "Children's Miracle Network Hospitals",
+    "url": "https://childrensmiraclenetworkhospitals.org",
+    "description": "Children's Miracle Network Hospitals raises funds for 170 children's hospitals across North America. Donations stay local to fund critical treatments and healthcare services.",
+    "keywords": ["children's miracle network", "children's hospital", "nonprofit", "fundraising", "pediatric", "healthcare", "cmn"],
+    "image": "https://childrensmiraclenetworkhospitals.org/images/cmn-logo-1200x630.png"
+  },
+  {
+    "title": "March of Dimes",
+    "url": "https://www.marchofdimes.org",
+    "description": "March of Dimes leads the fight for the health of all moms and babies. We work to prevent birth defects, premature birth, and infant mortality through research, education, and advocacy.",
+    "keywords": ["march of dimes", "maternal health", "infant health", "premature birth", "nonprofit", "babies", "advocacy"],
+    "image": "https://www.marchofdimes.org/images/mod-logo-1200x630.png"
+  },
+  {
+    "title": "Cystic Fibrosis Foundation",
+    "url": "https://www.cff.org",
+    "description": "The Cystic Fibrosis Foundation is the world's leader in the search for a cure for cystic fibrosis. We fund research and provide support for people with CF and their families.",
+    "keywords": ["cystic fibrosis", "cf", "nonprofit", "research", "foundation", "health", "lung disease"],
+    "image": "https://www.cff.org/images/cff-logo-1200x630.png"
+  },
+  {
+    "title": "American Cancer Society",
+    "url": "https://www.cancer.org",
+    "description": "The American Cancer Society is a nationwide, community-based voluntary health organization dedicated to eliminating cancer. We save lives by helping people stay well and get well, by finding cures, and by fighting back.",
+    "keywords": ["american cancer society", "cancer", "research", "nonprofit", "relay for life", "oncology", "health"],
+    "image": "https://www.cancer.org/images/acs-logo-1200x630.png"
+  },
+  {
+    "title": "American Heart Association",
+    "url": "https://www.heart.org",
+    "description": "The American Heart Association is a leading force for a world of longer, healthier lives. We are dedicated to fighting heart disease and stroke through research, education, and advocacy.",
+    "keywords": ["american heart association", "heart disease", "stroke", "cpr", "research", "nonprofit", "health"],
+    "image": "https://www.heart.org/images/aha-logo-1200x630.png"
+  },
+  {
+    "title": "American Red Cross",
+    "url": "https://www.redcross.org",
+    "description": "The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors. We provide disaster relief, blood donations, and health and safety training.",
+    "keywords": ["american red cross", "disaster relief", "blood donation", "emergency", "nonprofit", "volunteer", "humanitarian"],
+    "image": "https://www.redcross.org/images/redcross-logo-1200x630.png"
+  },
+  {
+    "title": "Doctors Without Borders USA",
+    "url": "https://www.doctorswithoutborders.org",
+    "description": "Doctors Without Borders (Médecins Sans Frontières) USA provides independent, impartial medical humanitarian assistance to people affected by conflict, epidemics, disasters, or exclusion from health care.",
+    "keywords": ["doctors without borders", "msf", "medical", "humanitarian", "emergency", "aid", "nonprofit"],
+    "image": "https://www.doctorswithoutborders.org/images/msf-usa-logo-1200x630.png"
+  },
+  {
+    "title": "Partners In Health",
+    "url": "https://www.pih.org",
+    "description": "Partners In Health is a social justice organization that responds to the moral imperative to provide high-quality health care globally to those who need it most.",
+    "keywords": ["partners in health", "pih", "global health", "nonprofit", "medical", "humanitarian", "paul farmer"],
+    "image": "https://www.pih.org/images/pih-logo-1200x630.png"
+  },
+  {
+    "title": "CARE",
+    "url": "https://www.care.org",
+    "description": "CARE is a leading humanitarian organization fighting global poverty. We place special focus on working alongside poor women because, equipped with the proper resources, women have the power to help whole families and entire communities escape poverty.",
+    "keywords": ["care", "humanitarian", "poverty", "women", "global development", "nonprofit", "relief"],
+    "image": "https://www.care.org/images/care-logo-1200x630.png"
+  },
+  {
+    "title": "Oxfam America",
+    "url": "https://www.oxfamamerica.org",
+    "description": "Oxfam is a global organization that fights inequality to end poverty and injustice. We offer lifesaving support in times of crisis and advocate for economic justice, gender equality, and climate action.",
+    "keywords": ["oxfam", "poverty", "inequality", "humanitarian", "nonprofit", "global", "advocacy"],
+    "image": "https://www.oxfamamerica.org/images/oxfam-logo-1200x630.png"
+  },
+  {
+    "title": "Save the Children",
+    "url": "https://www.savethechildren.org",
+    "description": "Save the Children believes every child deserves a future. We give children a healthy start, the opportunity to learn, and protection from harm. We do whatever it takes for children – every day and in times of crisis.",
+    "keywords": ["save the children", "children", "humanitarian", "nonprofit", "child rights", "education", "health"],
+    "image": "https://www.savethechildren.org/images/savethechildren-logo-1200x630.png"
+  },
+  {
+    "title": "World Vision",
+    "url": "https://www.worldvision.org",
+    "description": "World Vision is a Christian humanitarian organization dedicated to working with children, families, and their communities worldwide to reach their full potential by tackling the causes of poverty and injustice.",
+    "keywords": ["world vision", "children", "humanitarian", "nonprofit", "sponsorship", "poverty", "christian"],
+    "image": "https://www.worldvision.org/images/worldvision-logo-1200x630.png"
+  },
+  {
+    "title": "Compassion International",
+    "url": "https://www.compassion.com",
+    "description": "Compassion International is a Christian child development organization working to release children from poverty in Jesus' name. We provide child sponsorship and holistic development programs.",
+    "keywords": ["compassion international", "child sponsorship", "poverty", "children", "nonprofit", "christian", "development"],
+    "image": "https://www.compassion.com/images/compassion-logo-1200x630.png"
+  },
+  {
+    "title": "Catholic Relief Services",
+    "url": "https://www.crs.org",
+    "description": "Catholic Relief Services carries out the commitment of the U.S. Catholic community to assist poor and vulnerable people overseas. We provide humanitarian aid and development assistance.",
+    "keywords": ["catholic relief services", "crs", "humanitarian", "nonprofit", "catholic", "global", "development"],
+    "image": "https://www.crs.org/images/crs-logo-1200x630.png"
+  },
+  {
+    "title": "Lutheran World Relief",
+    "url": "https://lwr.org",
+    "description": "Lutheran World Relief is a nonprofit organization that works to end poverty and injustice. We accompany communities as they build sustainable livelihoods and respond to natural disasters and humanitarian crises.",
+    "keywords": ["lutheran world relief", "lwr", "humanitarian", "nonprofit", "lutheran", "sustainable development", "disaster response"],
+    "image": "https://lwr.org/images/lwr-logo-1200x630.png"
+  },
+  {
+    "title": "Islamic Relief USA",
+    "url": "https://irusa.org",
+    "description": "Islamic Relief USA is a nonprofit humanitarian and development organization that provides relief and development programs to vulnerable populations, regardless of race, religion, or gender.",
+    "keywords": ["islamic relief", "humanitarian", "nonprofit", "muslim", "aid", "development", "usa"],
+    "image": "https://irusa.org/images/ir-usa-logo-1200x630.png"
+  },
+  {
+    "title": "Jewish Federations of North America",
+    "url": "https://www.jewishfederations.org",
+    "description": "The Jewish Federations of North America are at the center of Jewish life, building thriving Jewish communities and supporting people in need in North America, Israel, and around the world.",
+    "keywords": ["jewish federations", "jewish", "nonprofit", "community", "israel", "philanthropy", "humanitarian"],
+    "image": "https://www.jewishfederations.org/images/jewishfederations-logo-1200x630.png"
+  },
+  {
+    "title": "American Jewish Joint Distribution Committee",
+    "url": "https://www.jdc.org",
+    "description": "The American Jewish Joint Distribution Committee (JDC) is the leading global Jewish humanitarian organization, providing relief and rescue for Jewish communities in need worldwide.",
+    "keywords": ["jdc", "jewish", "humanitarian", "nonprofit", "relief", "global", "community"],
+    "image": "https://www.jdc.org/images/jdc-logo-1200x630.png"
+  },
+  {
+    "title": "HIAS",
+    "url": "https://www.hias.org",
+    "description": "HIAS is the global Jewish nonprofit that protects refugees—including women and children, ethnic and religious minorities—whose lives are in danger for being who they are.",
+    "keywords": ["hias", "refugees", "jewish", "humanitarian", "nonprofit", "immigration", "asylum"],
+    "image": "https://www.hias.org/images/hias-logo-1200x630.png"
+  },
+  {
+    "title": "International Rescue Committee",
+    "url": "https://www.rescue.org",
+    "description": "The International Rescue Committee responds to the world's worst humanitarian crises and helps people whose lives and livelihoods are shattered by conflict and disaster to survive, recover, and gain control of their future.",
+    "keywords": ["irc", "international rescue committee", "humanitarian", "refugees", "crisis", "nonprofit", "relief"],
+    "image": "https://www.rescue.org/images/irc-logo-1200x630.png"
+  },
+  {
+    "title": "Mercy Corps",
+    "url": "https://www.mercycorps.org",
+    "description": "Mercy Corps is a global team of humanitarians, working together on the front lines of today's biggest crises to create a future of possibility, where everyone can prosper.",
+    "keywords": ["mercy corps", "humanitarian", "nonprofit", "global", "crisis", "development", "relief"],
+    "image": "https://www.mercycorps.org/images/mercycorps-logo-1200x630.png"
+  },
+  {
+    "title": "Catholic Charities USA",
+    "url": "https://www.catholiccharitiesusa.org",
+    "description": "Catholic Charities USA is a national network of social service organizations providing help and creating hope for millions of people in need, regardless of their religious, social, or economic backgrounds.",
+    "keywords": ["catholic charities", "social services", "nonprofit", "catholic", "poverty", "community", "usa"],
+    "image": "https://www.catholiccharitiesusa.org/images/ccusa-logo-1200x630.png"
+  },
+  {
+    "title": "Volunteers of America",
+    "url": "https://www.voa.org",
+    "description": "Volunteers of America is a national, nonprofit organization that provides affordable housing and human services to support the most vulnerable populations, including veterans, seniors, and people with disabilities.",
+    "keywords": ["volunteers of america", "voa", "nonprofit", "social services", "housing", "veterans", "seniors"],
+    "image": "https://www.voa.org/images/voa-logo-1200x630.png"
+  },
+  {
+    "title": "American Kidney Fund",
+    "url": "https://www.kidneyfund.org",
+    "description": "The American Kidney Fund fights kidney disease on all fronts as the nation's leading nonprofit working on behalf of the 37 million Americans with kidney disease.",
+    "keywords": ["american kidney fund", "kidney disease", "health", "nonprofit", "dialysis", "transplant", "patient support"],
+    "image": "https://www.kidneyfund.org/images/akf-logo-1200x630.png"
+  },
+  {
+    "title": "American Lung Association",
+    "url": "https://www.lung.org",
+    "description": "The American Lung Association is the leading organization working to save lives by improving lung health and preventing lung disease through education, advocacy, and research.",
+    "keywords": ["american lung association", "lung health", "respiratory", "nonprofit", "asthma", "covid", "research"],
+    "image": "https://www.lung.org/images/ala-logo-1200x630.png"
+  },
+  {
+    "title": "Alzheimer's Association",
+    "url": "https://www.alz.org",
+    "description": "The Alzheimer's Association leads the way to end Alzheimer's and all other dementia — by accelerating global research, driving risk reduction and early detection, and maximizing quality care and support.",
+    "keywords": ["alzheimer's association", "alzheimers", "dementia", "research", "nonprofit", "caregiver", "brain health"],
+    "image": "https://www.alz.org/images/alz-logo-1200x630.png"
+  },
+  {
+    "title": "Parkinson's Foundation",
+    "url": "https://www.parkinson.org",
+    "description": "The Parkinson's Foundation makes life better for people with Parkinson's disease by improving care and advancing research toward a cure.",
+    "keywords": ["parkinsons foundation", "parkinsons", "neurology", "research", "nonprofit", "patient support", "movement disorders"],
+    "image": "https://www.parkinson.org/images/pf-logo-1200x630.png"
+  },
+  {
+    "title": "Arthritis Foundation",
+    "url": "https://www.arthritis.org",
+    "description": "The Arthritis Foundation is the leading nonprofit organization dedicated to fighting arthritis with life-changing information, advocacy, science, and community.",
+    "keywords": ["arthritis foundation", "arthritis", "joint pain", "rheumatoid", "nonprofit", "research", "patient support"],
+    "image": "https://www.arthritis.org/images/af-logo-1200x630.png"
+  },
+  {
+    "title": "Diabetes Research Institute",
+    "url": "https://www.diabetesresearch.org",
+    "description": "The Diabetes Research Institute is dedicated to developing a biological cure for diabetes. We are a global leader in cure-focused research.",
+    "keywords": ["diabetes research institute", "diabetes", "type 1 diabetes", "cure", "research", "nonprofit", "miami"],
+    "image": "https://www.diabetesresearch.org/images/dri-logo-1200x630.png"
+  },
+  {
+    "title": "JDRF",
+    "url": "https://www.jdrf.org",
+    "description": "JDRF is the leading global organization funding type 1 diabetes (T1D) research. We are dedicated to improving lives and driving progress toward a cure.",
+    "keywords": ["jdrf", "type 1 diabetes", "t1d", "research", "nonprofit", "cure", "juvenile diabetes"],
+    "image": "https://www.jdrf.org/images/jdrf-logo-1200x630.png"
+  },
+  {
     "title": "World Health Organization",
     "url": "https://www.who.int",
     "description": "WHO is the directing and coordinating authority for health within the United Nations system. It is responsible for providing leadership on global health matters.",
