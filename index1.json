@@ -1,5 +1,698 @@
 [
   {
+    "title": "National Geographic",
+    "url": "https://www.nationalgeographic.com",
+    "description": "Explore National Geographic. A world leader in geography, cartography and exploration.",
+    "keywords": ["natgeo", "geography", "science", "exploration", "nature", "photography", "travel"],
+    "image": "https://www.nationalgeographic.com/etc/designs/platform/refresh/images/natgeo-logo.png"
+  },
+  {
+    "title": "Discovery Channel",
+    "url": "https://www.discovery.com",
+    "description": "Watch your favorite Discovery Channel shows and find exclusive content on video, articles, and more.",
+    "keywords": ["discovery", "tv", "documentary", "science", "nature", "shows", "education"],
+    "image": "https://discovery-logo-1200x630.png"
+  },
+  {
+    "title": "History Channel",
+    "url": "https://www.history.com",
+    "description": "Watch full episodes of your favorite HISTORY series, and dive into thousands of historical articles and videos.",
+    "keywords": ["history", "documentary", "tv", "past", "ancient", "world", "education"],
+    "image": "https://www.history.com/images/history-logo-1200x630.png"
+  },
+  {
+    "title": "Smithsonian",
+    "url": "https://www.si.edu",
+    "description": "The Smithsonian Institution is the world's largest museum, education, and research complex.",
+    "keywords": ["smithsonian", "museum", "education", "research", "history", "art", "science"],
+    "image": "https://www.si.edu/sites/default/files/si-logo-1200x630.png"
+  },
+  {
+    "title": "NASA",
+    "url": "https://www.nasa.gov",
+    "description": "NASA.gov brings you the latest images, videos and news from America's space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.",
+    "keywords": ["nasa", "space", "science", "exploration", "astronomy", "universe", "technology"],
+    "image": "https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg"
+  },
+  {
+    "title": "SpaceX",
+    "url": "https://www.spacex.com",
+    "description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.",
+    "keywords": ["spacex", "space", "rocket", "launch", "mars", "elon musk", "starship"],
+    "image": "https://www.spacex.com/static/images/share.jpg"
+  },
+  {
+    "title": "Tesla",
+    "url": "https://www.tesla.com",
+    "description": "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions.",
+    "keywords": ["tesla", "electric", "car", "vehicle", "ev", "automotive", "energy"],
+    "image": "https://www.tesla.com/tesla-logo-1200x630.png"
+  },
+  {
+    "title": "Rivian",
+    "url": "https://www.rivian.com",
+    "description": "Rivian is on a mission to keep the world adventurous forever. We're developing electric vehicles that are capable, electric, and sustainable.",
+    "keywords": ["rivian", "electric", "truck", "suv", "ev", "adventure", "automotive"],
+    "image": "https://www.rivian.com/images/rivian-logo-1200x630.png"
+  },
+  {
+    "title": "Lucid Motors",
+    "url": "https://www.lucidmotors.com",
+    "description": "Lucid is a leading electric vehicle manufacturer, combining luxury and performance with sustainable technology.",
+    "keywords": ["lucid", "electric", "luxury", "ev", "car", "automotive", "premium"],
+    "image": "https://www.lucidmotors.com/images/lucid-logo-1200x630.png"
+  },
+  {
+    "title": "NIO",
+    "url": "https://www.nio.com",
+    "description": "NIO Inc. is a pioneer in China's premium smart electric vehicle market. We design, develop, and manufacture smart electric vehicles.",
+    "keywords": ["nio", "electric", "ev", "china", "smart", "automotive", "premium"],
+    "image": "https://www.nio.com/images/nio-logo-1200x630.png"
+  },
+  {
+    "title": "BYD",
+    "url": "https://www.byd.com",
+    "description": "BYD is a leading global manufacturer of electric vehicles, batteries, and renewable energy solutions.",
+    "keywords": ["byd", "electric", "ev", "battery", "china", "automotive", "energy"],
+    "image": "https://www.byd.com/images/byd-logo-1200x630.png"
+  },
+  {
+    "title": "Ford",
+    "url": "https://www.ford.com",
+    "description": "Ford Motor Company is an American automaker that designs, manufactures, markets, and services a full line of Ford cars, trucks, SUVs, electrified vehicles, and Lincoln luxury vehicles.",
+    "keywords": ["ford", "car", "truck", "automotive", "american", "vehicle", "mustang"],
+    "image": "https://www.ford.com/images/ford-logo-1200x630.png"
+  },
+  {
+    "title": "Chevrolet",
+    "url": "https://www.chevrolet.com",
+    "description": "Chevrolet Official Site – Explore Chevrolet vehicles, build your own, and explore current offers.",
+    "keywords": ["chevrolet", "chevy", "car", "truck", "automotive", "american", "vehicle"],
+    "image": "https://www.chevrolet.com/images/chevrolet-logo-1200x630.png"
+  },
+  {
+    "title": "Toyota",
+    "url": "https://www.toyota.com",
+    "description": "Explore the entire lineup of Toyota cars, trucks, SUVs, and hybrids. Build your own, search inventory, and explore current special offers.",
+    "keywords": ["toyota", "car", "japanese", "automotive", "reliable", "vehicle", "hybrid"],
+    "image": "https://www.toyota.com/images/toyota-logo-1200x630.png"
+  },
+  {
+    "title": "Honda",
+    "url": "https://www.honda.com",
+    "description": "Honda offers a full line of reliable, fuel-efficient, and fun-to-drive vehicles, from cars and trucks to SUVs and minivans.",
+    "keywords": ["honda", "car", "japanese", "automotive", "reliable", "vehicle", "civic"],
+    "image": "https://www.honda.com/images/honda-logo-1200x630.png"
+  },
+  {
+    "title": "Nissan",
+    "url": "https://www.nissanusa.com",
+    "description": "Nissan USA Official Site: Explore Nissan cars, trucks, and SUVs. Build your own, find a dealer, and explore current offers.",
+    "keywords": ["nissan", "car", "japanese", "automotive", "vehicle", "altima", "gt-r"],
+    "image": "https://www.nissanusa.com/images/nissan-logo-1200x630.png"
+  },
+  {
+    "title": "BMW",
+    "url": "https://www.bmw.com",
+    "description": "BMW USA: Discover the latest BMW models, from luxury sedans to SUVs. Build your own, find a dealer, and explore current offers.",
+    "keywords": ["bmw", "german", "luxury", "automotive", "car", "performance", "ultimate driving machine"],
+    "image": "https://www.bmw.com/images/bmw-logo-1200x630.png"
+  },
+  {
+    "title": "Mercedes-Benz",
+    "url": "https://www.mercedes-benz.com",
+    "description": "Mercedes-Benz USA: Explore luxury sedans, SUVs, coupes, convertibles, and more. Build your own and find a dealer near you.",
+    "keywords": ["mercedes", "german", "luxury", "automotive", "car", "premium", "benz"],
+    "image": "https://www.mercedes-benz.com/images/mercedes-logo-1200x630.png"
+  },
+  {
+    "title": "Audi",
+    "url": "https://www.audiusa.com",
+    "description": "Audi USA: Discover the latest Audi models, from luxury sedans to SUVs and electric vehicles. Build your own and find a dealer.",
+    "keywords": ["audi", "german", "luxury", "automotive", "car", "premium", "quattro"],
+    "image": "https://www.audiusa.com/images/audi-logo-1200x630.png"
+  },
+  {
+    "title": "Porsche",
+    "url": "https://www.porsche.com",
+    "description": "Porsche USA: Discover the legendary sports cars, sedans, and SUVs. Build your own 911, Cayenne, Taycan, and more.",
+    "keywords": ["porsche", "german", "luxury", "sports car", "automotive", "911", "performance"],
+    "image": "https://www.porsche.com/images/porsche-logo-1200x630.png"
+  },
+  {
+    "title": "Ferrari",
+    "url": "https://www.ferrari.com",
+    "description": "Ferrari Official Website: Discover the latest models, experience the world of Ferrari, and explore the passion of the Prancing Horse.",
+    "keywords": ["ferrari", "italian", "luxury", "sports car", "automotive", "supercar", "performance"],
+    "image": "https://www.ferrari.com/images/ferrari-logo-1200x630.png"
+  },
+  {
+    "title": "Lamborghini",
+    "url": "https://www.lamborghini.com",
+    "description": "Lamborghini Official Website: Discover the latest models, explore the world of Lamborghini, and experience the future of super sports cars.",
+    "keywords": ["lamborghini", "italian", "luxury", "sports car", "supercar", "automotive", "performance"],
+    "image": "https://www.lamborghini.com/images/lamborghini-logo-1200x630.png"
+  },
+  {
+    "title": "McLaren",
+    "url": "https://www.mclaren.com",
+    "description": "McLaren Automotive: Discover the latest supercars and hypercars, from the Artura to the Speedtail. Experience British engineering at its finest.",
+    "keywords": ["mclaren", "british", "luxury", "supercar", "automotive", "performance", "hypercar"],
+    "image": "https://www.mclaren.com/images/mclaren-logo-1200x630.png"
+  },
+  {
+    "title": "Bugatti",
+    "url": "https://www.bugatti.com",
+    "description": "Bugatti Official Website: Discover the ultimate hyper sports cars, from the Veyron to the Chiron and beyond.",
+    "keywords": ["bugatti", "french", "luxury", "hypercar", "automotive", "performance", "exclusive"],
+    "image": "https://www.bugatti.com/images/bugatti-logo-1200x630.png"
+  },
+  {
+    "title": "Rolls-Royce",
+    "url": "https://www.rolls-roycemotorcars.com",
+    "description": "Rolls-Royce Motor Cars: Discover the pinnacle of luxury automobiles, from the Phantom to the Ghost and Cullinan.",
+    "keywords": ["rolls royce", "british", "luxury", "automotive", "premium", "exclusive", "chauffeur"],
+    "image": "https://www.rolls-roycemotorcars.com/images/rolls-royce-logo-1200x630.png"
+  },
+  {
+    "title": "Bentley",
+    "url": "https://www.bentleymotors.com",
+    "description": "Bentley Motors: Discover the finest luxury vehicles in the world, from the Continental GT to the Bentayga and Flying Spur.",
+    "keywords": ["bentley", "british", "luxury", "automotive", "premium", "grand tourer", "exclusive"],
+    "image": "https://www.bentleymotors.com/images/bentley-logo-1200x630.png"
+  },
+  {
+    "title": "Aston Martin",
+    "url": "https://www.astonmartin.com",
+    "description": "Aston Martin: The official home of Aston Martin, the British luxury sports car manufacturer behind the DB11, Vantage, DBS, and DBX.",
+    "keywords": ["aston martin", "british", "luxury", "sports car", "james bond", "automotive", "performance"],
+    "image": "https://www.astonmartin.com/images/aston-martin-logo-1200x630.png"
+  },
+  {
+    "title": "Maserati",
+    "url": "https://www.maserati.com",
+    "description": "Maserati Official Website: Discover the latest luxury vehicles, from the Ghibli to the Levante and MC20. Experience Italian elegance and performance.",
+    "keywords": ["maserati", "italian", "luxury", "automotive", "sports car", "performance", "elegance"],
+    "image": "https://www.maserati.com/images/maserati-logo-1200x630.png"
+  },
+  {
+    "title": "Alfa Romeo",
+    "url": "https://www.alfaromeo.com",
+    "description": "Alfa Romeo Official Website: Discover the Italian passion and performance of the Giulia, Stelvio, and Tonale.",
+    "keywords": ["alfa romeo", "italian", "automotive", "sports car", "performance", "passion", "design"],
+    "image": "https://www.alfaromeo.com/images/alfa-romeo-logo-1200x630.png"
+  },
+  {
+    "title": "Jeep",
+    "url": "https://www.jeep.com",
+    "description": "Jeep Official Site: Explore the legendary off-road capability of Jeep SUVs, from the Wrangler to the Grand Cherokee.",
+    "keywords": ["jeep", "off-road", "suv", "4x4", "adventure", "automotive", "trail"],
+    "image": "https://www.jeep.com/images/jeep-logo-1200x630.png"
+  },
+  {
+    "title": "Ram Trucks",
+    "url": "https://www.ramtrucks.com",
+    "description": "Ram Trucks Official Site: Explore the full lineup of Ram trucks, from the 1500 to the Heavy Duty and ProMaster.",
+    "keywords": ["ram", "truck", "pickup", "automotive", "work", "capability", "durable"],
+    "image": "https://www.ramtrucks.com/images/ram-logo-1200x630.png"
+  },
+  {
+    "title": "GMC",
+    "url": "https://www.gmc.com",
+    "description": "GMC Official Site: Explore professional grade trucks, SUVs, and crossovers, from the Sierra to the Yukon and Terrain.",
+    "keywords": ["gmc", "truck", "suv", "professional grade", "automotive", "american", "durable"],
+    "image": "https://www.gmc.com/images/gmc-logo-1200x630.png"
+  },
+  {
+    "title": "Cadillac",
+    "url": "https://www.cadillac.com",
+    "description": "Cadillac Official Site: Discover American luxury vehicles, from the Escalade to the CT5 and Lyriq EV.",
+    "keywords": ["cadillac", "american", "luxury", "automotive", "premium", "escalade", "design"],
+    "image": "https://www.cadillac.com/images/cadillac-logo-1200x630.png"
+  },
+  {
+    "title": "Lincoln",
+    "url": "https://www.lincoln.com",
+    "description": "Lincoln Official Site: Discover the quiet luxury of Lincoln vehicles, from the Navigator to the Aviator and Corsair.",
+    "keywords": ["lincoln", "american", "luxury", "automotive", "quiet luxury", "comfort", "premium"],
+    "image": "https://www.lincoln.com/images/lincoln-logo-1200x630.png"
+  },
+  {
+    "title": "Volvo",
+    "url": "https://www.volvocars.com",
+    "description": "Volvo Cars Official Site: Discover Swedish-designed luxury vehicles with a focus on safety, sustainability, and innovation.",
+    "keywords": ["volvo", "swedish", "luxury", "safety", "automotive", "scandinavian", "design"],
+    "image": "https://www.volvocars.com/images/volvo-logo-1200x630.png"
+  },
+  {
+    "title": "Jaguar",
+    "url": "https://www.jaguar.com",
+    "description": "Jaguar Official Website: Discover the art of performance with luxury sedans and SUVs, from the F-PACE to the I-PACE.",
+    "keywords": ["jaguar", "british", "luxury", "performance", "automotive", "design", "elegance"],
+    "image": "https://www.jaguar.com/images/jaguar-logo-1200x630.png"
+  },
+  {
+    "title": "Land Rover",
+    "url": "https://www.landrover.com",
+    "description": "Land Rover Official Website: Explore the world's most capable luxury SUVs, from the Range Rover to the Defender and Discovery.",
+    "keywords": ["land rover", "british", "luxury", "suv", "off-road", "capability", "adventure"],
+    "image": "https://www.landrover.com/images/land-rover-logo-1200x630.png"
+  },
+  {
+    "title": "Mini",
+    "url": "https://www.miniusa.com",
+    "description": "Mini USA Official Site: Discover the iconic Mini hardtop, convertible, and countryman. Build your own and explore current offers.",
+    "keywords": ["mini", "british", "small car", "iconic", "automotive", "fun", "cooper"],
+    "image": "https://www.miniusa.com/images/mini-logo-1200x630.png"
+  },
+  {
+    "title": "Fiat",
+    "url": "https://www.fiatusa.com",
+    "description": "Fiat USA Official Site: Discover the Italian style of the Fiat 500 and 500X. Small cars with big personality.",
+    "keywords": ["fiat", "italian", "small car", "style", "automotive", "500", "european"],
+    "image": "https://www.fiatusa.com/images/fiat-logo-1200x630.png"
+  },
+  {
+    "title": "Mitsubishi",
+    "url": "https://www.mitsubishicars.com",
+    "description": "Mitsubishi Motors Official Site: Explore SUVs, crossovers, and electric vehicles with confidence and capability.",
+    "keywords": ["mitsubishi", "japanese", "suv", "automotive", "reliable", "outlander", "eclipse cross"],
+    "image": "https://www.mitsubishicars.com/images/mitsubishi-logo-1200x630.png"
+  },
+  {
+    "title": "Mazda",
+    "url": "https://www.mazdausa.com",
+    "description": "Mazda USA Official Site: Discover the joy of driving with stylish and sporty vehicles, from the MX-5 Miata to the CX-90.",
+    "keywords": ["mazda", "japanese", "automotive", "sports car", "design", "zoom zoom", "driving"],
+    "image": "https://www.mazdausa.com/images/mazda-logo-1200x630.png"
+  },
+  {
+    "title": "Subaru",
+    "url": "https://www.subaru.com",
+    "description": "Subaru of America: Explore SUVs, sedans, and crossovers with standard Symmetrical All-Wheel Drive. Love. It's what makes a Subaru, a Subaru.",
+    "keywords": ["subaru", "japanese", "awd", "outdoor", "adventure", "reliable", "automotive"],
+    "image": "https://www.subaru.com/images/subaru-logo-1200x630.png"
+  },
+  {
+    "title": "Kia",
+    "url": "https://www.kia.com",
+    "description": "Kia USA Official Site: Discover stylish and reliable vehicles with industry-leading warranties. Build your own and find a dealer.",
+    "keywords": ["kia", "korean", "automotive", "reliable", "warranty", "suv", "telluride"],
+    "image": "https://www.kia.com/images/kia-logo-1200x630.png"
+  },
+  {
+    "title": "Hyundai",
+    "url": "https://www.hyundaiusa.com",
+    "description": "Hyundai USA Official Site: Explore innovative and stylish vehicles, from the Elantra to the Palisade and IONIQ electric lineup.",
+    "keywords": ["hyundai", "korean", "automotive", "innovation", "design", "warranty", "electric"],
+    "image": "https://www.hyundaiusa.com/images/hyundai-logo-1200x630.png"
+  },
+  {
+    "title": "Genesis",
+    "url": "https://www.genesis.com",
+    "description": "Genesis USA Official Site: Discover the luxury of Korean automotive excellence, from the G80 to the GV70 and GV80.",
+    "keywords": ["genesis", "korean", "luxury", "automotive", "premium", "design", "sophistication"],
+    "image": "https://www.genesis.com/images/genesis-logo-1200x630.png"
+  },
+  {
+    "title": "Polestar",
+    "url": "https://www.polestar.com",
+    "description": "Polestar is the electric performance car brand, born from Swedish design and engineering. Discover the Polestar 2 and future models.",
+    "keywords": ["polestar", "electric", "swedish", "performance", "ev", "automotive", "sustainable"],
+    "image": "https://www.polestar.com/images/polestar-logo-1200x630.png"
+  },
+  {
+    "title": "Fisker",
+    "url": "https://www.fiskerinc.com",
+    "description": "Fisker Inc. is creating the world's most sustainable and emotional electric vehicles, starting with the all-electric Fisker Ocean SUV.",
+    "keywords": ["fisker", "electric", "ev", "sustainable", "automotive", "ocean", "design"],
+    "image": "https://www.fiskerinc.com/images/fisker-logo-1200x630.png"
+  },
+  {
+    "title": "Canoo",
+    "url": "https://www.canoo.com",
+    "description": "Canoo is a leading electric vehicle company with a proprietary multi-purpose platform architecture and a commitment to innovation and sustainability.",
+    "keywords": ["canoo", "electric", "ev", "innovative", "automotive", "platform", "sustainable"],
+    "image": "https://www.canoo.com/images/canoo-logo-1200x630.png"
+  },
+  {
+    "title": "Lordstown Motors",
+    "url": "https://www.lordstownmotors.com",
+    "description": "Lordstown Motors is an American electric vehicle manufacturer focused on producing the Endurance, an all-electric pickup truck for fleet customers.",
+    "keywords": ["lordstown", "electric", "truck", "ev", "american", "automotive", "fleet"],
+    "image": "https://www.lordstownmotors.com/images/lordstown-logo-1200x630.png"
+  },
+  {
+    "title": "Nikola Motor",
+    "url": "https://www.nikolamotor.com",
+    "description": "Nikola Corporation is a global leader in zero-emissions transportation solutions, developing hydrogen fuel cell and battery-electric trucks.",
+    "keywords": ["nikola", "hydrogen", "electric", "truck", "semi", "zero emission", "automotive"],
+    "image": "https://www.nikolamotor.com/images/nikola-logo-1200x630.png"
+  },
+  {
+    "title": "Proterra",
+    "url": "https://www.proterra.com",
+    "description": "Proterra is a leader in the design and manufacture of zero-emission electric transit buses and charging solutions.",
+    "keywords": ["proterra", "electric", "bus", "transit", "zero emission", "clean energy", "transportation"],
+    "image": "https://www.proterra.com/images/proterra-logo-1200x630.png"
+  },
+  {
+    "title": "Lion Electric",
+    "url": "https://www.thelionelectric.com",
+    "description": "The Lion Electric Company is a leading manufacturer of zero-emission vehicles, including electric school buses and trucks.",
+    "keywords": ["lion electric", "electric", "bus", "school bus", "truck", "zero emission", "canadian"],
+    "image": "https://www.thelionelectric.com/images/lion-logo-1200x630.png"
+  },
+  {
+    "title": "GreenPower",
+    "url": "https://www.greenpowermotor.com",
+    "description": "GreenPower Motor Company designs, builds and distributes a full line of high-floor and low-floor all-electric medium and heavy-duty vehicles.",
+    "keywords": ["greenpower", "electric", "bus", "commercial", "zero emission", "vehicle", "sustainable"],
+    "image": "https://www.greenpowermotor.com/images/greenpower-logo-1200x630.png"
+  },
+  {
+    "title": "Workhorse",
+    "url": "https://www.workhorse.com",
+    "description": "Workhorse Group Inc. is a technology company focused on providing sustainable and cost-effective electric vehicles to the last-mile delivery sector.",
+    "keywords": ["workhorse", "electric", "delivery", "truck", "last mile", "ev", "commercial"],
+    "image": "https://www.workhorse.com/images/workhorse-logo-1200x630.png"
+  },
+  {
+    "title": "Xos Trucks",
+    "url": "https://www.xostrucks.com",
+    "description": "Xos is a leading electric vehicle company dedicated to designing and developing fully electric commercial vehicles for last-mile delivery fleets.",
+    "keywords": ["xos", "electric", "truck", "delivery", "last mile", "commercial", "ev"],
+    "image": "https://www.xostrucks.com/images/xos-logo-1200x630.png"
+  },
+  {
+    "title": "Volta Trucks",
+    "url": "https://www.voltatrucks.com",
+    "description": "Volta Trucks is a full-electric commercial vehicle manufacturer and services provider, designing and distributing the Volta Zero.",
+    "keywords": ["volta", "electric", "truck", "commercial", "zero", "ev", "european"],
+    "image": "https://www.voltatrucks.com/images/volta-logo-1200x630.png"
+  },
+  {
+    "title": "Arrival",
+    "url": "https://www.arrival.com",
+    "description": "Arrival is a global company reinventing the vehicle through a unique method of design and production using local microfactories.",
+    "keywords": ["arrival", "electric", "van", "bus", "microfactory", "ev", "innovative"],
+    "image": "https://www.arrival.com/images/arrival-logo-1200x630.png"
+  },
+  {
+    "title": "REE Automotive",
+    "url": "https://www.ree.auto",
+    "description": "REE Automotive is an automotive technology company that develops corner module technology for electric vehicles.",
+    "keywords": ["ree", "automotive", "electric", "corner module", "platform", "ev", "technology"],
+    "image": "https://www.ree.auto/images/ree-logo-1200x630.png"
+  },
+  {
+    "title": "Bollinger Motors",
+    "url": "https://www.bollingermotors.com",
+    "description": "Bollinger Motors is an American automotive company that designs and engineers all-electric, rugged off-road sport utility trucks.",
+    "keywords": ["bollinger", "electric", "truck", "off-road", "suv", "american", "rugged"],
+    "image": "https://www.bollingermotors.com/images/bollinger-logo-1200x630.png"
+  },
+  {
+    "title": "Atlis Motor Vehicles",
+    "url": "https://www.atlismv.com",
+    "description": "Atlis Motor Vehicles is developing an electric pickup truck and the charging infrastructure to power it.",
+    "keywords": ["atlis", "electric", "truck", "pickup", "charging", "ev", "infrastructure"],
+    "image": "https://www.atlismv.com/images/atlis-logo-1200x630.png"
+  },
+  {
+    "title": "Alpha Motor",
+    "url": "https://www.alphamotorinc.com",
+    "description": "Alpha Motor Corporation is an American electric vehicle company focused on designing efficient and stylish electric vehicles.",
+    "keywords": ["alpha", "electric", "ev", "design", "stylish", "american", "efficient"],
+    "image": "https://www.alphamotorinc.com/images/alpha-logo-1200x630.png"
+  },
+  {
+    "title": "Mullen Automotive",
+    "url": "https://www.mullenusa.com",
+    "description": "Mullen Automotive is a Southern California-based automotive company that manufactures electric vehicles.",
+    "keywords": ["mullen", "electric", "ev", "california", "automotive", "american", "innovation"],
+    "image": "https://www.mullenusa.com/images/mullen-logo-1200x630.png"
+  },
+  {
+    "title": "Karma Automotive",
+    "url": "https://www.karmaautomotive.com",
+    "description": "Karma Automotive is a Southern California-based luxury electric vehicle manufacturer.",
+    "keywords": ["karma", "electric", "luxury", "ev", "california", "automotive", "premium"],
+    "image": "https://www.karmaautomotive.com/images/karma-logo-1200x630.png"
+  },
+  {
+    "title": "Faraday Future",
+    "url": "https://www.ff.com",
+    "description": "Faraday Future is a California-based global shared intelligent mobility company, developing the ultimate intelligent electric vehicle.",
+    "keywords": ["faraday", "electric", "ev", "intelligent", "california", "automotive", "future"],
+    "image": "https://www.ff.com/images/ff-logo-1200x630.png"
+  },
+  {
+    "title": "Lucid Air",
+    "url": "https://www.lucidmotors.com/air",
+    "description": "The Lucid Air is the world's most advanced electric luxury sedan, combining luxury, performance, and range.",
+    "keywords": ["lucid air", "electric", "luxury", "sedan", "ev", "performance", "range"],
+    "image": "https://www.lucidmotors.com/images/air-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Model S",
+    "url": "https://www.tesla.com/models",
+    "description": "The Tesla Model S is the world's first electric luxury sedan, combining performance, safety, and efficiency.",
+    "keywords": ["tesla model s", "electric", "luxury", "sedan", "ev", "performance", "plaid"],
+    "image": "https://www.tesla.com/images/model-s-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Model 3",
+    "url": "https://www.tesla.com/model3",
+    "description": "The Tesla Model 3 is an electric sedan designed for affordability without compromising on range, performance, or technology.",
+    "keywords": ["tesla model 3", "electric", "sedan", "ev", "affordable", "technology", "range"],
+    "image": "https://www.tesla.com/images/model-3-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Model X",
+    "url": "https://www.tesla.com/modelx",
+    "description": "The Tesla Model X is the world's first electric SUV, featuring falcon-wing doors and unparalleled safety and performance.",
+    "keywords": ["tesla model x", "electric", "suv", "ev", "falcon wing", "performance", "family"],
+    "image": "https://www.tesla.com/images/model-x-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Model Y",
+    "url": "https://www.tesla.com/modely",
+    "description": "The Tesla Model Y is a compact electric SUV with versatile space and industry-leading safety and range.",
+    "keywords": ["tesla model y", "electric", "suv", "ev", "compact", "versatile", "range"],
+    "image": "https://www.tesla.com/images/model-y-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Cybertruck",
+    "url": "https://www.tesla.com/cybertruck",
+    "description": "The Tesla Cybertruck is a futuristic electric pickup truck with exoskeleton design and incredible performance.",
+    "keywords": ["cybertruck", "tesla", "electric", "truck", "pickup", "futuristic", "stainless steel"],
+    "image": "https://www.tesla.com/images/cybertruck-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "description": "The new Tesla Roadster is the fastest production car ever made, with zero to 60 mph in 1.9 seconds.",
+    "keywords": ["roadster", "tesla", "electric", "sports car", "fastest", "performance", "supercar"],
+    "image": "https://www.tesla.com/images/roadster-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Semi",
+    "url": "https://www.tesla.com/semi",
+    "description": "The Tesla Semi is an all-electric Class 8 semi-truck designed to reduce transportation costs while increasing safety.",
+    "keywords": ["tesla semi", "electric", "truck", "semi", "freight", "commercial", "transportation"],
+    "image": "https://www.tesla.com/images/semi-logo-1200x630.png"
+  },
+  {
+    "title": "Tesla Energy",
+    "url": "https://www.tesla.com/energy",
+    "description": "Tesla Energy products include Powerwall, Powerpack, and Solar Roof, designed to generate and store clean energy.",
+    "keywords": ["tesla energy", "solar", "powerwall", "battery", "renewable", "clean energy", "sustainable"],
+    "image": "https://www.tesla.com/images/energy-logo-1200x630.png"
+  },
+  {
+    "title": "SolarCity",
+    "url": "https://www.solarcity.com",
+    "description": "SolarCity, now part of Tesla, provides solar energy solutions for homes and businesses.",
+    "keywords": ["solarcity", "solar", "energy", "renewable", "tesla", "clean", "power"],
+    "image": "https://www.solarcity.com/images/solarcity-logo-1200x630.png"
+  },
+  {
+    "title": "Neuralink",
+    "url": "https://www.neuralink.com",
+    "description": "Neuralink is developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.",
+    "keywords": ["neuralink", "brain", "interface", "bci", "neural", "technology", "elon musk"],
+    "image": "https://www.neuralink.com/images/neuralink-logo-1200x630.png"
+  },
+  {
+    "title": "The Boring Company",
+    "url": "https://www.boringcompany.com",
+    "description": "The Boring Company creates safe, fast-to-dig, and low-cost transportation, utility, and freight tunnels.",
+    "keywords": ["boring company", "tunnel", "transportation", "infrastructure", "loop", "dig", "construction"],
+    "image": "https://www.boringcompany.com/images/boring-logo-1200x630.png"
+  },
+  {
+    "title": "Space Adventures",
+    "url": "https://www.spaceadventures.com",
+    "description": "Space Adventures is the world's premier space tourism company, offering orbital spaceflight missions.",
+    "keywords": ["space adventures", "space tourism", "travel", "orbit", "spaceflight", "experience", "adventure"],
+    "image": "https://www.spaceadventures.com/images/space-adventures-logo-1200x630.png"
+  },
+  {
+    "title": "Virgin Galactic",
+    "url": "https://www.virgingalactic.com",
+    "description": "Virgin Galactic is an aerospace company offering suborbital spaceflights for private individuals and researchers.",
+    "keywords": ["virgin galactic", "space", "tourism", "spaceflight", "richard branson", "suborbital", "spaceship"],
+    "image": "https://www.virgingalactic.com/images/virgin-galactic-logo-1200x630.png"
+  },
+  {
+    "title": "Blue Origin",
+    "url": "https://www.blueorigin.com",
+    "description": "Blue Origin is an aerospace manufacturer and spaceflight services company founded by Jeff Bezos.",
+    "keywords": ["blue origin", "space", "rocket", "jeff bezos", "new shepard", "new glenn", "aerospace"],
+    "image": "https://www.blueorigin.com/images/blue-origin-logo-1200x630.png"
+  },
+  {
+    "title": "Rocket Lab",
+    "url": "https://www.rocketlabusa.com",
+    "description": "Rocket Lab is a leading launch provider and space systems company, delivering frequent and reliable access to orbit.",
+    "keywords": ["rocket lab", "space", "launch", "electron", "rocket", "satellite", "orbit"],
+    "image": "https://www.rocketlabusa.com/images/rocket-lab-logo-1200x630.png"
+  },
+  {
+    "title": "OneWeb",
+    "url": "https://www.oneweb.world",
+    "description": "OneWeb is a global communications network powered by a constellation of Low Earth Orbit satellites.",
+    "keywords": ["oneweb", "satellite", "internet", "connectivity", "space", "broadband", "global"],
+    "image": "https://www.oneweb.world/images/oneweb-logo-1200x630.png"
+  },
+  {
+    "title": "Starlink",
+    "url": "https://www.starlink.com",
+    "description": "Starlink is a satellite internet constellation operated by SpaceX, providing high-speed internet access across the globe.",
+    "keywords": ["starlink", "spacex", "internet", "satellite", "broadband", "space", "connectivity"],
+    "image": "https://www.starlink.com/images/starlink-logo-1200x630.png"
+  },
+  {
+    "title": "Planet Labs",
+    "url": "https://www.planet.com",
+    "description": "Planet designs, builds, and operates the largest fleet of Earth-imaging satellites, capturing daily imagery of the Earth's landmass.",
+    "keywords": ["planet labs", "satellite", "earth imaging", "remote sensing", "space", "data", "imagery"],
+    "image": "https://www.planet.com/images/planet-logo-1200x630.png"
+  },
+  {
+    "title": "Maxar",
+    "url": "https://www.maxar.com",
+    "description": "Maxar Technologies is a space technology company specializing in satellite manufacturing and Earth intelligence.",
+    "keywords": ["maxar", "satellite", "space", "earth intelligence", "imagery", "geospatial", "technology"],
+    "image": "https://www.maxar.com/images/maxar-logo-1200x630.png"
+  },
+  {
+    "title": "Northrop Grumman",
+    "url": "https://www.northropgrumman.com",
+    "description": "Northrop Grumman is a leading global aerospace and defense technology company.",
+    "keywords": ["northrop grumman", "aerospace", "defense", "space", "technology", "military", "innovation"],
+    "image": "https://www.northropgrumman.com/images/northrop-logo-1200x630.png"
+  },
+  {
+    "title": "Lockheed Martin",
+    "url": "https://www.lockheedmartin.com",
+    "description": "Lockheed Martin is a global security and aerospace company engaged in the research, design, development, and manufacture of advanced technology systems.",
+    "keywords": ["lockheed martin", "aerospace", "defense", "space", "technology", "military", "innovation"],
+    "image": "https://www.lockheedmartin.com/images/lockheed-logo-1200x630.png"
+  },
+  {
+    "title": "Boeing",
+    "url": "https://www.boeing.com",
+    "description": "Boeing is the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and security systems.",
+    "keywords": ["boeing", "aerospace", "aircraft", "airplane", "defense", "space", "aviation"],
+    "image": "https://www.boeing.com/images/boeing-logo-1200x630.png"
+  },
+  {
+    "title": "Airbus",
+    "url": "https://www.airbus.com",
+    "description": "Airbus is a global leader in aeronautics, space and related services, designing and manufacturing commercial aircraft, helicopters, and defense systems.",
+    "keywords": ["airbus", "aerospace", "aircraft", "european", "aviation", "defense", "space"],
+    "image": "https://www.airbus.com/images/airbus-logo-1200x630.png"
+  },
+  {
+    "title": "Embraer",
+    "url": "https://www.embraer.com",
+    "description": "Embraer is a Brazilian aerospace conglomerate that produces commercial, military, executive, and agricultural aircraft.",
+    "keywords": ["embraer", "aerospace", "brazilian", "aircraft", "aviation", "executive", "regional jet"],
+    "image": "https://www.embraer.com/images/embraer-logo-1200x630.png"
+  },
+  {
+    "title": "Bombardier",
+    "url": "https://www.bombardier.com",
+    "description": "Bombardier is a global leader in the design and manufacture of business jets and rail transportation solutions.",
+    "keywords": ["bombardier", "aviation", "business jet", "canadian", "rail", "transportation", "aircraft"],
+    "image": "https://www.bombardier.com/images/bombardier-logo-1200x630.png"
+  },
+  {
+    "title": "Gulfstream",
+    "url": "https://www.gulfstream.com",
+    "description": "Gulfstream Aerospace Corporation designs, develops, manufactures, and markets business jet aircraft.",
+    "keywords": ["gulfstream", "aviation", "business jet", "luxury", "aircraft", "private jet", "aerospace"],
+    "image": "https://www.gulfstream.com/images/gulfstream-logo-1200x630.png"
+  },
+  {
+    "title": "Cessna",
+    "url": "https://www.cessna.com",
+    "description": "Cessna Aircraft Company is an American general aviation aircraft manufacturer, part of Textron Aviation.",
+    "keywords": ["cessna", "aviation", "aircraft", "general aviation", "textron", "private plane", "pilot"],
+    "image": "https://www.cessna.com/images/cessna-logo-1200x630.png"
+  },
+  {
+    "title": "Piper Aircraft",
+    "url": "https://www.piper.com",
+    "description": "Piper Aircraft, Inc. is a manufacturer of general aviation aircraft, located in Vero Beach, Florida.",
+    "keywords": ["piper", "aviation", "aircraft", "general aviation", "training", "private plane", "pilot"],
+    "image": "https://www.piper.com/images/piper-logo-1200x630.png"
+  },
+  {
+    "title": "Dassault Aviation",
+    "url": "https://www.dassault-aviation.com",
+    "description": "Dassault Aviation is a French manufacturer of military aircraft, business jets, and space systems.",
+    "keywords": ["dassault", "aviation", "french", "falcon", "business jet", "military", "rafale"],
+    "image": "https://www.dassault-aviation.com/images/dassault-logo-1200x630.png"
+  },
+  {
+    "title": "Sukhoi",
+    "url": "https://www.sukhoi.org",
+    "description": "Sukhoi is a Russian aircraft manufacturer, designer of military and civilian aircraft under the Sukhoi brand.",
+    "keywords": ["sukhoi", "russian", "aviation", "aircraft", "military", "fighter", "su-57"],
+    "image": "https://www.sukhoi.org/images/sukhoi-logo-1200x630.png"
+  },
+  {
+    "title": "MiG",
+    "url": "https://www.migavia.ru",
+    "description": "MiG is a Russian aerospace and defense company, primarily known for its line of fighter aircraft.",
+    "keywords": ["mig", "russian", "aviation", "fighter", "military", "aircraft", "mikoyan"],
+    "image": "https://www.migavia.ru/images/mig-logo-1200x630.png"
+  },
+  {
+    "title": "Tupolev",
+    "url": "https://www.tupolev.ru",
+    "description": "Tupolev is a Russian aerospace and defense company, known for its aircraft design and manufacturing.",
+    "keywords": ["tupolev", "russian", "aviation", "aircraft", "bomber", "tu-95", "tu-160"],
+    "image": "https://www.tupolev.ru/images/tupolev-logo-1200x630.png"
+  },
+  {
+    "title": "Ilyushin",
+    "url": "https://www.ilyushin.org",
+    "description": "Ilyushin is a Russian aircraft manufacturer, specializing in military transport aircraft.",
+    "keywords": ["ilyushin", "russian", "aviation", "transport", "military", "aircraft", "il-76"],
+    "image": "https://www.ilyushin.org/images/ilyushin-logo-1200x630.png"
+  },
+  {
+    "title": "Antonov",
+    "url": "https://www.antonov.com",
+    "description": "Antonov is a Ukrainian aircraft manufacturing and services company, known for its large transport aircraft.",
+    "keywords": ["antonov", "ukrainian", "aviation", "transport", "aircraft", "an-225", "an-124"],
+    "image": "https://www.antonov.com/images/antonov-logo-1200x630.png"
+  },
+  {
     "title": "google.com",
     "url": "https://google.com",
     "description": "Visit google.com",
