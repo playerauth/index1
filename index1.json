@@ -1,5 +1,705 @@
 [
   {
+    "title": "World Health Organization",
+    "url": "https://www.who.int",
+    "description": "WHO is the directing and coordinating authority for health within the United Nations system. It is responsible for providing leadership on global health matters.",
+    "keywords": ["who", "health", "global health", "united nations", "medicine", "pandemic", "disease"],
+    "image": "https://www.who.int/images/who-logo-1200x630.png"
+  },
+  {
+    "title": "United Nations",
+    "url": "https://www.un.org",
+    "description": "The United Nations is an international organization founded in 1945. It is currently made up of 193 Member States. The mission and work of the UN are guided by the purposes and principles contained in its founding Charter.",
+    "keywords": ["un", "united nations", "international", "peace", "human rights", "diplomacy", "global"],
+    "image": "https://www.un.org/images/un-logo-1200x630.png"
+  },
+  {
+    "title": "UNICEF",
+    "url": "https://www.unicef.org",
+    "description": "UNICEF works in over 190 countries and territories to protect the rights of every child. UNICEF has spent 70 years working to improve the lives of children and their families.",
+    "keywords": ["unicef", "children", "rights", "humanitarian", "aid", "child protection", "united nations"],
+    "image": "https://www.unicef.org/images/unicef-logo-1200x630.png"
+  },
+  {
+    "title": "UNESCO",
+    "url": "https://www.unesco.org",
+    "description": "UNESCO is the United Nations Educational, Scientific and Cultural Organization. It seeks to build peace through international cooperation in Education, the Sciences and Culture.",
+    "keywords": ["unesco", "education", "science", "culture", "heritage", "world heritage", "united nations"],
+    "image": "https://www.unesco.org/images/unesco-logo-1200x630.png"
+  },
+  {
+    "title": "World Bank",
+    "url": "https://www.worldbank.org",
+    "description": "The World Bank is an international financial institution that provides loans and grants to the governments of low- and middle-income countries for the purpose of pursuing capital projects.",
+    "keywords": ["world bank", "finance", "development", "poverty", "loans", "economics", "international"],
+    "image": "https://www.worldbank.org/images/worldbank-logo-1200x630.png"
+  },
+  {
+    "title": "International Monetary Fund",
+    "url": "https://www.imf.org",
+    "description": "The IMF is an organization of 190 countries, working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth.",
+    "keywords": ["imf", "monetary", "finance", "economics", "global economy", "financial stability", "international"],
+    "image": "https://www.imf.org/images/imf-logo-1200x630.png"
+  },
+  {
+    "title": "World Trade Organization",
+    "url": "https://www.wto.org",
+    "description": "The WTO is the only global international organization dealing with the rules of trade between nations. At its heart are the WTO agreements, negotiated and signed by the bulk of the world's trading nations.",
+    "keywords": ["wto", "trade", "international trade", "commerce", "tariffs", "global trade", "economics"],
+    "image": "https://www.wto.org/images/wto-logo-1200x630.png"
+  },
+  {
+    "title": "NATO",
+    "url": "https://www.nato.int",
+    "description": "NATO is a political and military alliance of countries from Europe and North America. Its purpose is to guarantee the freedom and security of its members through political and military means.",
+    "keywords": ["nato", "defense", "military", "alliance", "security", "europe", "north america"],
+    "image": "https://www.nato.int/images/nato-logo-1200x630.png"
+  },
+  {
+    "title": "European Union",
+    "url": "https://europa.eu",
+    "description": "The European Union is a unique economic and political union between 27 European countries. Together they have built a zone of stability, democracy and sustainable development whilst maintaining cultural diversity.",
+    "keywords": ["eu", "european union", "europe", "brussels", "parliament", "commission", "european"],
+    "image": "https://europa.eu/images/eu-logo-1200x630.png"
+  },
+  {
+    "title": "European Parliament",
+    "url": "https://www.europarl.europa.eu",
+    "description": "The European Parliament is the EU's law-making body. It is directly elected by EU voters every 5 years. Find out how it works and what it does.",
+    "keywords": ["european parliament", "eu", "europe", "meps", "democracy", "legislation", "strasbourg"],
+    "image": "https://www.europarl.europa.eu/images/ep-logo-1200x630.png"
+  },
+  {
+    "title": "European Commission",
+    "url": "https://ec.europa.eu",
+    "description": "The European Commission is the EU's politically independent executive arm. It is responsible for drawing up proposals for new European legislation, and it implements the decisions of the European Parliament and the Council.",
+    "keywords": ["european commission", "eu", "brussels", "executive", "legislation", "europe", "commissioners"],
+    "image": "https://ec.europa.eu/images/ec-logo-1200x630.png"
+  },
+  {
+    "title": "Council of Europe",
+    "url": "https://www.coe.int",
+    "description": "The Council of Europe is the continent's leading human rights organization. It includes 47 member states, 28 of which are members of the European Union.",
+    "keywords": ["council of europe", "human rights", "europe", "strasbourg", "democracy", "rule of law", "echr"],
+    "image": "https://www.coe.int/images/coe-logo-1200x630.png"
+  },
+  {
+    "title": "European Court of Human Rights",
+    "url": "https://www.echr.coe.int",
+    "description": "The European Court of Human Rights is an international court set up in 1959. It rules on individual or State applications alleging violations of the civil and political rights set out in the European Convention on Human Rights.",
+    "keywords": ["echr", "human rights", "court", "strasbourg", "europe", "justice", "convention"],
+    "image": "https://www.echr.coe.int/images/echr-logo-1200x630.png"
+  },
+  {
+    "title": "International Court of Justice",
+    "url": "https://www.icj-cij.org",
+    "description": "The International Court of Justice is the principal judicial organ of the United Nations. It settles legal disputes between States and gives advisory opinions on legal questions referred to it by authorized UN organs and specialized agencies.",
+    "keywords": ["icj", "international court", "united nations", "justice", "the hague", "legal", "disputes"],
+    "image": "https://www.icj-cij.org/images/icj-logo-1200x630.png"
+  },
+  {
+    "title": "International Criminal Court",
+    "url": "https://www.icc-cpi.int",
+    "description": "The International Criminal Court investigates and, where warranted, tries individuals charged with the gravest crimes of concern to the international community: genocide, war crimes, crimes against humanity and the crime of aggression.",
+    "keywords": ["icc", "criminal court", "the hague", "war crimes", "genocide", "justice", "international law"],
+    "image": "https://www.icc-cpi.int/images/icc-logo-1200x630.png"
+  },
+  {
+    "title": "Amnesty International",
+    "url": "https://www.amnesty.org",
+    "description": "Amnesty International is a global movement of more than 10 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.",
+    "keywords": ["amnesty", "human rights", "activism", "campaign", "justice", "freedom", "international"],
+    "image": "https://www.amnesty.org/images/amnesty-logo-1200x630.png"
+  },
+  {
+    "title": "Human Rights Watch",
+    "url": "https://www.hrw.org",
+    "description": "Human Rights Watch investigates and reports on abuses happening in all corners of the world. We are a non-governmental organization that conducts research and advocacy on human rights.",
+    "keywords": ["hrw", "human rights", "research", "advocacy", "abuses", "justice", "international"],
+    "image": "https://www.hrw.org/images/hrw-logo-1200x630.png"
+  },
+  {
+    "title": "Doctors Without Borders",
+    "url": "https://www.msf.org",
+    "description": "Doctors Without Borders (Médecins Sans Frontières) is an international, independent medical humanitarian organization that delivers emergency aid to people affected by armed conflict, epidemics, natural disasters and exclusion from healthcare.",
+    "keywords": ["msf", "doctors without borders", "medical", "humanitarian", "emergency", "aid", "healthcare"],
+    "image": "https://www.msf.org/images/msf-logo-1200x630.png"
+  },
+  {
+    "title": "International Red Cross",
+    "url": "https://www.icrc.org",
+    "description": "The International Committee of the Red Cross is an impartial, neutral and independent organization whose exclusively humanitarian mission is to protect the lives and dignity of victims of armed conflict and other situations of violence.",
+    "keywords": ["red cross", "icrc", "humanitarian", "aid", "emergency", "conflict", "international"],
+    "image": "https://www.icrc.org/images/icrc-logo-1200x630.png"
+  },
+  {
+    "title": "World Wildlife Fund",
+    "url": "https://www.worldwildlife.org",
+    "description": "WWF is the world's leading conservation organization, working in 100 countries and supported by more than one million members in the United States and close to five million globally.",
+    "keywords": ["wwf", "wildlife", "conservation", "environment", "nature", "panda", "endangered species"],
+    "image": "https://www.worldwildlife.org/images/wwf-logo-1200x630.png"
+  },
+  {
+    "title": "Greenpeace",
+    "url": "https://www.greenpeace.org",
+    "description": "Greenpeace is a global network of independent campaigning organizations that use peaceful protest and creative communication to expose global environmental problems and promote solutions.",
+    "keywords": ["greenpeace", "environment", "activism", "climate change", "protest", "conservation", "planet"],
+    "image": "https://www.greenpeace.org/images/greenpeace-logo-1200x630.png"
+  },
+  {
+    "title": "Sierra Club",
+    "url": "https://www.sierraclub.org",
+    "description": "The Sierra Club is the most enduring and influential grassroots environmental organization in the United States. We amplify the power of our millions of members and supporters to defend everyone's right to a healthy world.",
+    "keywords": ["sierra club", "environment", "conservation", "nature", "outdoors", "climate", "activism"],
+    "image": "https://www.sierraclub.org/images/sierra-logo-1200x630.png"
+  },
+  {
+    "title": "The Nature Conservancy",
+    "url": "https://www.nature.org",
+    "description": "The Nature Conservancy is a global environmental organization dedicated to conserving the lands and waters on which all life depends. We work in 79 countries and territories using a collaborative approach.",
+    "keywords": ["nature conservancy", "conservation", "environment", "land", "water", "biodiversity", "climate"],
+    "image": "https://www.nature.org/images/tnc-logo-1200x630.png"
+  },
+  {
+    "title": "Conservation International",
+    "url": "https://www.conservation.org",
+    "description": "Conservation International works to protect the critical benefits that nature provides to people. Through science, policy, and partnerships, we help people and nature thrive together.",
+    "keywords": ["conservation international", "nature", "biodiversity", "climate", "environment", "science", "partnerships"],
+    "image": "https://www.conservation.org/images/ci-logo-1200x630.png"
+  },
+  {
+    "title": "Oceana",
+    "url": "https://oceana.org",
+    "description": "Oceana is the largest international advocacy organization focused solely on ocean conservation. We are dedicated to protecting and restoring the world's oceans through policy advocacy and science-based campaigns.",
+    "keywords": ["oceana", "ocean", "marine", "conservation", "sea", "fishing", "environment"],
+    "image": "https://oceana.org/images/oceana-logo-1200x630.png"
+  },
+  {
+    "title": "Rainforest Alliance",
+    "url": "https://www.rainforest-alliance.org",
+    "description": "The Rainforest Alliance is an international non-profit organization working to build a future where people and nature thrive in harmony. We are creating a more sustainable world by protecting forests, improving farmers' livelihoods, and promoting human rights.",
+    "keywords": ["rainforest alliance", "forest", "sustainability", "frog", "certification", "climate", "biodiversity"],
+    "image": "https://www.rainforest-alliance.org/images/ra-logo-1200x630.png"
+  },
+  {
+    "title": "350.org",
+    "url": "https://350.org",
+    "description": "350.org is an international environmental organization addressing the climate crisis. Our goal is to end the use of fossil fuels and transition to renewable energy by building a global grassroots movement.",
+    "keywords": ["350", "climate change", "activism", "fossil fuels", "renewable energy", "grassroots", "global"],
+    "image": "https://350.org/images/350-logo-1200x630.png"
+  },
+  {
+    "title": "Extinction Rebellion",
+    "url": "https://rebellion.global",
+    "description": "Extinction Rebellion is a global environmental movement that uses non-violent civil disobedience to compel government action on the climate and ecological emergency.",
+    "keywords": ["extinction rebellion", "xr", "climate", "activism", "civil disobedience", "protest", "emergency"],
+    "image": "https://rebellion.global/images/xr-logo-1200x630.png"
+  },
+  {
+    "title": "Fridays for Future",
+    "url": "https://fridaysforfuture.org",
+    "description": "Fridays for Future is a global climate strike movement that started when Greta Thunberg sat in front of the Swedish parliament every Friday to demand action on the climate crisis.",
+    "keywords": ["fridays for future", "greta thunberg", "climate", "strike", "youth", "activism", "school strike"],
+    "image": "https://fridaysforfuture.org/images/fff-logo-1200x630.png"
+  },
+  {
+    "title": "Sunrise Movement",
+    "url": "https://www.sunrisemovement.org",
+    "description": "The Sunrise Movement is a youth-led movement to stop climate change and create millions of good jobs in the process. We are building an army of young people to make climate change an urgent priority.",
+    "keywords": ["sunrise movement", "climate", "youth", "green new deal", "activism", "politics", "jobs"],
+    "image": "https://www.sunrisemovement.org/images/sunrise-logo-1200x630.png"
+  },
+  {
+    "title": "Climate Reality Project",
+    "url": "https://www.climaterealityproject.org",
+    "description": "The Climate Reality Project was founded by Al Gore to catalyze a global solution to the climate crisis by making urgent action a necessity across the globe.",
+    "keywords": ["climate reality", "al gore", "climate change", "education", "activism", "leadership", "crisis"],
+    "image": "https://www.climaterealityproject.org/images/crp-logo-1200x630.png"
+  },
+  {
+    "title": "World Economic Forum",
+    "url": "https://www.weforum.org",
+    "description": "The World Economic Forum is the International Organization for Public-Private Cooperation. It engages the foremost political, business, cultural and other leaders of society to shape global, regional and industry agendas.",
+    "keywords": ["wef", "davos", "economics", "global", "leaders", "business", "forum"],
+    "image": "https://www.weforum.org/images/wef-logo-1200x630.png"
+  },
+  {
+    "title": "G20",
+    "url": "https://www.g20.org",
+    "description": "The G20 is the premier forum for international economic cooperation. It brings together the world's major economies to discuss and coordinate on global economic issues.",
+    "keywords": ["g20", "economics", "global", "summit", "leaders", "finance", "international"],
+    "image": "https://www.g20.org/images/g20-logo-1200x630.png"
+  },
+  {
+    "title": "G7",
+    "url": "https://www.g7uk.org",
+    "description": "The G7 is an informal grouping of seven of the world's advanced economies: Canada, France, Germany, Italy, Japan, the United Kingdom, the United States, plus the European Union.",
+    "keywords": ["g7", "economics", "summit", "leaders", "global", "finance", "international"],
+    "image": "https://www.g7uk.org/images/g7-logo-1200x630.png"
+  },
+  {
+    "title": "OECD",
+    "url": "https://www.oecd.org",
+    "description": "The OECD is an international organisation that works to build better policies for better lives. Our goal is to shape policies that foster prosperity, equality, opportunity and well-being for all.",
+    "keywords": ["oecd", "economics", "policy", "development", "research", "data", "international"],
+    "image": "https://www.oecd.org/images/oecd-logo-1200x630.png"
+  },
+  {
+    "title": "OPEC",
+    "url": "https://www.opec.org",
+    "description": "OPEC is a permanent, intergovernmental organization of oil-exporting countries. It coordinates and unifies the petroleum policies of its Member Countries and ensures the stabilization of oil markets.",
+    "keywords": ["opec", "oil", "petroleum", "energy", "production", "vienna", "cartel"],
+    "image": "https://www.opec.org/images/opec-logo-1200x630.png"
+  },
+  {
+    "title": "International Energy Agency",
+    "url": "https://www.iea.org",
+    "description": "The IEA is an autonomous intergovernmental organization that works to ensure reliable, affordable and clean energy for its member countries and beyond. We provide data, analysis, and policy recommendations.",
+    "keywords": ["iea", "energy", "oil", "renewable", "data", "analysis", "climate"],
+    "image": "https://www.iea.org/images/iea-logo-1200x630.png"
+  },
+  {
+    "title": "IRENA",
+    "url": "https://www.irena.org",
+    "description": "The International Renewable Energy Agency is an intergovernmental organisation that supports countries in their transition to a sustainable energy future. It promotes the widespread adoption and sustainable use of all forms of renewable energy.",
+    "keywords": ["irena", "renewable energy", "solar", "wind", "sustainability", "climate", "transition"],
+    "image": "https://www.irena.org/images/irena-logo-1200x630.png"
+  },
+  {
+    "title": "Intergovernmental Panel on Climate Change",
+    "url": "https://www.ipcc.ch",
+    "description": "The IPCC is the United Nations body for assessing the science related to climate change. It provides policymakers with regular scientific assessments on climate change, its implications and potential future risks.",
+    "keywords": ["ipcc", "climate change", "science", "assessment", "united nations", "global warming", "report"],
+    "image": "https://www.ipcc.ch/images/ipcc-logo-1200x630.png"
+  },
+  {
+    "title": "United Nations Environment Programme",
+    "url": "https://www.unep.org",
+    "description": "UNEP is the leading global environmental authority that sets the global environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the United Nations system.",
+    "keywords": ["unep", "environment", "united nations", "sustainability", "climate", "nature", "policy"],
+    "image": "https://www.unep.org/images/unep-logo-1200x630.png"
+  },
+  {
+    "title": "World Meteorological Organization",
+    "url": "https://public.wmo.int",
+    "description": "WMO is the United Nations' authoritative voice on the state and behaviour of the Earth's atmosphere, its interaction with the oceans, the climate it produces and the resulting distribution of water resources.",
+    "keywords": ["wmo", "weather", "climate", "meteorology", "united nations", "atmosphere", "forecast"],
+    "image": "https://public.wmo.int/images/wmo-logo-1200x630.png"
+  },
+  {
+    "title": "Food and Agriculture Organization",
+    "url": "https://www.fao.org",
+    "description": "FAO is a specialized agency of the United Nations that leads international efforts to defeat hunger. Our goal is to achieve food security for all and make sure that people have regular access to enough high-quality food.",
+    "keywords": ["fao", "food", "agriculture", "hunger", "farming", "united nations", "nutrition"],
+    "image": "https://www.fao.org/images/fao-logo-1200x630.png"
+  },
+  {
+    "title": "World Food Programme",
+    "url": "https://www.wfp.org",
+    "description": "WFP is the world's largest humanitarian organization saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.",
+    "keywords": ["wfp", "food", "hunger", "humanitarian", "aid", "emergency", "united nations"],
+    "image": "https://www.wfp.org/images/wfp-logo-1200x630.png"
+  },
+  {
+    "title": "International Labour Organization",
+    "url": "https://www.ilo.org",
+    "description": "ILO is a United Nations agency whose mandate is to advance social justice and promote decent work by setting international labour standards. It brings together governments, employers and workers of 187 member States.",
+    "keywords": ["ilo", "labour", "work", "workers rights", "employment", "social justice", "united nations"],
+    "image": "https://www.ilo.org/images/ilo-logo-1200x630.png"
+  },
+  {
+    "title": "World Intellectual Property Organization",
+    "url": "https://www.wipo.int",
+    "description": "WIPO is the global forum for intellectual property services, policy, information and cooperation. We are a self-funding agency of the United Nations, with 193 member states.",
+    "keywords": ["wipo", "intellectual property", "patents", "trademarks", "copyright", "innovation", "united nations"],
+    "image": "https://www.wipo.int/images/wipo-logo-1200x630.png"
+  },
+  {
+    "title": "International Telecommunication Union",
+    "url": "https://www.itu.int",
+    "description": "ITU is the United Nations specialized agency for information and communication technologies. It allocates global radio spectrum and satellite orbits, develops technical standards and works to improve ICT access worldwide.",
+    "keywords": ["itu", "telecommunication", "ict", "technology", "standards", "spectrum", "united nations"],
+    "image": "https://www.itu.int/images/itu-logo-1200x630.png"
+  },
+  {
+    "title": "Universal Postal Union",
+    "url": "https://www.upu.int",
+    "description": "UPU is a United Nations specialized agency that coordinates postal policies among member nations and oversees the global postal system. It sets the rules for international mail exchanges and helps countries improve their postal services.",
+    "keywords": ["upu", "postal", "mail", "post office", "international", "united nations", "berne"],
+    "image": "https://www.upu.int/images/upu-logo-1200x630.png"
+  },
+  {
+    "title": "International Maritime Organization",
+    "url": "https://www.imo.org",
+    "description": "IMO is the United Nations specialized agency with responsibility for the safety and security of shipping and the prevention of marine and atmospheric pollution by ships.",
+    "keywords": ["imo", "maritime", "shipping", "ocean", "safety", "pollution", "united nations"],
+    "image": "https://www.imo.org/images/imo-logo-1200x630.png"
+  },
+  {
+    "title": "International Civil Aviation Organization",
+    "url": "https://www.icao.int",
+    "description": "ICAO is a United Nations specialized agency that sets international standards and regulations for civil aviation safety, security, efficiency and environmental protection.",
+    "keywords": ["icao", "aviation", "air travel", "safety", "airports", "united nations", "montreal"],
+    "image": "https://www.icao.int/images/icao-logo-1200x630.png"
+  },
+  {
+    "title": "World Tourism Organization",
+    "url": "https://www.unwto.org",
+    "description": "UNWTO is the United Nations agency responsible for the promotion of responsible, sustainable and universally accessible tourism. It promotes tourism as a driver of economic growth, inclusive development and environmental sustainability.",
+    "keywords": ["unwto", "tourism", "travel", "sustainable tourism", "united nations", "hospitality", "madrid"],
+    "image": "https://www.unwto.org/images/unwto-logo-1200x630.png"
+  },
+  {
+    "title": "International Atomic Energy Agency",
+    "url": "https://www.iaea.org",
+    "description": "IAEA is the world's central intergovernmental forum for scientific and technical cooperation in the nuclear field. It works for the safe, secure and peaceful uses of nuclear science and technology.",
+    "keywords": ["iaea", "nuclear", "atomic", "energy", "safety", "non-proliferation", "vienna"],
+    "image": "https://www.iaea.org/images/iaea-logo-1200x630.png"
+  },
+  {
+    "title": "Organization for the Prohibition of Chemical Weapons",
+    "url": "https://www.opcw.org",
+    "description": "OPCW is the implementing body for the Chemical Weapons Convention, which entered into force in 1997. We work to achieve a world free of chemical weapons and to prevent their re-emergence.",
+    "keywords": ["opcw", "chemical weapons", "disarmament", "non-proliferation", "the hague", "treaty", "security"],
+    "image": "https://www.opcw.org/images/opcw-logo-1200x630.png"
+  },
+  {
+    "title": "Comprehensive Nuclear-Test-Ban Treaty Organization",
+    "url": "https://www.ctbto.org",
+    "description": "CTBTO is an international organization that works to ban all nuclear explosions. It establishes a global verification regime to monitor compliance with the Comprehensive Nuclear-Test-Ban Treaty.",
+    "keywords": ["ctbto", "nuclear test ban", "disarmament", "verification", "vienna", "treaty", "monitoring"],
+    "image": "https://www.ctbto.org/images/ctbto-logo-1200x630.png"
+  },
+  {
+    "title": "Interpol",
+    "url": "https://www.interpol.int",
+    "description": "INTERPOL is the world's largest international police organization, with 194 member countries. We enable police in different countries to work together to fight international crime and make the world a safer place.",
+    "keywords": ["interpol", "police", "law enforcement", "crime", "international", "security", "lyon"],
+    "image": "https://www.interpol.int/images/interpol-logo-1200x630.png"
+  },
+  {
+    "title": "Europol",
+    "url": "https://www.europol.europa.eu",
+    "description": "Europol is the European Union's law enforcement agency. We support the 27 EU Member States in their fight against serious international crime and terrorism.",
+    "keywords": ["europol", "police", "law enforcement", "crime", "terrorism", "european union", "the hague"],
+    "image": "https://www.europol.europa.eu/images/europol-logo-1200x630.png"
+  },
+  {
+    "title": "FBI",
+    "url": "https://www.fbi.gov",
+    "description": "The FBI is the principal investigative arm of the United States Department of Justice. We protect the American people and uphold the Constitution through the rule of law.",
+    "keywords": ["fbi", "federal bureau investigation", "law enforcement", "usa", "justice", "crime", "security"],
+    "image": "https://www.fbi.gov/images/fbi-logo-1200x630.png"
+  },
+  {
+    "title": "CIA",
+    "url": "https://www.cia.gov",
+    "description": "The CIA is an independent US government agency responsible for providing national security intelligence to senior US policymakers. We collect, analyze, and disseminate foreign intelligence to assist the President and other officials.",
+    "keywords": ["cia", "central intelligence agency", "intelligence", "spy", "national security", "usa", "langley"],
+    "image": "https://www.cia.gov/images/cia-logo-1200x630.png"
+  },
+  {
+    "title": "NSA",
+    "url": "https://www.nsa.gov",
+    "description": "NSA is the US government's lead agency for cryptology that encompasses both Signals Intelligence and Information Assurance products and services. We enable network warfare and defend US networks.",
+    "keywords": ["nsa", "national security agency", "signals intelligence", "cryptology", "cybersecurity", "usa", "fort meade"],
+    "image": "https://www.nsa.gov/images/nsa-logo-1200x630.png"
+  },
+  {
+    "title": "MI5",
+    "url": "https://www.mi5.gov.uk",
+    "description": "MI5 is the UK's domestic counter-intelligence and security agency. We protect the UK against threats to national security, including terrorism and espionage.",
+    "keywords": ["mi5", "security service", "uk", "intelligence", "counter-terrorism", "london", "british"],
+    "image": "https://www.mi5.gov.uk/images/mi5-logo-1200x630.png"
+  },
+  {
+    "title": "MI6",
+    "url": "https://www.sis.gov.uk",
+    "description": "MI6, officially the Secret Intelligence Service, is the UK's foreign intelligence agency. We work to protect British interests overseas and at home from threats such as terrorism and cyber attacks.",
+    "keywords": ["mi6", "sis", "secret intelligence service", "uk", "intelligence", "foreign", "london"],
+    "image": "https://www.sis.gov.uk/images/sis-logo-1200x630.png"
+  },
+  {
+    "title": "GCHQ",
+    "url": "https://www.gchq.gov.uk",
+    "description": "GCHQ is a British intelligence and security organisation responsible for providing signals intelligence and information assurance to the UK government and armed forces.",
+    "keywords": ["gchq", "government communications headquarters", "uk", "signals intelligence", "cybersecurity", "cheltenham", "british"],
+    "image": "https://www.gchq.gov.uk/images/gchq-logo-1200x630.png"
+  },
+  {
+    "title": "Mossad",
+    "url": "https://www.mossad.gov.il",
+    "description": "Mossad is Israel's national intelligence agency. It is responsible for intelligence collection, covert operations, and counter-terrorism to protect Israel's national security.",
+    "keywords": ["mossad", "israel", "intelligence", "spy", "national security", "tel aviv", "covert"],
+    "image": "https://www.mossad.gov.il/images/mossad-logo-1200x630.png"
+  },
+  {
+    "title": "Shin Bet",
+    "url": "https://www.shabak.gov.il",
+    "description": "Shin Bet, also known as Shabak, is Israel's internal security service. Its role is to protect Israeli security from threats such as terrorism and espionage within the country and the occupied territories.",
+    "keywords": ["shin bet", "shabak", "israel", "internal security", "counter-terrorism", "jerusalem", "intelligence"],
+    "image": "https://www.shabak.gov.il/images/shabak-logo-1200x630.png"
+  },
+  {
+    "title": "FSB",
+    "url": "http://www.fsb.ru",
+    "description": "The FSB is the principal security agency of Russia and the main successor agency to the Soviet-era KGB. It is responsible for counter-intelligence, internal security, and border protection.",
+    "keywords": ["fsb", "russia", "security", "intelligence", "counter-intelligence", "moscow", "kremlin"],
+    "image": "http://www.fsb.ru/images/fsb-logo-1200x630.png"
+  },
+  {
+    "title": "SVR",
+    "url": "http://svr.gov.ru",
+    "description": "SVR is Russia's foreign intelligence agency. It conducts intelligence activities abroad to support Russian national security and foreign policy.",
+    "keywords": ["svr", "russia", "foreign intelligence", "spy", "moscow", "kremlin", "espionage"],
+    "image": "http://svr.gov.ru/images/svr-logo-1200x630.png"
+  },
+  {
+    "title": "GRU",
+    "url": "https://structure.mil.ru/structure/ministry_of_defence/details.htm?id=9711@egOrganization",
+    "description": "GRU is the foreign military intelligence agency of the Russian military. It is Russia's largest intelligence agency and operates worldwide.",
+    "keywords": ["gru", "russia", "military intelligence", "spy", "defense", "moscow", "espionage"],
+    "image": "https://structure.mil.ru/images/gru-logo-1200x630.png"
+  },
+  {
+    "title": "MSS",
+    "url": "http://www.mss.gov.cn",
+    "description": "The Ministry of State Security is the intelligence, security and secret police agency of China. It is responsible for foreign intelligence, counter-intelligence, and internal security.",
+    "keywords": ["mss", "china", "intelligence", "security", "beijing", "counter-intelligence", "secret police"],
+    "image": "http://www.mss.gov.cn/images/mss-logo-1200x630.png"
+  },
+  {
+    "title": "DGSE",
+    "url": "https://www.defense.gouv.fr/dgse",
+    "description": "DGSE is France's foreign intelligence agency. It operates under the direction of the French Ministry of Defense and is responsible for gathering intelligence and conducting covert operations abroad.",
+    "keywords": ["dgse", "france", "intelligence", "foreign", "paris", "defense", "covert"],
+    "image": "https://www.defense.gouv.fr/images/dgse-logo-1200x630.png"
+  },
+  {
+    "title": "BND",
+    "url": "https://www.bnd.bund.de",
+    "description": "The Federal Intelligence Service is the foreign intelligence agency of Germany. It collects and analyzes information on threats to German interests abroad.",
+    "keywords": ["bnd", "germany", "intelligence", "foreign", "berlin", "bundesnachrichtendienst", "security"],
+    "image": "https://www.bnd.bund.de/images/bnd-logo-1200x630.png"
+  },
+  {
+    "title": "ASIO",
+    "url": "https://www.asio.gov.au",
+    "description": "ASIO is Australia's national security intelligence service. It protects Australia and Australians from threats to security, including espionage, terrorism, and foreign interference.",
+    "keywords": ["asio", "australia", "intelligence", "security", "canberra", "counter-terrorism", "espionage"],
+    "image": "https://www.asio.gov.au/images/asio-logo-1200x630.png"
+  },
+  {
+    "title": "CSIS",
+    "url": "https://www.canada.ca/en/security-intelligence-service.html",
+    "description": "CSIS is Canada's national intelligence service. It collects and analyzes information on threats to Canadian security and advises the government on security matters.",
+    "keywords": ["csis", "canada", "intelligence", "security", "ottawa", "counter-terrorism", "espionage"],
+    "image": "https://www.canada.ca/images/csis-logo-1200x630.png"
+  },
+  {
+    "title": "FIP",
+    "url": "https://www.fip.org",
+    "description": "The International Pharmaceutical Federation is the global body representing pharmacy and pharmaceutical sciences. We work to advance pharmacy practice, science and education worldwide.",
+    "keywords": ["fip", "pharmacy", "pharmaceutical", "health", "medicine", "international", "science"],
+    "image": "https://www.fip.org/images/fip-logo-1200x630.png"
+  },
+  {
+    "title": "IFPMA",
+    "url": "https://www.ifpma.org",
+    "description": "IFPMA represents the innovative pharmaceutical industry. We promote the value of innovative medicines and vaccines and advocate for policies that advance medical progress.",
+    "keywords": ["ifpma", "pharmaceutical", "medicine", "vaccines", "innovation", "health", "industry"],
+    "image": "https://www.ifpma.org/images/ifpma-logo-1200x630.png"
+  },
+  {
+    "title": "PhRMA",
+    "url": "https://www.phrma.org",
+    "description": "PhRMA represents the leading innovative biopharmaceutical research companies in the United States. We are dedicated to advancing medical research and finding new treatments and cures.",
+    "keywords": ["phrma", "pharmaceutical", "biopharma", "medicine", "research", "usa", "innovation"],
+    "image": "https://www.phrma.org/images/phrma-logo-1200x630.png"
+  },
+  {
+    "title": "EFPIA",
+    "url": "https://www.efpia.eu",
+    "description": "EFPIA represents the pharmaceutical industry operating in Europe. Our mission is to create a collaborative environment that enables our members to innovate, discover new medicines and vaccines, and bring them to patients.",
+    "keywords": ["efpia", "pharmaceutical", "europe", "medicine", "innovation", "health", "industry"],
+    "image": "https://www.efpia.eu/images/efpia-logo-1200x630.png"
+  },
+  {
+    "title": "FDA",
+    "url": "https://www.fda.gov",
+    "description": "The FDA is responsible for protecting public health by ensuring the safety, efficacy, and security of human and veterinary drugs, biological products, and medical devices, and by ensuring the safety of our nation's food supply, cosmetics, and products that emit radiation.",
+    "keywords": ["fda", "food and drug administration", "usa", "regulation", "safety", "medicine", "health"],
+    "image": "https://www.fda.gov/images/fda-logo-1200x630.png"
+  },
+  {
+    "title": "EMA",
+    "url": "https://www.ema.europa.eu",
+    "description": "EMA is a decentralized agency of the European Union responsible for the scientific evaluation, supervision, and safety monitoring of medicines. We protect and promote public and animal health by ensuring that all medicines in the EU are safe, effective, and high-quality.",
+    "keywords": ["ema", "european medicines agency", "medicine", "regulation", "safety", "eu", "health"],
+    "image": "https://www.ema.europa.eu/images/ema-logo-1200x630.png"
+  },
+  {
+    "title": "MHRA",
+    "url": "https://www.gov.uk/mhra",
+    "description": "MHRA is the UK government agency responsible for ensuring that medicines and medical devices work and are acceptably safe. We regulate medicines, medical devices and blood components for transfusion in the UK.",
+    "keywords": ["mhra", "medicine", "regulation", "uk", "safety", "health", "medical devices"],
+    "image": "https://www.gov.uk/images/mhra-logo-1200x630.png"
+  },
+  {
+    "title": "CDC",
+    "url": "https://www.cdc.gov",
+    "description": "CDC is the national public health agency of the United States. We work 24/7 to protect America from health, safety and security threats, both foreign and in the U.S. Whether diseases start at home or abroad, are chronic or acute, curable or preventable, CDC fights disease and supports communities and citizens to do the same.",
+    "keywords": ["cdc", "centers for disease control", "public health", "usa", "disease", "prevention", "atlanta"],
+    "image": "https://www.cdc.gov/images/cdc-logo-1200x630.png"
+  },
+  {
+    "title": "NIH",
+    "url": "https://www.nih.gov",
+    "description": "NIH is the nation's medical research agency, making important discoveries that improve health and save lives. We are part of the U.S. Department of Health and Human Services and conduct and support biomedical research.",
+    "keywords": ["nih", "national institutes of health", "medical research", "usa", "science", "health", "bethesda"],
+    "image": "https://www.nih.gov/images/nih-logo-1200x630.png"
+  },
+  {
+    "title": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org",
+    "description": "Mayo Clinic is a nonprofit American academic medical center focused on integrated health care, education, and research. We provide expert, whole-person care to everyone who needs healing.",
+    "keywords": ["mayo clinic", "hospital", "medical", "health", "rochester", "minnesota", "healthcare"],
+    "image": "https://www.mayoclinic.org/images/mayo-logo-1200x630.png"
+  },
+  {
+    "title": "Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org",
+    "description": "Cleveland Clinic is a nonprofit multispecialty academic medical center that integrates clinical and hospital care with research and education. We are consistently named one of the nation's best hospitals.",
+    "keywords": ["cleveland clinic", "hospital", "medical", "health", "ohio", "healthcare", "heart"],
+    "image": "https://my.clevelandclinic.org/images/cleveland-logo-1200x630.png"
+  },
+  {
+    "title": "Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org",
+    "description": "Johns Hopkins Medicine is a leading health system and academic medical center in the United States. We bring together a renowned research university and a world-class health system to advance patient care, discovery, and education.",
+    "keywords": ["johns hopkins", "medicine", "hospital", "baltimore", "medical", "research", "healthcare"],
+    "image": "https://www.hopkinsmedicine.org/images/hopkins-logo-1200x630.png"
+  },
+  {
+    "title": "Mass General Brigham",
+    "url": "https://www.massgeneralbrigham.org",
+    "description": "Mass General Brigham is a not-for-profit integrated health care system in Boston, Massachusetts. We are committed to patient care, research, teaching, and service to the community.",
+    "keywords": ["mass general", "brigham", "hospital", "boston", "harvard", "medical", "healthcare"],
+    "image": "https://www.massgeneralbrigham.org/images/mgb-logo-1200x630.png"
+  },
+  {
+    "title": "Kaiser Permanente",
+    "url": "https://healthy.kaiserpermanente.org",
+    "description": "Kaiser Permanente is an American integrated managed care consortium based in Oakland, California. We provide care across 8 states and the District of Columbia, serving 12.5 million members.",
+    "keywords": ["kaiser", "permanente", "healthcare", "insurance", "california", "medical", "hmo"],
+    "image": "https://healthy.kaiserpermanente.org/images/kaiser-logo-1200x630.png"
+  },
+  {
+    "title": "UnitedHealth Group",
+    "url": "https://www.unitedhealthgroup.com",
+    "description": "UnitedHealth Group is a diversified health and well-being company dedicated to helping people live healthier lives and making health systems work better for everyone.",
+    "keywords": ["unitedhealth", "healthcare", "insurance", "minnesota", "health", "wellness", "optum"],
+    "image": "https://www.unitedhealthgroup.com/images/uhg-logo-1200x630.png"
+  },
+  {
+    "title": "CVS Health",
+    "url": "https://www.cvshealth.com",
+    "description": "CVS Health is a leading health solutions company, delivering care in ways no one else can. We are driven by a single purpose: helping people on their path to better health.",
+    "keywords": ["cvs", "pharmacy", "healthcare", "retail", "rhode island", "minuteclinic", "aetna"],
+    "image": "https://www.cvshealth.com/images/cvs-logo-1200x630.png"
+  },
+  {
+    "title": "Walgreens",
+    "url": "https://www.walgreens.com",
+    "description": "Walgreens is a trusted, neighborhood health and wellness destination. We provide convenient access to quality, affordable care through our pharmacies and healthcare services.",
+    "keywords": ["walgreens", "pharmacy", "drugstore", "healthcare", "illinois", "retail", "boots"],
+    "image": "https://www.walgreens.com/images/walgreens-logo-1200x630.png"
+  },
+  {
+    "title": "Rite Aid",
+    "url": "https://www.riteaid.com",
+    "description": "Rite Aid is a leading drugstore chain in the United States. We are focused on providing superior customer service and meeting the healthcare needs of our communities.",
+    "keywords": ["rite aid", "pharmacy", "drugstore", "healthcare", "pennsylvania", "retail"],
+    "image": "https://www.riteaid.com/images/riteaid-logo-1200x630.png"
+  },
+  {
+    "title": "Cigna",
+    "url": "https://www.cigna.com",
+    "description": "Cigna is a global health service company dedicated to helping people improve their health, well-being, and sense of security. We offer health insurance and related services.",
+    "keywords": ["cigna", "insurance", "healthcare", "connecticut", "wellness", "medical", "global"],
+    "image": "https://www.cigna.com/images/cigna-logo-1200x630.png"
+  },
+  {
+    "title": "Aetna",
+    "url": "https://www.aetna.com",
+    "description": "Aetna, a CVS Health company, offers health insurance and related benefits to employer, individual, and Medicare customers. We help people achieve their best health.",
+    "keywords": ["aetna", "insurance", "healthcare", "connecticut", "cvs", "medicare", "benefits"],
+    "image": "https://www.aetna.com/images/aetna-logo-1200x630.png"
+  },
+  {
+    "title": "Humana",
+    "url": "https://www.humana.com",
+    "description": "Humana is a leading health and well-being company focused on making it easy for people to achieve their best health. We offer a wide range of insurance products and health services.",
+    "keywords": ["humana", "insurance", "healthcare", "kentucky", "medicare", "wellness", "seniors"],
+    "image": "https://www.humana.com/images/humana-logo-1200x630.png"
+  },
+  {
+    "title": "Anthem",
+    "url": "https://www.anthem.com",
+    "description": "Anthem is a leading health benefits company dedicated to improving lives and communities, and making healthcare simpler. We serve over 40 million members across the United States.",
+    "keywords": ["anthem", "insurance", "healthcare", "indiana", "blue cross", "blue shield", "benefits"],
+    "image": "https://www.anthem.com/images/anthem-logo-1200x630.png"
+  },
+  {
+    "title": "Blue Cross Blue Shield",
+    "url": "https://www.bcbs.com",
+    "description": "Blue Cross Blue Shield Association is a federation of 35 separate United States health insurance companies that provide health insurance to more than 100 million people.",
+    "keywords": ["blue cross", "blue shield", "bcbs", "insurance", "healthcare", "usa", "association"],
+    "image": "https://www.bcbs.com/images/bcbs-logo-1200x630.png"
+  },
+  {
+    "title": "Medicare",
+    "url": "https://www.medicare.gov",
+    "description": "Medicare is the federal health insurance program for people who are 65 or older, certain younger people with disabilities, and people with End-Stage Renal Disease.",
+    "keywords": ["medicare", "health insurance", "seniors", "usa", "federal", "healthcare", "elderly"],
+    "image": "https://www.medicare.gov/images/medicare-logo-1200x630.png"
+  },
+  {
+    "title": "Medicaid",
+    "url": "https://www.medicaid.gov",
+    "description": "Medicaid provides health coverage to millions of Americans, including eligible low-income adults, children, pregnant women, elderly adults and people with disabilities.",
+    "keywords": ["medicaid", "health insurance", "low income", "usa", "federal", "healthcare", "coverage"],
+    "image": "https://www.medicaid.gov/images/medicaid-logo-1200x630.png"
+  },
+  {
+    "title": "WebMD",
+    "url": "https://www.webmd.com",
+    "description": "WebMD provides credible health information, supportive community, and educational services. We are a leading provider of health information services, serving consumers, physicians, and other healthcare professionals.",
+    "keywords": ["webmd", "health", "medical", "information", "symptoms", "doctor", "advice"],
+    "image": "https://www.webmd.com/images/webmd-logo-1200x630.png"
+  },
+  {
+    "title": "Healthline",
+    "url": "https://www.healthline.com",
+    "description": "Healthline is a leading health information platform dedicated to making the pursuit of health easier and more accessible for everyone. We provide expert advice, tools, and resources.",
+    "keywords": ["healthline", "health", "wellness", "medical", "information", "advice", "expert"],
+    "image": "https://www.healthline.com/images/healthline-logo-1200x630.png"
+  },
+  {
+    "title": "MedlinePlus",
+    "url": "https://medlineplus.gov",
+    "description": "MedlinePlus is an online health information resource from the National Library of Medicine. We provide trusted health information about diseases, conditions, and wellness issues.",
+    "keywords": ["medlineplus", "health", "nih", "national library medicine", "information", "diseases", "trusted"],
+    "image": "https://medlineplus.gov/images/medlineplus-logo-1200x630.png"
+  },
+  {
+    "title": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov",
+    "description": "PubMed is a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics. It is maintained by the National Library of Medicine.",
+    "keywords": ["pubmed", "medline", "research", "medical", "science", "nih", "database"],
+    "image": "https://pubmed.ncbi.nlm.nih.gov/images/pubmed-logo-1200x630.png"
+  },
+  {
     "title": "Harvard University",
     "url": "https://www.harvard.edu",
     "description": "Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.",
