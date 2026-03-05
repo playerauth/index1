@@ -1,5 +1,726 @@
 [
   {
+    "title": "National Football League",
+    "url": "https://www.nfl.com",
+    "description": "The official source for NFL news, video highlights, fantasy football, game-day coverage, schedules, stats, scores, and more.",
+    "keywords": ["nfl", "football", "sports", "american football", "super bowl", "nfl network", "nfl draft"],
+    "image": "https://www.nfl.com/images/nfl-logo-1200x630.png"
+  },
+  {
+    "title": "National Basketball Association",
+    "url": "https://www.nba.com",
+    "description": "The official site of the NBA. Get the latest NBA news, scores, stats, standings, fantasy games, and more.",
+    "keywords": ["nba", "basketball", "sports", "lebron james", "nba finals", "basketball news", "scores"],
+    "image": "https://www.nba.com/images/nba-logo-1200x630.png"
+  },
+  {
+    "title": "Major League Baseball",
+    "url": "https://www.mlb.com",
+    "description": "The official site of Major League Baseball. Get the latest MLB news, scores, stats, standings, fantasy games, and more.",
+    "keywords": ["mlb", "baseball", "sports", "world series", "baseball news", "scores", "baseball stats"],
+    "image": "https://www.mlb.com/images/mlb-logo-1200x630.png"
+  },
+  {
+    "title": "National Hockey League",
+    "url": "https://www.nhl.com",
+    "description": "The official site of the National Hockey League. Get the latest NHL news, scores, stats, standings, fantasy games, and more.",
+    "keywords": ["nhl", "hockey", "sports", "stanley cup", "hockey news", "scores", "hockey stats"],
+    "image": "https://www.nhl.com/images/nhl-logo-1200x630.png"
+  },
+  {
+    "title": "Major League Soccer",
+    "url": "https://www.mlssoccer.com",
+    "description": "The official site of Major League Soccer. Get the latest MLS news, scores, stats, standings, and more.",
+    "keywords": ["mls", "soccer", "football", "sports", "mls cup", "soccer news", "scores"],
+    "image": "https://www.mlssoccer.com/images/mls-logo-1200x630.png"
+  },
+  {
+    "title": "UEFA Champions League",
+    "url": "https://www.uefa.com/uefachampionsleague",
+    "description": "The official site of the UEFA Champions League. Get the latest news, scores, stats, and video highlights from Europe's premier club competition.",
+    "keywords": ["uefa champions league", "soccer", "football", "europe", "ucl", "champions league", "uefa"],
+    "image": "https://www.uefa.com/images/ucl-logo-1200x630.png"
+  },
+  {
+    "title": "FIFA",
+    "url": "https://www.fifa.com",
+    "description": "The official site of FIFA, the international governing body of football. Get the latest news from the World Cup and other FIFA competitions.",
+    "keywords": ["fifa", "soccer", "football", "world cup", "fifa world cup", "international football", "fifa rankings"],
+    "image": "https://www.fifa.com/images/fifa-logo-1200x630.png"
+  },
+  {
+    "title": "UEFA",
+    "url": "https://www.uefa.com",
+    "description": "The official site of UEFA, the Union of European Football Associations. Get the latest news from UEFA competitions including the Champions League and Europa League.",
+    "keywords": ["uefa", "soccer", "football", "europe", "champions league", "europa league", "european football"],
+    "image": "https://www.uefa.com/images/uefa-logo-1200x630.png"
+  },
+  {
+    "title": "Premier League",
+    "url": "https://www.premierleague.com",
+    "description": "The official site of the Premier League, the top tier of English football. Get the latest news, scores, stats, and video highlights.",
+    "keywords": ["premier league", "epl", "soccer", "football", "england", "english football", "premier league news"],
+    "image": "https://www.premierleague.com/images/epl-logo-1200x630.png"
+  },
+  {
+    "title": "La Liga",
+    "url": "https://www.laliga.com",
+    "description": "The official site of La Liga, the top tier of Spanish football. Get the latest news, scores, stats, and video highlights from Spain's premier competition.",
+    "keywords": ["la liga", "soccer", "football", "spain", "spanish football", "barcelona", "real madrid"],
+    "image": "https://www.laliga.com/images/laliga-logo-1200x630.png"
+  },
+  {
+    "title": "Bundesliga",
+    "url": "https://www.bundesliga.com",
+    "description": "The official site of the Bundesliga, the top tier of German football. Get the latest news, scores, stats, and video highlights.",
+    "keywords": ["bundesliga", "soccer", "football", "germany", "german football", "bayern munich", "dortmund"],
+    "image": "https://www.bundesliga.com/images/bundesliga-logo-1200x630.png"
+  },
+  {
+    "title": "Serie A",
+    "url": "https://www.legaseriea.it",
+    "description": "The official site of Serie A, the top tier of Italian football. Get the latest news, scores, stats, and video highlights from Italy's premier competition.",
+    "keywords": ["serie a", "soccer", "football", "italy", "italian football", "juventus", "ac milan"],
+    "image": "https://www.legaseriea.it/images/seriea-logo-1200x630.png"
+  },
+  {
+    "title": "Ligue 1",
+    "url": "https://www.ligue1.com",
+    "description": "The official site of Ligue 1, the top tier of French football. Get the latest news, scores, stats, and video highlights from France's premier competition.",
+    "keywords": ["ligue 1", "soccer", "football", "france", "french football", "psg", "olympique marseille"],
+    "image": "https://www.ligue1.com/images/ligue1-logo-1200x630.png"
+  },
+  {
+    "title": "ESPN",
+    "url": "https://www.espn.com",
+    "description": "ESPN is the world's leading sports network, delivering live scores, highlights, news, and analysis for NFL, NBA, MLB, NHL, college sports, and more.",
+    "keywords": ["espn", "sports", "news", "scores", "highlights", "sports center", "nfl", "nba", "mlb"],
+    "image": "https://www.espn.com/images/espn-logo-1200x630.png"
+  },
+  {
+    "title": "Fox Sports",
+    "url": "https://www.foxsports.com",
+    "description": "Fox Sports offers live scores, video highlights, news, and analysis for NFL, MLB, NBA, NHL, NASCAR, college sports, and more.",
+    "keywords": ["fox sports", "sports", "news", "scores", "nfl", "mlb", "nba", "nascar"],
+    "image": "https://www.foxsports.com/images/foxsports-logo-1200x630.png"
+  },
+  {
+    "title": "CBS Sports",
+    "url": "https://www.cbssports.com",
+    "description": "CBS Sports features live scoring, news, stats, and player info for NFL, MLB, NBA, NHL, college basketball, and golf.",
+    "keywords": ["cbs sports", "sports", "news", "scores", "nfl", "mlb", "nba", "ncaa"],
+    "image": "https://www.cbssports.com/images/cbssports-logo-1200x630.png"
+  },
+  {
+    "title": "NBC Sports",
+    "url": "https://www.nbcsports.com",
+    "description": "NBC Sports provides live coverage, news, highlights, and analysis for NFL, NHL, Premier League, golf, Olympics, and more.",
+    "keywords": ["nbc sports", "sports", "news", "scores", "nfl", "nhl", "premier league", "olympics"],
+    "image": "https://www.nbcsports.com/images/nbcsports-logo-1200x630.png"
+  },
+  {
+    "title": "Bleacher Report",
+    "url": "https://bleacherreport.com",
+    "description": "Bleacher Report is the digital destination for sports fans, delivering original content, news, analysis, and highlights across all major sports.",
+    "keywords": ["bleacher report", "br", "sports", "news", "analysis", "highlights", "takes"],
+    "image": "https://bleacherreport.com/images/br-logo-1200x630.png"
+  },
+  {
+    "title": "The Athletic",
+    "url": "https://theathletic.com",
+    "description": "The Athletic delivers deep, award-winning sports journalism and analysis from a team of expert writers covering local and national sports.",
+    "keywords": ["the athletic", "sports", "journalism", "analysis", "subscription", "sports news", "in-depth"],
+    "image": "https://theathletic.com/images/athletic-logo-1200x630.png"
+  },
+  {
+    "title": "Sports Illustrated",
+    "url": "https://www.si.com",
+    "description": "Sports Illustrated provides the latest sports news, in-depth features, analysis, and iconic photography covering all major sports.",
+    "keywords": ["sports illustrated", "si", "sports", "magazine", "news", "swimsuit issue", "sports journalism"],
+    "image": "https://www.si.com/images/si-logo-1200x630.png"
+  },
+  {
+    "title": "Nike",
+    "url": "https://www.nike.com",
+    "description": "Nike is the world's leading designer, marketer, and distributor of athletic footwear, apparel, equipment, and accessories for a wide variety of sports and fitness activities.",
+    "keywords": ["nike", "sneakers", "shoes", "apparel", "sportswear", "just do it", "air jordan"],
+    "image": "https://www.nike.com/images/nike-logo-1200x630.png"
+  },
+  {
+    "title": "Adidas",
+    "url": "https://www.adidas.com",
+    "description": "Adidas is a global leader in the sporting goods industry, offering a wide range of footwear, apparel, and accessories for athletes and lifestyle consumers.",
+    "keywords": ["adidas", "sneakers", "shoes", "apparel", "sportswear", "three stripes", "originals"],
+    "image": "https://www.adidas.com/images/adidas-logo-1200x630.png"
+  },
+  {
+    "title": "Puma",
+    "url": "https://us.puma.com",
+    "description": "Puma is a global sports brand that designs and develops footwear, apparel, and accessories for football, running, training, and lifestyle.",
+    "keywords": ["puma", "sneakers", "shoes", "apparel", "sportswear", "cat", "fenty"],
+    "image": "https://us.puma.com/images/puma-logo-1200x630.png"
+  },
+  {
+    "title": "Under Armour",
+    "url": "https://www.underarmour.com",
+    "description": "Under Armour is a leading performance apparel, footwear, and accessories brand for athletes around the world. We make you better.",
+    "keywords": ["under armour", "ua", "apparel", "footwear", "sportswear", "performance", "athletes"],
+    "image": "https://www.underarmour.com/images/ua-logo-1200x630.png"
+  },
+  {
+    "title": "New Balance",
+    "url": "https://www.newbalance.com",
+    "description": "New Balance is a global athletic footwear and apparel brand committed to helping athletes achieve their goals through innovative products and a dedication to craftsmanship.",
+    "keywords": ["new balance", "sneakers", "shoes", "apparel", "made in usa", "running shoes", "574"],
+    "image": "https://www.newbalance.com/images/nb-logo-1200x630.png"
+  },
+  {
+    "title": "Reebok",
+    "url": "https://www.reebok.com",
+    "description": "Reebok is a global athletic footwear and apparel brand focused on fitness and training, empowering people to be their best through innovative products.",
+    "keywords": ["reebok", "sneakers", "shoes", "apparel", "fitness", "crossfit", "classics"],
+    "image": "https://www.reebok.com/images/reebok-logo-1200x630.png"
+  },
+  {
+    "title": "Asics",
+    "url": "https://www.asics.com",
+    "description": "ASICS is a Japanese athletic equipment company that produces footwear and sports equipment designed for a wide range of sports, especially running.",
+    "keywords": ["asics", "running shoes", "sneakers", "footwear", "japan", "gel", "sportstyle"],
+    "image": "https://www.asics.com/images/asics-logo-1200x630.png"
+  },
+  {
+    "title": "Brooks Running",
+    "url": "https://www.brooksrunning.com",
+    "description": "Brooks is a leading high-performance running brand dedicated to creating the best run experience possible with innovative footwear, apparel, and accessories.",
+    "keywords": ["brooks", "running shoes", "running", "footwear", "apparel", "run happy", "running gear"],
+    "image": "https://www.brooksrunning.com/images/brooks-logo-1200x630.png"
+  },
+  {
+    "title": "Saucony",
+    "url": "https://www.saucony.com",
+    "description": "Saucony is a leading running shoe and apparel brand for runners of all levels, dedicated to creating products that help people find their strong.",
+    "keywords": ["saucony", "running shoes", "running", "footwear", "apparel", "endorphin", "kinvara"],
+    "image": "https://www.saucony.com/images/saucony-logo-1200x630.png"
+  },
+  {
+    "title": "Hoka One One",
+    "url": "https://www.hoka.com",
+    "description": "Hoka One One is a performance footwear brand known for its oversized midsoles and maximum cushioning, designed for runners and outdoor enthusiasts.",
+    "keywords": ["hoka", "hoka one one", "running shoes", "max cushion", "footwear", "trail running", "bondi"],
+    "image": "https://www.hoka.com/images/hoka-logo-1200x630.png"
+  },
+  {
+    "title": "ON Running",
+    "url": "https://www.on-running.com",
+    "description": "ON is a Swiss performance running brand known for its revolutionary CloudTec cushioning system and innovative design.",
+    "keywords": ["on running", "on shoes", "running shoes", "swiss", "cloudtec", "footwear", "cloud"],
+    "image": "https://www.on-running.com/images/on-logo-1200x630.png"
+  },
+  {
+    "title": "Lululemon",
+    "url": "https://shop.lululemon.com",
+    "description": "lululemon is a technical athletic apparel company for yoga, running, training, and other sweaty pursuits. We create products that help people feel good and perform their best.",
+    "keywords": ["lululemon", "yoga pants", "athleisure", "apparel", "activewear", "canada", "align"],
+    "image": "https://shop.lululemon.com/images/lululemon-logo-1200x630.png"
+  },
+  {
+    "title": "Athleta",
+    "url": "https://athleta.gap.com",
+    "description": "Athleta is a performance apparel brand for women, offering stylish and functional activewear for running, yoga, travel, and everyday life.",
+    "keywords": ["athleta", "women's activewear", "yoga clothes", "apparel", "gap inc", "fitness", "sustainable"],
+    "image": "https://athleta.gap.com/images/athleta-logo-1200x630.png"
+  },
+  {
+    "title": "Fabletics",
+    "url": "https://www.fabletics.com",
+    "description": "Fabletics is a fitness apparel and lifestyle brand co-founded by Kate Hudson, offering stylish and affordable activewear through a membership model.",
+    "keywords": ["fabletics", "activewear", "athleisure", "kate hudson", "subscription", "workout clothes", "leggings"],
+    "image": "https://www.fabletics.com/images/fabletics-logo-1200x630.png"
+  },
+  {
+    "title": "Gymshark",
+    "url": "https://www.gymshark.com",
+    "description": "Gymshark is a fitness apparel and accessories brand, designed for athletes and the everyday gym-goer. We create innovative, high-quality products.",
+    "keywords": ["gymshark", "fitness apparel", "activewear", "uk", "gym clothes", "workout gear", "athletes"],
+    "image": "https://www.gymshark.com/images/gymshark-logo-1200x630.png"
+  },
+  {
+    "title": "Alo Yoga",
+    "url": "https://www.aloyoga.com",
+    "description": "Alo Yoga is a premium yoga and activewear brand committed to creating the highest quality apparel to inspire yogis and fitness enthusiasts.",
+    "keywords": ["alo yoga", "yoga wear", "activewear", "los angeles", "yoga pants", "wellness", "spirituality"],
+    "image": "https://www.aloyoga.com/images/alo-logo-1200x630.png"
+  },
+  {
+    "title": "Beyond Yoga",
+    "url": "https://www.beyondyoga.com",
+    "description": "Beyond Yoga is a women's activewear brand creating buttery-soft leggings, sports bras, and lounge wear designed for yoga and everyday comfort.",
+    "keywords": ["beyond yoga", "activewear", "yoga wear", "leggings", "women's apparel", "comfort", "loungewear"],
+    "image": "https://www.beyondyoga.com/images/beyondyoga-logo-1200x630.png"
+  },
+  {
+    "title": "Outdoor Voices",
+    "url": "https://www.outdoorvoices.com",
+    "description": "Outdoor Voices is an activewear brand that encourages people to get moving and have fun with recreational activities. Doing Things is better with others.",
+    "keywords": ["outdoor voices", "activewear", "recreation", "doing things", "athleisure", "texas", "rec"],
+    "image": "https://www.outdoorvoices.com/images/ov-logo-1200x630.png"
+  },
+  {
+    "title": "Vuori",
+    "url": "https://vuoriclothing.com",
+    "description": "Vuori is a California-inspired activewear brand blending performance technology with athletic comfort to create clothing for training, yoga, and life.",
+    "keywords": ["vuori", "activewear", "california", "yoga wear", "mens apparel", "womens apparel", "performance"],
+    "image": "https://vuoriclothing.com/images/vuori-logo-1200x630.png"
+  },
+  {
+    "title": "Rhone",
+    "url": "https://www.rhone.com",
+    "description": "Rhone is a premium men's performance apparel brand creating clothing that fuels champions. Engineered for fitness and designed for life.",
+    "keywords": ["rhone", "mens activewear", "performance apparel", "fitness clothing", "gym wear", "mens fashion", "premium"],
+    "image": "https://www.rhone.com/images/rhone-logo-1200x630.png"
+  },
+  {
+    "title": "Ten Thousand",
+    "url": "https://www.tenthousand.cc",
+    "description": "Ten Thousand is a men's training apparel brand that makes durable, high-performance gear for the hardest workouts. Our clothing is designed by athletes, for athletes.",
+    "keywords": ["ten thousand", "mens activewear", "training gear", "workout clothes", "performance", "durable", "gym wear"],
+    "image": "https://www.tenthousand.cc/images/tenthousand-logo-1200x630.png"
+  },
+  {
+    "title": "Public Rec",
+    "url": "https://publicrec.com",
+    "description": "Public Rec makes all-day apparel that works as hard as you do. Our clothing combines the comfort of loungewear with the durability of performance wear.",
+    "keywords": ["public rec", "activewear", "all day apparel", "comfort", "performance", "mens clothing", "womens clothing"],
+    "image": "https://publicrec.com/images/publicrec-logo-1200x630.png"
+  },
+  {
+    "title": "The North Face",
+    "url": "https://www.thenorthface.com",
+    "description": "The North Face is a premier outdoor brand creating authentic, innovative, and technically advanced products for explorers, climbers, and adventurers.",
+    "keywords": ["north face", "outdoor gear", "hiking", "camping", "jackets", "backpacks", "exploration"],
+    "image": "https://www.thenorthface.com/images/tnf-logo-1200x630.png"
+  },
+  {
+    "title": "Patagonia",
+    "url": "https://www.patagonia.com",
+    "description": "Patagonia is an outdoor clothing and gear company dedicated to building the best products, causing no unnecessary harm, and using business to inspire solutions to the environmental crisis.",
+    "keywords": ["patagonia", "outdoor clothing", "sustainable", "environmental", "climbing", "activism", "1% for the planet"],
+    "image": "https://www.patagonia.com/images/patagonia-logo-1200x630.png"
+  },
+  {
+    "title": "Columbia Sportswear",
+    "url": "https://www.columbia.com",
+    "description": "Columbia Sportswear is a global outdoor brand that designs, sources, markets, and distributes active outdoor apparel, footwear, accessories, and equipment.",
+    "keywords": ["columbia", "sportswear", "outdoor gear", "hiking", "jackets", "fleece", "oregon"],
+    "image": "https://www.columbia.com/images/columbia-logo-1200x630.png"
+  },
+  {
+    "title": "Marmot",
+    "url": "https://www.marmot.com",
+    "description": "Marmot is a leading outdoor gear and clothing brand, creating innovative products for climbers, skiers, and outdoor enthusiasts since 1974.",
+    "keywords": ["marmot", "outdoor gear", "sleeping bags", "jackets", "tents", "climbing", "skiing"],
+    "image": "https://www.marmot.com/images/marmot-logo-1200x630.png"
+  },
+  {
+    "title": "Mountain Hardwear",
+    "url": "https://www.mountainhardwear.com",
+    "description": "Mountain Hardwear designs and manufactures high-performance outdoor equipment and apparel for extreme conditions and alpine climbing.",
+    "keywords": ["mountain hardwear", "outdoor gear", "mountaineering", "tents", "jackets", "technical apparel", "alpine"],
+    "image": "https://www.mountainhardwear.com/images/mh-logo-1200x630.png"
+  },
+  {
+    "title": "Black Diamond",
+    "url": "https://www.blackdiamondequipment.com",
+    "description": "Black Diamond Equipment is a manufacturer of climbing, skiing, and outdoor equipment, including carabiners, cams, headlamps, trekking poles, and apparel.",
+    "keywords": ["black diamond", "climbing gear", "outdoor equipment", "carabiners", "headlamps", "skiing", "cams"],
+    "image": "https://www.blackdiamondequipment.com/images/bd-logo-1200x630.png"
+  },
+  {
+    "title": "Petzl",
+    "url": "https://www.petzl.com",
+    "description": "Petzl is a French company that designs and manufactures equipment for climbing, caving, work at height, and headlamps, known for innovation and safety.",
+    "keywords": ["petzl", "climbing gear", "headlamps", "caving", "work at height", "france", "safety"],
+    "image": "https://www.petzl.com/images/petzl-logo-1200x630.png"
+  },
+  {
+    "title": "Arc'teryx",
+    "url": "https://www.arcteryx.com",
+    "description": "Arc'teryx is a Canadian outdoor clothing and equipment company specializing in technical apparel for climbing, mountaineering, and alpine sports.",
+    "keywords": ["arcteryx", "outdoor gear", "technical apparel", "canada", "climbing", "jackets", "alpine"],
+    "image": "https://www.arcteryx.com/images/arcteryx-logo-1200x630.png"
+  },
+  {
+    "title": "Rab",
+    "url": "https://rab.equipment",
+    "description": "Rab is a British mountaineering equipment and clothing brand, known for high-quality down jackets, sleeping bags, and technical outerwear.",
+    "keywords": ["rab", "mountaineering", "down jackets", "sleeping bags", "uk", "technical outerwear", "alpine"],
+    "image": "https://rab.equipment/images/rab-logo-1200x630.png"
+  },
+  {
+    "title": "Mammut",
+    "url": "https://www.mammut.com",
+    "description": "Mammut is a Swiss outdoor company that produces high-quality climbing gear, clothing, and equipment for mountain sports and outdoor adventures.",
+    "keywords": ["mammut", "swiss", "outdoor gear", "climbing", "rope", "avalanche safety", "alpine"],
+    "image": "https://www.mammut.com/images/mammut-logo-1200x630.png"
+  },
+  {
+    "title": "Salomon",
+    "url": "https://www.salomon.com",
+    "description": "Salomon is a French sports equipment company specializing in trail running, hiking, skiing, and outdoor apparel and footwear.",
+    "keywords": ["salomon", "trail running", "hiking boots", "skis", "outdoor footwear", "france", "speedcross"],
+    "image": "https://www.salomon.com/images/salomon-logo-1200x630.png"
+  },
+  {
+    "title": "Merrell",
+    "url": "https://www.merrell.com",
+    "description": "Merrell is a leading footwear and outdoor gear brand, known for comfortable and durable hiking boots, shoes, and sandals for outdoor adventures.",
+    "keywords": ["merrell", "hiking boots", "outdoor footwear", "shoes", "sandals", "trail", "moab"],
+    "image": "https://www.merrell.com/images/merrell-logo-1200x630.png"
+  },
+  {
+    "title": "Keen",
+    "url": "https://www.keenfootwear.com",
+    "description": "Keen is a footwear and accessory brand known for its distinctive sandals with protective toe bumpers, as well as hiking shoes and boots.",
+    "keywords": ["keen", "sandals", "hiking shoes", "newport", "outdoor footwear", "portland", "protective toe"],
+    "image": "https://www.keenfootwear.com/images/keen-logo-1200x630.png"
+  },
+  {
+    "title": "Teva",
+    "url": "https://www.teva.com",
+    "description": "Teva is a footwear brand famous for its sport sandals, originally designed for river guides, now a staple of outdoor and casual wear.",
+    "keywords": ["teva", "sandals", "sport sandals", "outdoor footwear", "universal", "river", "adventure"],
+    "image": "https://www.teva.com/images/teva-logo-1200x630.png"
+  },
+  {
+    "title": "Chaco",
+    "url": "https://www.chacos.com",
+    "description": "Chaco is a footwear brand known for its durable, adjustable sandals with contoured footbeds, popular among outdoor enthusiasts and river runners.",
+    "keywords": ["chaco", "sandals", "outdoor footwear", "z sandals", "adjustable straps", "footbed", "river"],
+    "image": "https://www.chacos.com/images/chaco-logo-1200x630.png"
+  },
+  {
+    "title": "Crocs",
+    "url": "https://www.crocs.com",
+    "description": "Crocs is a footwear company known for its iconic clogs made from a proprietary foam resin called Croslite, offering comfort and casual style.",
+    "keywords": ["crocs", "clogs", "footwear", "comfortable shoes", "croslite", "jibbitz", "casual shoes"],
+    "image": "https://www.crocs.com/images/crocs-logo-1200x630.png"
+  },
+  {
+    "title": "Birkenstock",
+    "url": "https://www.birkenstock.com",
+    "description": "Birkenstock is a German footwear brand known for its contoured footbed sandals and shoes, combining comfort, support, and timeless design.",
+    "keywords": ["birkenstock", "sandals", "footbed", "germany", "arizona", "boston", "comfort shoes"],
+    "image": "https://www.birkenstock.com/images/birkenstock-logo-1200x630.png"
+  },
+  {
+    "title": "Dr. Martens",
+    "url": "https://www.drmartens.com",
+    "description": "Dr. Martens is a British footwear brand known for its durable, distinctive boots with air-cushioned soles, yellow stitching, and iconic style.",
+    "keywords": ["dr martens", "dms", "boots", "1460", "airwair", "uk", "combat boots"],
+    "image": "https://www.drmartens.com/images/dm-logo-1200x630.png"
+  },
+  {
+    "title": "Timberland",
+    "url": "https://www.timberland.com",
+    "description": "Timberland is a global outdoor lifestyle brand best known for its iconic yellow work boots, as well as apparel and accessories for outdoor enthusiasts.",
+    "keywords": ["timberland", "boots", "yellow boots", "work boots", "outdoor apparel", "new hampshire", "tree logo"],
+    "image": "https://www.timberland.com/images/timberland-logo-1200x630.png"
+  },
+  {
+    "title": "Red Wing Shoes",
+    "url": "https://www.redwingshoes.com",
+    "description": "Red Wing Shoes is an American footwear company known for its durable work boots, heritage boots, and safety footwear since 1905.",
+    "keywords": ["red wing", "work boots", "heritage boots", "iron ranger", "minnesota", "safety footwear", "usa"],
+    "image": "https://www.redwingshoes.com/images/redwing-logo-1200x630.png"
+  },
+  {
+    "title": "Wolverine",
+    "url": "https://www.wolverine.com",
+    "description": "Wolverine is a brand of durable work boots and shoes, part of Wolverine World Wide, known for comfort and performance on the job.",
+    "keywords": ["wolverine", "work boots", "safety toe", "workwear", "boots", "footwear", "durable"],
+    "image": "https://www.wolverine.com/images/wolverine-logo-1200x630.png"
+  },
+  {
+    "title": "Caterpillar",
+    "url": "https://www.catfootwear.com",
+    "description": "CAT footwear offers rugged work boots and shoes designed for durability and comfort, inspired by Caterpillar heavy equipment and industrial heritage.",
+    "keywords": ["caterpillar", "cat", "work boots", "footwear", "industrial", "construction boots", "safety"],
+    "image": "https://www.catfootwear.com/images/cat-logo-1200x630.png"
+  },
+  {
+    "title": "Carhartt",
+    "url": "https://www.carhartt.com",
+    "description": "Carhartt is an American workwear brand known for its durable jackets, overalls, pants, and clothing for workers and outdoor enthusiasts since 1889.",
+    "keywords": ["carhartt", "workwear", "jackets", "overalls", "detroit jacket", "durable", "usa"],
+    "image": "https://www.carhartt.com/images/carhartt-logo-1200x630.png"
+  },
+  {
+    "title": "Dickies",
+    "url": "https://www.dickies.com",
+    "description": "Dickies is a workwear and clothing brand known for its durable work pants, coveralls, and uniforms, popular with tradespeople and fashion enthusiasts alike.",
+    "keywords": ["dickies", "workwear", "work pants", "coveralls", "uniforms", "texas", "durable"],
+    "image": "https://www.dickies.com/images/dickies-logo-1200x630.png"
+  },
+  {
+    "title": "Duluth Trading",
+    "url": "https://www.duluthtrading.com",
+    "description": "Duluth Trading Company offers men's and women's workwear, casual clothing, and gear designed for functionality, durability, and comfort.",
+    "keywords": ["duluth trading", "workwear", "clothing", "longtail t", "flex pedals", "wisconsin", "functional"],
+    "image": "https://www.duluthtrading.com/images/duluth-logo-1200x630.png"
+  },
+  {
+    "title": "Levi's",
+    "url": "https://www.levi.com",
+    "description": "Levi Strauss & Co. is an American clothing company known worldwide for its Levi's brand of denim jeans, founded in San Francisco in 1853.",
+    "keywords": ["levis", "jeans", "denim", "501", "levi strauss", "clothing", "san francisco"],
+    "image": "https://www.levi.com/images/levis-logo-1200x630.png"
+  },
+  {
+    "title": "Wrangler",
+    "url": "https://www.wrangler.com",
+    "description": "Wrangler is an American brand of jeans and western wear, known for its durable denim and authentic cowboy style.",
+    "keywords": ["wrangler", "jeans", "denim", "western wear", "cowboy", "america", "ranch"],
+    "image": "https://www.wrangler.com/images/wrangler-logo-1200x630.png"
+  },
+  {
+    "title": "Lee",
+    "url": "https://www.lee.com",
+    "description": "Lee is an American denim brand known for its jeans and casual apparel, offering classic styles with modern comfort since 1889.",
+    "keywords": ["lee", "jeans", "denim", "casual wear", "kansas", "union made", "riders"],
+    "image": "https://www.lee.com/images/lee-logo-1200x630.png"
+  },
+  {
+    "title": "Gap",
+    "url": "https://www.gap.com",
+    "description": "Gap is an American clothing and accessories retailer offering modern, casual styles for men, women, and children, founded in San Francisco in 1969.",
+    "keywords": ["gap", "clothing", "casual wear", "jeans", "khakis", "san francisco", "retail"],
+    "image": "https://www.gap.com/images/gap-logo-1200x630.png"
+  },
+  {
+    "title": "Old Navy",
+    "url": "https://oldnavy.gap.com",
+    "description": "Old Navy is a American clothing brand offering fun, fashionable, and affordable apparel for the whole family, part of Gap Inc.",
+    "keywords": ["old navy", "clothing", "affordable fashion", "family clothing", "gap inc", "activewear", "denim"],
+    "image": "https://oldnavy.gap.com/images/oldnavy-logo-1200x630.png"
+  },
+  {
+    "title": "Banana Republic",
+    "url": "https://bananarepublic.gap.com",
+    "description": "Banana Republic is an American upscale clothing brand offering sophisticated, modern essentials and luxury-inspired styles for men and women.",
+    "keywords": ["banana republic", "clothing", "luxury fashion", "sophisticated", "modern essentials", "gap inc", "professional wear"],
+    "image": "https://bananarepublic.gap.com/images/br-logo-1200x630.png"
+  },
+  {
+    "title": "J.Crew",
+    "url": "https://www.jcrew.com",
+    "description": "J.Crew is an American retailer offering classic, preppy, and stylish clothing, accessories, and shoes for men, women, and children.",
+    "keywords": ["j crew", "clothing", "preppy style", "classic fashion", "new york", "catalog", "madewell"],
+    "image": "https://www.jcrew.com/images/jcrew-logo-1200x630.png"
+  },
+  {
+    "title": "Madewell",
+    "url": "https://www.madewell.com",
+    "description": "Madewell is an American brand offering denim, clothing, and accessories with a focus on quality, fit, and effortless style, part of the J.Crew group.",
+    "keywords": ["madewell", "denim", "jeans", "clothing", "accessories", "j crew", "effortless style"],
+    "image": "https://www.madewell.com/images/madewell-logo-1200x630.png"
+  },
+  {
+    "title": "American Eagle",
+    "url": "https://www.ae.com",
+    "description": "American Eagle Outfitters is a lifestyle brand offering casual clothing, accessories, and jeans for young adults, known for its inclusive marketing.",
+    "keywords": ["american eagle", "ae", "jeans", "clothing", "youth fashion", "pittsburgh", "aerie"],
+    "image": "https://www.ae.com/images/ae-logo-1200x630.png"
+  },
+  {
+    "title": "Aerie",
+    "url": "https://www.ae.com/aerie",
+    "description": "Aerie is an American lingerie and apparel brand, a sub-brand of American Eagle Outfitters, known for its body-positive campaigns and comfortable intimates.",
+    "keywords": ["aerie", "lingerie", "intimates", "body positive", "real", "american eagle", "loungewear"],
+    "image": "https://www.ae.com/aerie/images/aerie-logo-1200x630.png"
+  },
+  {
+    "title": "Victoria's Secret",
+    "url": "https://www.victoriassecret.com",
+    "description": "Victoria's Secret is an American lingerie, clothing, and beauty retailer known for its fashion shows, supermodels, and feminine styles.",
+    "keywords": ["victoria's secret", "vs", "lingerie", "bras", "pink", "fashion show", "angels"],
+    "image": "https://www.victoriassecret.com/images/vs-logo-1200x630.png"
+  },
+  {
+    "title": "Pink",
+    "url": "https://www.victoriassecret.com/pink",
+    "description": "Pink is a brand by Victoria's Secret offering casual clothing, loungewear, and intimates for younger women, known for its collegiate aesthetic.",
+    "keywords": ["pink", "victoria's secret", "loungewear", "collegiate", "campus", "comfort", "young women"],
+    "image": "https://www.victoriassecret.com/pink/images/pink-logo-1200x630.png"
+  },
+  {
+    "title": "H&M",
+    "url": "https://www2.hm.com",
+    "description": "H&M is a Swedish multinational clothing retailer known for its fast fashion clothing for men, women, teenagers, and children, offering trendy styles at affordable prices.",
+    "keywords": ["hm", "h&m", "fast fashion", "clothing", "sweden", "affordable fashion", "trendy"],
+    "image": "https://www2.hm.com/images/hm-logo-1200x630.png"
+  },
+  {
+    "title": "Zara",
+    "url": "https://www.zara.com",
+    "description": "Zara is a Spanish fast fashion retailer, the flagship brand of the Inditex group, known for its quick turnaround of new styles and designer-inspired clothing.",
+    "keywords": ["zara", "fast fashion", "clothing", "spain", "inditex", "trendy", "affordable luxury"],
+    "image": "https://www.zara.com/images/zara-logo-1200x630.png"
+  },
+  {
+    "title": "Uniqlo",
+    "url": "https://www.uniqlo.com",
+    "description": "Uniqlo is a Japanese casual wear designer, manufacturer, and retailer, known for its high-quality, simple, and affordable basics and innovative fabrics.",
+    "keywords": ["uniqlo", "japan", "fast retailing", "basics", "heattech", "airism", "minimalist"],
+    "image": "https://www.uniqlo.com/images/uniqlo-logo-1200x630.png"
+  },
+  {
+    "title": "Muji",
+    "url": "https://www.muji.com",
+    "description": "Muji is a Japanese retail company offering a wide variety of household and consumer goods, including clothing, stationery, and home products, known for its minimalist, no-brand philosophy.",
+    "keywords": ["muji", "japan", "minimalist", "no brand", "household goods", "stationery", "clothing"],
+    "image": "https://www.muji.com/images/muji-logo-1200x630.png"
+  },
+  {
+    "title": "Gucci",
+    "url": "https://www.gucci.com",
+    "description": "Gucci is an Italian luxury fashion house known for its high-end clothing, leather goods, shoes, and accessories, one of the most iconic brands in the world.",
+    "keywords": ["gucci", "luxury", "fashion", "italy", "designer", "handbags", "alessandro michele"],
+    "image": "https://www.gucci.com/images/gucci-logo-1200x630.png"
+  },
+  {
+    "title": "Prada",
+    "url": "https://www.prada.com",
+    "description": "Prada is an Italian luxury fashion house specializing in leather handbags, travel accessories, shoes, perfumes, and ready-to-wear clothing, known for its sophisticated and minimalist designs.",
+    "keywords": ["prada", "luxury", "fashion", "italy", "handbags", "nylon", "minimalist"],
+    "image": "https://www.prada.com/images/prada-logo-1200x630.png"
+  },
+  {
+    "title": "Louis Vuitton",
+    "url": "https://us.louisvuitton.com",
+    "description": "Louis Vuitton is a French luxury fashion house and company, known for its monogrammed leather goods, trunks, handbags, and ready-to-wear clothing, part of the LVMH group.",
+    "keywords": ["louis vuitton", "lv", "luxury", "fashion", "france", "lvmh", "handbags", "monogram"],
+    "image": "https://us.louisvuitton.com/images/lv-logo-1200x630.png"
+  },
+  {
+    "title": "Hermès",
+    "url": "https://www.hermes.com",
+    "description": "Hermès is a French luxury goods manufacturer specializing in leather goods, lifestyle accessories, perfumes, and ready-to-wear, known for its Birkin and Kelly bags.",
+    "keywords": ["hermes", "luxury", "france", "birkin", "kelly", "scarves", "leather goods"],
+    "image": "https://www.hermes.com/images/hermes-logo-1200x630.png"
+  },
+  {
+    "title": "Chanel",
+    "url": "https://www.chanel.com",
+    "description": "Chanel is a French luxury fashion house founded by Coco Chanel, known for its haute couture, ready-to-wear, handbags, perfumes, and the iconic little black dress and Chanel suit.",
+    "keywords": ["chanel", "luxury", "fashion", "france", "coco chanel", "no5", "handbags", "tweed"],
+    "image": "https://www.chanel.com/images/chanel-logo-1200x630.png"
+  },
+  {
+    "title": "Dior",
+    "url": "https://www.dior.com",
+    "description": "Christian Dior is a French luxury goods company controlled and chaired by Bernard Arnault of the LVMH group, known for its haute couture, fragrances, and accessories.",
+    "keywords": ["dior", "christian dior", "luxury", "fashion", "france", "lvmh", "couture", "j'adore"],
+    "image": "https://www.dior.com/images/dior-logo-1200x630.png"
+  },
+  {
+    "title": "Versace",
+    "url": "https://www.versace.com",
+    "description": "Versace is an Italian luxury fashion company founded by Gianni Versace, known for its bold prints, Medusa logo, and glamorous designs.",
+    "keywords": ["versace", "luxury", "fashion", "italy", "gianni versace", "medusa", "baroque"],
+    "image": "https://www.versace.com/images/versace-logo-1200x630.png"
+  },
+  {
+    "title": "Armani",
+    "url": "https://www.armani.com",
+    "description": "Giorgio Armani is an Italian fashion house known for its men's tailoring, luxury clothing, and accessories, offering a range of brands from haute couture to more accessible lines.",
+    "keywords": ["armani", "giorgio armani", "luxury", "fashion", "italy", "tailoring", "suits"],
+    "image": "https://www.armani.com/images/armani-logo-1200x630.png"
+  },
+  {
+    "title": "Dolce & Gabbana",
+    "url": "https://www.dolcegabbana.com",
+    "description": "Dolce & Gabbana is an Italian luxury fashion house founded by Domenico Dolce and Stefano Gabbana, known for its sensual, Sicilian-inspired designs.",
+    "keywords": ["dolce gabbana", "dg", "luxury", "fashion", "italy", "sicily", "baroque", "alta moda"],
+    "image": "https://www.dolcegabbana.com/images/dg-logo-1200x630.png"
+  },
+  {
+    "title": "Fendi",
+    "url": "https://www.fendi.com",
+    "description": "Fendi is an Italian luxury fashion house known for its fur, leather goods, and ready-to-wear, part of the LVMH group, famous for the Baguette bag and Peekaboo bag.",
+    "keywords": ["fendi", "luxury", "fashion", "italy", "lvmh", "fur", "baguette", "peekaboo"],
+    "image": "https://www.fendi.com/images/fendi-logo-1200x630.png"
+  },
+  {
+    "title": "Balenciaga",
+    "url": "https://www.balenciaga.com",
+    "description": "Balenciaga is a Spanish luxury fashion house founded by Cristóbal Balenciaga, now part of the Kering group, known for its avant-garde designs and streetwear-inspired styles.",
+    "keywords": ["balenciaga", "luxury", "fashion", "spain", "france", "kering", "demna", "triple s"],
+    "image": "https://www.balenciaga.com/images/balenciaga-logo-1200x630.png"
+  },
+  {
+    "title": "Saint Laurent",
+    "url": "https://www.ysl.com",
+    "description": "Yves Saint Laurent is a French luxury fashion house founded by Yves Saint Laurent and his partner Pierre Bergé, known for its iconic tuxedo jacket for women and ready-to-wear, part of the Kering group.",
+    "keywords": ["saint laurent", "ysl", "yves saint laurent", "luxury", "fashion", "france", "kering", "tuxedo"],
+    "image": "https://www.ysl.com/images/ysl-logo-1200x630.png"
+  },
+  {
+    "title": "Burberry",
+    "url": "https://us.burberry.com",
+    "description": "Burberry is a British luxury fashion house known for its distinctive tartan pattern, trench coats, and ready-to-wear clothing, accessories, and fragrances.",
+    "keywords": ["burberry", "luxury", "fashion", "uk", "trench coat", "tartan", "check", "london"],
+    "image": "https://us.burberry.com/images/burberry-logo-1200x630.png"
+  },
+  {
+    "title": "Ralph Lauren",
+    "url": "https://www.ralphlauren.com",
+    "description": "Ralph Lauren is an American fashion company known for its classic, preppy style, offering a range of products from luxury clothing to home furnishings and fragrances.",
+    "keywords": ["ralph lauren", "polo", "fashion", "preppy", "usa", "polo shirt", "american style"],
+    "image": "https://www.ralphlauren.com/images/rl-logo-1200x630.png"
+  },
+  {
+    "title": "Tommy Hilfiger",
+    "url": "https://usa.tommy.com",
+    "description": "Tommy Hilfiger is an American fashion brand known for its classic, preppy style with a modern twist, offering clothing, footwear, and accessories for men, women, and children.",
+    "keywords": ["tommy hilfiger", "fashion", "preppy", "usa", "american flag", "logo", "casual wear"],
+    "image": "https://usa.tommy.com/images/tommy-logo-1200x630.png"
+  },
+  {
+    "title": "Calvin Klein",
+    "url": "https://www.calvinklein.us",
+    "description": "Calvin Klein is an American fashion house known for its minimalist, modern aesthetic, offering designer clothing, underwear, fragrances, and accessories.",
+    "keywords": ["calvin klein", "ck", "fashion", "minimalist", "underwear", "jeans", "fragrance"],
+    "image": "https://www.calvinklein.us/images/ck-logo-1200x630.png"
+  },
+  {
+    "title": "Hugo Boss",
+    "url": "https://www.hugoboss.com",
+    "description": "Hugo Boss is a German luxury fashion house known for its sophisticated suits, tailored clothing, and modern apparel for men and women.",
+    "keywords": ["hugo boss", "boss", "fashion", "germany", "suits", "tailored", "modern"],
+    "image": "https://www.hugoboss.com/images/hugoboss-logo-1200x630.png"
+  },
+  {
+    "title": "Brooks Brothers",
+    "url": "https://www.brooksbrothers.com",
+    "description": "Brooks Brothers is an American clothing brand, the oldest clothing retailer in the United States, known for its classic, traditional menswear and suits.",
+    "keywords": ["brooks brothers", "menswear", "suits", "classic", "traditional", "usa", "oxford shirt"],
+    "image": "https://www.brooksbrothers.com/images/bb-logo-1200x630.png"
+  },
+  {
+    "title": "Jos. A. Bank",
+    "url": "https://www.josbank.com",
+    "description": "Jos. A. Bank is an American menswear retailer known for its suits, dress shirts, and tailored clothing, offering classic styles at accessible prices.",
+    "keywords": ["jos a bank", "menswear", "suits", "dress shirts", "tailored", "classic", "professional"],
+    "image": "https://www.josbank.com/images/josbank-logo-1200x630.png"
+  },
+  {
+    "title": "Men's Wearhouse",
+    "url": "https://www.menswearhouse.com",
+    "description": "Men's Wearhouse is an American men's clothing retailer offering suits, formal wear, and casual clothing, known for its tuxedo rentals and tailoring services.",
+    "keywords": ["mens wearhouse", "suits", "tuxedo rental", "menswear", "formal wear", "tailoring", "wedding"],
+    "image": "https://www.menswearhouse.com/images/mw-logo-1200x630.png"
+  },
+  {
     "title": "McKinsey & Company",
     "url": "https://www.mckinsey.com",
     "description": "McKinsey is a global management consulting firm committed to helping organizations create Change that Matters. We work with leaders across private, public, and social sectors to solve their most important challenges.",
